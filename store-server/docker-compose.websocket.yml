@@ -1,0 +1,21 @@
+---
+version: "2"
+
+services:
+  websocket:
+    image: registry.cn-shenzhen.aliyuncs.com/11train/websocket
+    entrypoint:
+      - gunicorn
+      - 'ws_app:app'
+      - '-b'
+      - ':9080'
+      - '-w'
+      - '1'
+      - '--worker-class'
+      - eventlet
+    ports:
+      - 9080:9080
+    restart: always
+    environment:
+      - CFG_ENV=production
+      - PYTHONUNBUFFERED=0

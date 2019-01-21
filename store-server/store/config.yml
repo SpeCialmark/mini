@@ -1,0 +1,273 @@
+---
+default: &defaults
+  DEBUG: false
+  SECRET_KEY: fhgdsh4ewtzxh36445sarughkj
+  WXOPEN_SECRET_KEY: fds89j3q4t89zsdiq0ciw8xqpsg
+  logging_level: DEBUG
+  wx_jscode2session_url: https://api.weixin.qq.com/sns/jscode2session
+  wx_component_jscode2session: https://api.weixin.qq.com/sns/component/jscode2session
+  wechatpy_redis_url: redis://:Ragemydream99@r-wz93254a4833d6a4.redis.rds.aliyuncs.com:6379/3
+  wxopen:
+    COMPONENT_APP_ID: wxf20533ee279d1846
+    COMPONENT_APP_SECRET: 558a7cca32ab796aa38125b49309d1e9
+    COMPONENT_APP_TOKEN: 216e44fc4ca39da92cb91952
+    COMPONENT_ENCODINGAESKEY: a44cba80175ff0a72cfe3e67ab8a220ec4d0833aa49
+    AUTH_REDIRECT_URI: https://wx.11train.com/wechat/authorized/{auth_link_token}
+    SUCCESS_REDIRECT_URI: https://www.11train.com/account/selectApp
+
+  notice_email:
+    stmp_domain: smtpdm.aliyun.com
+    stmp_port: 465
+    username: noreply@notice.11train.com
+    password: Zero74Water66
+    admin_emails:
+      - ceo@11train.com
+      - zhengdongyu@11train.com
+      - chenxiaofeng@11train.com
+
+  redis_expire:
+    token: 7200   # 2 hour
+    store: 172800 # 2 day
+    biz_user_token: 86400  # 1 day
+    sms_code: 600  # 10 min
+    invitations: 172800  # 邀请绑定token有效期 2 day
+    auth_link: 86400  # 1 day
+    app_audit: 8640000 # 100 day
+    video_limit: 86400  # 1 day
+    video_history: 604800 # 7 day
+    check_in: 86400  # 1 day
+    unread_customer: 604800  # 7 day
+    group_reports: 604800  # 7 day
+    ex: 86400  # 1 day
+    department: 86400  # 1 day
+    staff: 172800  # 2 day
+    seat_check: 7200  # 2 hour
+
+  hashids_salt: Blue_Lotus_Store
+
+  aliyun_oss:
+    host: https://oss.11train.com
+    cdn_host: https://oss.11train.com
+    endpoint_vpc: oss-cn-shenzhen-internal.aliyuncs.com
+    bucket: 11train
+    access_key: LTAI5oRBKD6SE0LY
+    secret: rbK6G12x7sjtsuBSWgQQ9naNzqJoKo
+    qrcode_path: b/{app_hid}/qr/{file_name}
+    biz_res_dir: biz/{biz_hid}/{folder}/      # 如果是测试环境, 前缀加dev
+    user_check_in_path: biz/{biz_hid}/customer/{file_name}
+    video_path: biz/{biz_hid}/video/{file_name}  # 分享视频时生成的图片
+    video_cover_path: video/cover/{file_name}
+    ex_path: ex/{file_name}
+
+  aliyun_sms:
+    access_key: LTAIFHehqvwGeuyM
+    secret: 5PZRRIFGn9S0VelTm3YrP78VQ4JGIo
+    sign_name: 零加一
+    template_verify: SMS_131785200
+    template_reservation: SMS_143716670
+    template_group_fail: SMS_151575461  # 拼团失败短信通知
+
+  aliyun_video:
+    name: vod_user
+    AccessKeyId: LTAI8tzF4DKUK4IG
+    AccessKeySecret: eyz6LUkErLFdE1ZFIlfozlv1q6ss0o
+
+  aliyun_mns:
+    endpoint: http://1046152386845442.mns.cn-shenzhen-internal.aliyuncs.com
+    name: mns_user
+    AccessKeyId: LTAIr4RPC1UzCRL1
+    AccessKeySecret: adVYrDhhr2iIgy6AJKNCS6DFKkpuia
+
+  tencent_video:
+    secret_id: AKIDzOo5TC4bJrEUcap0TmureGhy40lQoDLO
+    secret_key: 150CJFF6mHeEteaRSr7LQNDtPDxWuIhw
+
+  wxapp_domain:
+    # 注意, 小程序服务器域名必须在开放平台有注册, 否则设置无效
+    request_domain:
+      - 'https://store.11train.com'
+      - 'https://vod2.qcloud.com'
+      - 'https://5d7cf828vodgzp1257277811-10022853.cos.ap-guangzhou-2.myqcloud.com'
+    upload_domain:
+      - 'https://oss.11train.com'
+      - 'https://vod2.qcloud.com'
+      - 'https://5d7cf828vodgzp1257277811-10022853.cos.ap-guangzhou-2.myqcloud.com'
+    wsrequest_domain: []
+    download_domain:
+      - 'https://oss.11train.com'
+      - 'https://store.11train.com'
+
+  admin_dev_phones:   # 当前开发人员的手机号码，注意要及时更新
+    - '18688967466'
+    - '18589059214'
+    - '18565745207'
+
+  # 公司内部的企业微信
+  corp_id: wwbfb23d08757c479b
+  party_id:
+    all: '1'
+    backend: '2'    # 后端组
+    frontend: '3'   # 前端组
+    wxapp: '4'      # 小程序发布组
+  wxapp_agent_agent:  # 城市合伙人(代理商)
+    agent_id: 1000005
+    secret: UYti4yTYx6spS7K0Rcjs6vSEHuiudp7Kfpbt9-A4yqs
+  wxapp_release_agent:  # 小程序发布
+    agent_id: 1000008
+    secret: yXWI2EdduvSUD7X7Gs2jDZ0ZkQi1oBjaSU2Yfc46LEw
+    token: ViQjjz1BNA
+    encodingAESKey: FqdAulDwk9yolB7hNOwPA6peuwtOKc86kVxKxvZYViU
+  wxapp_auth_agent:   # 小程序授权
+    agent_id: 1000009
+    secret: iBQbjcJnxescswcabSKkT4KqUTV23BynmSzOXaLXnbw
+  backend_agent:  # 后台组通知
+    agent_id: 1000006
+    secret: 0J4q_zkGjJv7kd9qqQbwPhCPUBGb9xRrUzlmGrO_4rA
+
+  codetable:
+    0: /pages/home/index
+    1: /pages/home/experience
+    2: /pages/course/index
+    3: /pages/coach/index
+    4: /pages/feed/index
+    5: /pages/user/index
+    6: /pages/course/detail
+    7: /pages/course/groupCourses
+    8: /pages/course/groupCourseDetail
+    9: /pages/coach/detail
+    a: /pages/coach/traineeCase
+    b: /pages/coach/coachShow
+    c: /pages/coach/coachSolo
+    d: /pages/user/reservation
+    e: /pages/user/freeReservation
+    f: /pages/user/mineReservation
+    g: /pages/member/invite
+    h: /pages/member/confirm
+    i: /pages/member/free
+    j: /pages/checkIn/checkIn
+    k: /pages/checkIn/record
+    l: /pages/checkIn/recordDetail
+    m: /pages/places/index
+    n: /pages/places/detail
+    o: /pages/places/allCourses
+    p: /pages/salesman/index  # 扫描会籍二维码进入页
+    q: /pages/salesman/circle
+    r: /pages/salesman/qrcode
+    s: /pages/video/detail
+    t: /pages/shake/Information
+    u: /pages/video/list
+    v: /pages/user/registration,
+    w: /pages/activities/productsList
+    x: /pages/activities/productDetail
+    y: /pages/user/group/mineGroup
+    z: /pages/user/login
+    A: /pages/user/group/groupDetail
+  area:
+    5840: '深圳市'
+    5810: '广州市'
+
+  question_type:
+    after_sale: '售后'
+    before_sale: '售前'
+    on_sale: '售中'
+
+##################################################################################################
+
+
+dev:
+  <<: *defaults
+  DEBUG: true
+  logging_level: DEBUG
+  postgresql: postgresql+psycopg2://postgres:jishangB029@172.18.248.179:5432/store
+  redis_url: redis://172.18.33.143:6379
+  celery_broker: redis://172.18.33.143:6379/4
+  # 为了方便调试加了celery_sentry_dsn
+  celery_sentry_dsn: https://5bf13e17cb364741beb6a1cdc720ef72@sentry.io/1191099
+  STORE_ELASTIC_APM:
+    SERVICE_NAME: dev-store-server
+    SECRET_TOKEN: ''
+    SERVER_URL: 'http://172.18.248.179:8200'
+    DEBUG: true
+  WXOPEN_ELASTIC_APM:
+    SERVICE_NAME: dev-wxopen
+    SECRET_TOKEN: ''
+    SERVER_URL: 'http://172.18.248.179:8200'
+    DEBUG: true
+  logging_conf:
+    version: 1
+    formatters:
+      simpleFormater:
+        format: '%(asctime)s - %(levelname)s: %(message)s'
+        datefmt: '%Y/%m/%d %H:%M:%S'
+    handlers:
+      file:
+        class: logging.FileHandler
+        formatter: simpleFormater
+        level: WARNING
+        filename: store.log
+    root:
+      level: DEBUG
+      handlers: [file]
+
+  redis_expire:
+    token: 172800   # 2 day
+    store: 172800 # 2 day
+    biz_user_token: 86400  # 1 day
+    sms_code: 600  # 10 min
+    invitations: 172800  # 邀请绑定token有效期 2 day
+    auth_link: 86400  # 1 day
+    app_audit: 8640000 # 100 day
+    video_limit: 86400  # 1 day 
+    video_history: 604800 # 7 day
+    check_in: 86400  # 1 day
+    unread_customer: 604800  # 7 day
+    group_reports: 604800  # 7 day
+    ex: 86400  # 1 day
+    department: 86400  # 1 day
+    staff: 172800  # 2 day
+    seat_check: 7200  # 2 hour
+
+##################################################################################################
+
+
+production:
+  <<: *defaults
+  DEBUG: false
+  logging_level: INFO
+  sentry_dsn: https://2ed30f1d516b4103a0da48a4a7ee1b45:661e5af5991a415a9e956177d058a8da@sentry.io/1186251
+  wxopen_sentry_dsn: https://d9d292d0d00d4a80b7f94904843cddc0:0a1bff63465a4cd18bb66a1fddd381dc@sentry.io/1204913
+  celery_sentry_dsn: https://5bf13e17cb364741beb6a1cdc720ef72@sentry.io/1191099
+  postgresql: postgresql+psycopg2://postgres:_RageMyDream66@rm-wz927sk7p76459a6q.pg.rds.aliyuncs.com:3433/store
+  redis_url: redis://:Ragemydream99@r-wz93254a4833d6a4.redis.rds.aliyuncs.com:6379
+  celery_broker: redis://:Ragemydream99@r-wz93254a4833d6a4.redis.rds.aliyuncs.com:6379/4
+  STORE_ELASTIC_APM:
+    SERVICE_NAME: store-server
+    SECRET_TOKEN: ''
+    SERVER_URL: 'http://172.18.248.179:8200'
+    DEBUG: true
+  WXOPEN_ELASTIC_APM:
+    SERVICE_NAME: wxopen
+    SECRET_TOKEN: ''
+    SERVER_URL: 'http://172.18.248.179:8200'
+    DEBUG: true
+  logging_conf:
+    version: 1
+    formatters:
+      simpleFormater:
+        format: '%(asctime)s: %(message)s'
+        datefmt: '%Y-%m-%d %H:%M:%S'
+    handlers:
+      sls_handler:
+        class: aliyun.log.QueuedLogHandler
+        level: INFO
+        formatter: simpleFormater
+        # custom args:
+        end_point: cn-shenzhen-intranet.log.aliyuncs.com
+        access_key_id: LTAILe9HUS40MZb6
+        access_key: 9krVKUvz2kPT2jVSw1Vy8IRsh6gNBF
+        project: 11train
+        log_store: store
+    root:
+      level: DEBUG
+      handlers:
+      - sls_handler

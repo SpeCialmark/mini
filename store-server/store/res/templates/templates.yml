@@ -1,0 +1,25 @@
+templates:
+- data:
+    name: base
+    title: 基础版
+    ext_json_format:
+      extEnable: true
+      extAppid: "{app_id}"
+      directCommit: true
+      ext:
+        app_id: "{app_id}"
+        title: "{app_name}"
+        name: "gym store"
+        version: "{version}"
+        attr:
+      window:
+        navigationBarBackgroundColor: "#fff"
+        navigationBarTextStyle: "black"
+        backgroundColor: "#f8f8f8"
+        navigationBarTitleText: "{app_name}"
+    params_desc:
+      app_id: 'app_id'
+      app_name: '标题'
+    version: '2.0.4'
+    wx_template_id: 11
+    description: 'Give me five'

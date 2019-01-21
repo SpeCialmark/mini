@@ -1,0 +1,170 @@
+exercises:
+- data:
+    id: 110001
+    full_name: 'Kettlebell Around the worlds'
+    title: '壶铃环绕'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Kettlebell_Around_the_Worlds.svg'
+      F: 'Kettlebell_Around_the_Worlds-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'middle-back-lats'
+
+    related_exs: []
+- data:
+    id: 110002
+    full_name: 'Kettlebell Deadlifts'
+    title: '壶铃硬拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Kettlebell_Deadlifts.svg'
+      F: 'Kettlebell_Deadlifts-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'hamstrings'
+    - 'lower-back'
+    secondary_mg:
+    - 'calves'
+    - 'obliques'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 110003
+    full_name: 'Kettlebell One-Legged Deadlifts'
+    title: '壶铃单腿硬拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Kettlebell_One-Legged_Deadlift_M.svg'
+      F: 'Kettlebell_One-Legged_Deadlift_F.svg'
+    primary_mg:
+    - 'lower-back'
+    secondary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 110004
+    full_name: 'Kettlebell Single Arm Clean and Press'
+    title: '单臂壶铃翻举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Kettlebell_Single_Arm_Clean_and_Press.svg'
+      F: 'Kettlebell_Single_Arm_Clean_and_Press-1.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 110005
+    full_name: 'Kettlebell Squats'
+    title: '壶铃深蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Kettlebell_Squats.svg'
+      F: 'Kettlebell_Squats-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'hamstrings'
+
+
+    related_exs: []
+- data:
+    id: 110006
+    full_name: 'Kettlebell Thruster / Squat to Clean to Overhead Press'
+    title: '双壶铃推举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Kettlebell_Thruster_M.svg'
+      F: 'Kettlebell_Thruster_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'neck-upper-traps'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 110007
+    full_name: 'Kettlebell Windmills'
+    title: '壶铃风车'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Kettlebell_Windmill_M.svg'
+      F: 'Kettlebell_Windmill_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 110008
+    full_name: 'Knee Plank'
+    title: '膝板支撑'
+    record_method: 'time'
+    pictures:
+      M: 'Knee_Plank.svg'
+      F: 'Knee_Plank-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 110009
+    full_name: 'Knee-to-Chest Lower Back Stretch'
+    title: '下背部拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Knee-to-chest_Lower_Back_Stretch_M.svg'
+      F: 'Knee-to-chest_Lower_Back_Stretch_F.svg'
+    primary_mg:
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 110010
+    full_name: 'Kneeling Cable Crunches'
+    title: '跪姿绳索卷腹'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Kneeling_Cable_Crunch_M.svg'
+      F: 'Kneeling_Cable_Crunch_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 110011
+    full_name: 'Kneeling Hip Flexor Stretch'
+    title: '跪姿髋关节拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Kneeling_Hip_Flexor_Stretch_M.svg'
+      F: 'Kneeling_Hip_Flexor_Stretch_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    related_exs: []

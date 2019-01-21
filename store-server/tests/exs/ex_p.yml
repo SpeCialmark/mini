@@ -1,0 +1,311 @@
+exercises:
+- data:
+    id: 160001
+    full_name: 'Palloff Press / Oblique Iso Hold'
+    title: '绳索前推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Palloff_Press.svg'
+      F: 'Palloff_Press-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    secondary_mg:
+    - 'biceps'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 160002
+    full_name: 'Piriformis Stretch'
+    title: '梨状肌拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Piriformis_Stretch.svg'
+      F: 'Piriformis_Stretch-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 160003
+    full_name: 'Pistol / Single-Leg Extended Arm Squats'
+    title: '手枪式深蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'Pistol_Squat_M.svg'
+      F: 'Pistol_Squat_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 160004
+    full_name: 'Plank'
+    title: '平板支撑'
+    record_method: 'time'
+    pictures:
+      M: 'Plank_M.svg'
+      F: 'Plank_F.svg'
+    primary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 160005
+    full_name: 'Plank Jacks / Extended Leg'
+    title: '平板分腿支撑'
+    record_method: 'time'
+    pictures:
+      M: 'Plank_Jacks_M.svg'
+      F: 'Plank_Jacks_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 160006
+    full_name: 'Plank Knee to Elbow'
+    title: '平板膝肘'
+    record_method: 'reps'
+    pictures:
+      M: 'Plank_Knee_to_Elbow_M.svg'
+      F: 'Plank_Knee_to_Elbow_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'obliques'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 160007
+    full_name: 'Plank Leg Lifts'
+    title: '平板抬腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Plank_leg_lift_M.svg'
+      F: 'Plank_leg_lift_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 160008
+    full_name: 'Plank to Push-Up / Pushups / Walking Plank Up-Downs'
+    title: '平板俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'plank_to_pushup_M.svg'
+      F: 'plank_to_pushup_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'shoulders'
+    describe:
+      explain_en: |
+        Start in the plank position with your elbows shoulder-width apart.
+        Press yourself up from the floor one arm at a time into a push-up, maintaining your body in a straight line.
+        Slowly return to the starting plank position the same way, one arm at a time.
+        Repeat the movement alternating sides.
+      explain_ch: |
+        初始姿势是平板支撑。
+        一次把一只手臂向上推，让身体保持一条直线。
+        以同样的方式慢慢回到起始板位置，一次一个手臂下来。
+        交替重复。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑
+- data:
+    id: 160009
+    full_name: 'Plate Overhead Walking Lunges'
+    title: '过顶举弓步行走'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Plate_Overhead_Walking_Lunges.svg'
+      F: 'Plate_Overhead_Walking_Lunges-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 160010
+    full_name: 'Power Skips'
+    title: '抬腿跳'
+    record_method: 'reps'
+    pictures:
+      M: 'Power_Skips_M.svg'
+      F: 'Power_Skips_F.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 160011
+    full_name: 'Pull-ups'
+    title: '宽距引体向上'
+    record_method: 'reps'
+    pictures:
+      M: 'Pullup_M.svg'
+      F: 'Pullups_F.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'biceps'
+    - 'forearms'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 160012
+    full_name: 'Push-ups / Pushups'
+    title: '俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Pushup_M.svg'
+      F: 'Pushup_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+    describe:
+      explain_en: |
+        Get into position by placing your hands flat on the floor, directly below your shoulders.
+        Extend your legs out behind you, with only your toes and balls of your feet touching the floor.
+        Hold your body up and keep your back straight by tightening your abdominal muscles.
+        Your neck and head should be bent slightly back.
+        Lower your chest towards the ground by bending your elbows until your chest is just above the ground or you feel a stretching of your chest and shoulders. Hold for a count of one.
+        Press upwards from your chest and shoulders, straightening your arms as you return to the starting position. Hold for a count of one.
+        Repeat.
+      explain_ch: |
+        双手平放在地板上，放在肩膀下方。
+        腿伸到身后，只有脚趾和脚掌接触地面。
+        抬起身体，收紧腹部肌肉，保持背部平直。
+        脖子和头部应该稍微弯曲。
+        通过弯曲肘部,直至胸部刚好在地面之上或者感觉胸部和肩膀拉伸。 保持一秒。
+        向上推起胸部和肩膀，直到手臂伸直。
+        重复。
+    related_exs: []
+- data:
+    id: 160013
+    full_name: 'Powerbag / Sandbag Good Mornings'
+    title: '沙包早安式'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Powerbag_Sandbag_Good_Mornings-1.svg'
+      F: 'Powerbag_Sandbag_Good_Mornings.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+    secondary_mg:
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 160014
+    full_name: 'Powerbag / Sandbag Lunges'
+    title: '沙包弓箭步'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Powerbag_Sandbag_Lunges.svg'
+      F: 'Powerbag_Sandbag_Lunges-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 160015
+    full_name: 'Powerbag / Sandbag Squats'
+    title: '沙包深蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Powerbag_Sandbag_Squats-1.svg'
+      F: 'Powerbag_Sandbag_Squats.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'hamstrings'
+    related_exs: []

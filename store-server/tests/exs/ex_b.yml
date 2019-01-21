@@ -1,0 +1,1445 @@
+exercises:
+- data:
+    id: 20001
+    full_name: 'Back Extensions / Hyperextensions'
+    title: '山羊挺身'
+    record_method: 'reps'
+    pictures:
+      M: 'Back_Extensions_M.svg'
+      F: 'Back_Extensions_F.svg'
+    primary_mg:
+    - 'lower-back'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    describe:
+      explain_en: |
+        Lie face down on a hyper extension bench with your upper thighs and lower hips on the support pad. You must be able to bend at the waist freely.
+        Lock your ankles under the footpads.
+        Start with your body in a straight line head to toe.
+        Place your arms across your chest, behind or at the side of your head.
+        Slowly bend forward by relacing your, back and abdominal muscles.
+        Continue as far as possible without rounding your back or raising your thighs from the support pad. You should feel a slight stretch in your hamstrings.Hold for a count of one.
+        Return to the start position by contracting your back and abdominal muscles until your body is once again straight. Do not arch your back up at the end of the movement. Pause and repeat.
+        As your strength and flexibility increase, you can hold a weight plate against your chest for extra resistance.
+      explain_ch: |
+        准备时，大腿上部放在支撑垫上。 你必须能够自由地弯腰。把你的脚踝锁在脚垫下。
+        从头到脚成一直线。把你的手臂放在胸前，背后或侧面。
+        慢慢地向前弯曲你的背部和腹部肌肉。
+        尽可能继续下去，不要弯背或从支撑垫上抬起大腿。 你应该感觉到你的腘绳肌肌肉略有拉伸，保持一秒钟。
+        将背部和腹部肌肉收缩回到起始位置，直到身体再次伸直。 在运动结束时不要拱背。 暂停并重复。
+        随着您的力量和灵活性的增加，您可以将一块哑铃片放在胸部来增加额外的阻力。
+    related_exs:
+    - ex:
+        id: 190054
+        title: 瑞士球下背部伸展
+    - ex:
+        id: 60012
+        title: 泡沫轴下背放松
+    - ex:
+        id: 110009
+        title: 下背部拉伸
+    - ex:
+        id: 190006
+        title: 坐姿绳索划船
+- data:
+    id: 20002
+    full_name: 'Barbell Bench Press / Chest Press'
+    title: '杠铃卧推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Bench_Press_M.svg'
+      F: 'Barbell_Bench_Press_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'shoulders'
+    - 'triceps'
+    describe:
+      explain_en: |
+        Position yourself with your back down on a flat bench placing the hands up on the bar using an underhand grip slightly wider than shoulder width apart.
+        After taking a deep breath in, extend the elbows and lift the bar up off the rack until elbows are extended but not locked. Pause for a brief movement as you fully extend your breath.
+        Lower the weight directly down to the chest as you breath inwards, keeping the movement pattern slow and steady.
+        Once just above the chest, pause, and then press directly up again, exhaling your breath.
+        Continue until all reps are completed and then re-rack the barbell.
+      explain_ch: |
+        平躺在长凳上，将双手放在横杆上，使用比肩宽略宽的距离握把。
+        深吸一口气后，伸出肘部并将杠铃从架上抬起，直至肘部伸展但未锁定。 你调整好呼吸，暂停一下。
+        当你吸气时，将杠铃降低到胸部，保持运动模式缓慢和稳定。
+        一旦在胸部上方，暂停，然后再次直接向上，呼气。
+        继续，直到所有的动作完成，然后架好杠铃。
+    related_exs:
+    - ex:
+        id: 30029
+        title: 窄握杠铃卧推
+    - ex:
+        id: 40002
+        title: 下斜杠铃卧推
+    - ex:
+        id: 40004
+        title: 下斜哑铃卧推
+    - ex:
+        id: 40020
+        title: 哑铃卧推
+    - ex:
+        id: 90002
+        title: 上斜杠铃推胸
+    - ex:
+        id: 90005
+        title: 上斜哑铃卧推
+    - ex:
+        id: 190047
+        title: 史密斯机卧推
+- data:
+    id: 20003
+    full_name: 'Barbell Box Squats'
+    title: '箱式杠铃深蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Box_Squats.svg'
+      F: 'Barbell_Box_Squats-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    describe:
+      explain_en: |
+        Begin by positioning a barbell at or just below shoulder level in the squat rack. Behind the squat rack, place a tall wooden box or chair. Place yourself underneath the barbell. Make sure the bar is across your upper traps and NOT on your neck.
+        Place your feet outside of shoulder-width with your toes pointed slightly out. Brace your core and keep your chest up.
+        Bend at the knees as you drive your hips back. Lower yourself slowly until your butt touches the box. Pause then drive your hips forward to return to the starting position.
+      explain_ch: |
+        确保杠铃在你的上肩部，而不是在你的脖子上。脚与肩同宽，脚尖略微指出。 腰腹保持紧张， 挺胸。
+        当你下蹲时，膝盖弯曲。 慢慢放下，直到你的臀部碰到盒子。 暂停然后向前推动，回到起始位置。
+    related_exs:
+    - ex:
+        id: 20010
+        title: 杠铃后拉深蹲
+    - ex:
+        id: 20023
+        title: 杠铃深蹲
+    - ex:
+        id: 30025
+        title: 椅子深蹲
+    - ex:
+        id: 230012
+        title: 相扑杠铃深蹲
+    - ex:
+        id: 190040
+        title: 单腿箱式深蹲
+    - ex:
+        id: 60019
+        title: 杠铃前蹲
+- data:
+    id: 20004
+    full_name: 'Barbell Clean and Press / Jerk / Overhead Press'
+    title: '杠铃翻举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Clean_and_Press_M.svg'
+      F: 'Barell_Clean_and_Press_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'lower-back'
+    - 'quadriceps'
+    describe:
+      explain_en: |
+        Shoulder-width stance. Tight core and flat back. Bend at the knees and hips. Lower yourself. Arms fully extended. Chest up and gaze straight ahead.
+        Bring knees in and shoulders up. Drive hips forward. Keep the bar close to your body. Forcefully exhale and perform a full extension of the knees and hips.
+        Use the momentum to bring elbows high. Rotate your elbows around and under the bar. Rack the bar across the front of your shoulders.
+        Press the barbell above your head. Lower the bar.
+      explain_ch: |
+        双脚与肩同宽， 腹肌紧张，背部挺直，弯曲膝盖和臀部， 上身前倾， 手臂完全伸展，直视前方。
+        膝盖和肩膀随之向上， 向前推臀部。 保持杠铃靠近你的身体。 大力呼气，并完全伸展膝盖和臀部。
+        利用这一势头将肘部抬高。 围着杠铃下方旋转肘部。 把杠铃横跨你的肩膀。
+        把杠铃举过头顶。 降低杠铃。
+    related_exs:
+    - ex:
+        id: 40028
+        title: 哑铃深蹲翻举
+    - ex:
+        id: 110004
+        title: 单臂壶铃翻举
+- data:
+    id: 20005
+    full_name: 'Barbell Curls / Standing Biceps Curls'
+    title: '杠铃弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Curle_M.svg'
+      F: 'Barbell_Curl_F.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'forearms'
+    describe:
+      explain_en: |
+        Stand straight holding a barbell with an underhand grip, your hands shoulder width apart and your arms fully extended towards the floor.
+        Keep your elbows close to your sides.Your palms should be facing away from you. This is the start position.
+        Keeping your upper arms stationary, curl the barbell forward and up in a smooth arcing motion while exhaling. Only your forearms should move.
+        Continue upwards until  the bar is at shoulder level with your biceps fully contracted. Hold for a count of one while squeezing your biceps.
+        Inhale as you return to the starting position.
+        Repeat.
+      explain_ch: |
+        站直，拿着杠铃，用手握住，双手分开与肩同宽。保持肘部靠近你的身体。开始时手掌朝外。
+        保持上臂静止不动，在呼气的同时向上弯曲杠铃。 只有你的前臂应该移动。
+        继续向上，直到杠铃在你的肱二头肌完全收缩的肩膀水平。 在挤压你的肱二头肌的同时，保持一秒。
+        当你回到起始位置时吸气。
+    related_exs:
+    - ex:
+        id: 20007
+        title: 拉式弯举
+    - ex:
+        id: 20033
+        title: 背后弯举
+    - ex:
+        id: 30002
+        title: 绳索锤式弯举
+    - ex:
+        id: 40016
+        title: 肱二头肌弯举接推肩
+    - ex:
+        id: 50001
+        title: 瑞士球哑铃弯举
+    - ex:
+        id: 130002
+        title: 器械牧师凳弯举
+    - ex:
+        id: 180006
+        title: 弹力带弯举
+    - ex:
+        id: 190012
+        title: 坐姿哑铃弯举
+    - ex:
+        id: 190069
+        title: 绳索弯举
+    - ex:
+        id: 190074
+        title: 哑铃弯举
+    - ex:
+        id: 190077
+        title: 锤式弯举
+    - ex:
+        id: 190090
+        title: 哑铃半举
+    - ex:
+        id: 200007
+        title: TRX悬挂弯举
+- data:
+    id: 20006
+    full_name: 'Barbell Deadlifts'
+    title: '杠铃硬拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Deadlift_M.svg'
+      F: 'Barbell_Deadlift_F.svg'
+    primary_mg:
+    - 'lower-back'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'forearms'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    - 'upper-back-lower-traps'
+    describe:
+      explain_en: |
+        Place a barbell in a clear space on the floor. (Make sure there are no obstructions in your way.
+        Stand facing the barbell with your legs about 4-6 inches from the bar.
+        Place your feet shoulder width apart.Your feet can be pointed straight ahead or turned outwards slightly.
+        Squat down, keeping your back straight and grip the bar with an overhand grip at shoulder width.
+        Keep your arms fully extended and stand up with the barbell.
+        As you lift the barbell, your hips and shoulders should rise together and your back should be straight.
+        As you reach the top of the lift and are standing straight, rotate your shoulders back slightly until you feel a slight stretch in them.
+        Lower the barbell back to the floor in the same squatting motion you used to lift it.
+        This exercise can be very dangerous if performed incorrectly. If you are a novice, only perform this exercise with an experienced trainer's supervision.
+      explain_ch: |
+        双脚与肩同宽。你的脚可以指向前方或略微向外转。
+        蹲下，保持背部平直，并用肩部同宽的方式抓握横杆。
+        保持双臂完全伸直，与杠铃一起站起来。
+        当你举起杠铃，你的臀部和肩膀应该一起上升，你的背部应该是直的。
+        当你站直时，稍微转动肩膀，直到您感觉到轻微的伸展。
+        把杠铃放回地面。
+        注意！ 如果动作不正确，此练习可能非常危险。 如果你是新手，请在教练的监督下进行练习。
+    related_exs:
+    - ex:
+        id: 40019
+        title: 哑铃硬拉
+    - ex:
+        id: 80008
+        title: 六角杠铃硬拉
+    - ex:
+        id: 110002
+        title: 壶铃硬拉
+    - ex:
+        id: 110003
+        title: 壶铃单腿硬拉
+    - ex:
+        id: 180009
+        title: 弹力带硬拉
+    - ex:
+        id: 180030
+        title: 罗马尼亚硬拉
+    - ex:
+        id: 190043
+        title: 单腿哑铃硬拉
+    - ex:
+        id: 190094
+        title: 直腿硬拉
+    - ex:
+        id: 190098
+        title: 相扑杠铃硬拉
+- data:
+    id: 20007
+    full_name: 'Barbell Drag Biceps Curls'
+    title: '拉式弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Drag_Curls-1.svg'
+      F: 'Barbell_Drag_Curls-3.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'forearms'
+    describe:
+      explain_en: |
+        With a slight bend at the knee, hold the barbell extended towards the floor with an underhand grip about shoulder width apart.
+        Push your elbows backwards allowing them to bend and the barbell to raise, running along the front of your torso.
+        Continue with this motion until the barbell rests just above the nipple line and hold this position for a full second while flexing your biceps.
+        Extend your elbows, slowly, allowing the barbell to again run along the body until rests in the starting position.
+      explain_ch: |
+        在膝盖稍稍弯曲的情况下，将杠铃伸向地面，用肩膀宽度分开的双手下垂握住。
+        向后推肘，杠铃抬起。
+        继续这个动作，直到杠铃靠在胸部乳头的正上方，并在弯曲肱二头肌的同时保持这个位置一秒。
+        慢慢地伸出肘部，让杠铃再次沿着身体下来，直到回到起始位置。
+    related_exs:
+    - ex:
+        id: 20005
+        title: 杠铃弯举
+    - ex:
+        id: 30002
+        title: 绳索锤式弯举
+    - ex:
+        id: 130002
+        title: 器械牧师凳弯举
+    - ex:
+        id: 180006
+        title: 弹力带弯举
+    - ex:
+        id: 190012
+        title: 坐姿哑铃弯举
+    - ex:
+        id: 190069
+        title: 绳索弯举
+    - ex:
+        id: 190074
+        title: 哑铃弯举
+    - ex:
+        id: 190077
+        title: 锤式弯举
+- data:
+    id: 20008
+    full_name: 'Barbell Front Raises'
+    title: '杠铃前平举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Front_Raise_M.svg'
+      F: 'Barbell_Front_Raise_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'upper-back-lower-traps'
+    describe:
+      explain_en: |
+        Place a light-weighted barbell in front of you at your shins.
+        Squat down into position, driving your hips back. Keep your chest and head up. Place your hands in an overhand grip on the barbell.
+        Stand up with a tight core and flat back. Keeping a slight bend in the elbows, raise the bar up and in front of you. Pause when your arms are parallel with the ground.
+        Slowly lower the barbell to your hip. Repeat the movement.
+      explain_ch: |
+        在你的小腿前面放一个轻量级的杠铃。
+        站直，挺胸收腹。 保持肘部略微弯曲，向前把杠铃举起来。 当你的手臂平行于地面时停下来。
+        慢慢地把杠铃放到臀部高度。 重复这个动作。
+    related_exs:
+    - ex:
+        id: 40013
+        title: 哑铃前平举
+    - ex:
+        id: 60016
+        title: 单臂哑铃前平举
+    - ex:
+        id: 180015
+        title: 弹力带前平举
+    - ex:
+        id: 190078
+        title: 哑铃前举
+    - ex:
+        id: 190105
+        title: 坐姿哑铃前平举
+- data:
+    id: 20009
+    full_name: 'Barbell Good Morning'
+    title: '杠铃早安式'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Good_Morning_M.svg'
+      F: 'Barbell_Good_Morning_F.svg'
+    primary_mg:
+    - 'lower-back'
+    secondary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    describe:
+      explain_en: |
+        Using a squat or barbell rack, set the barbell at shoulder height.
+        Position yourself so the barbell is resting on your shoulders and you are facing away from the rack.
+        Stand up to lift the barbell clear of the rack and take a few steps away from the rack.
+        Position your feet slightly less than shoulder width apart.
+        Keep your legs straight and bend forward at the hips.
+        Continue bending forward until you feel a mild stretch in your hamstrings. (Do not try to bend past the mild stretching sensation. As flexibility increases so does the range of motion.) Hold for a count of one.
+        Return to the starting position by straightening from the hips. Repeat.
+        Start with lower weights when performing this exercise for the first few times to allow your body to adapt to the movement. This exercise can also be done with your knees slightly bent to emphasize use of your glutes.
+      explain_ch: |
+        使用深蹲架或杠铃架，将杠铃高度设为肩膀高度。
+        定位自己，让杠铃放在你的肩膀上，并且背对着机架。
+        站起来将杠铃从机架上取下，走几步。
+        两脚分开比肩宽略小，保持双腿平直，向前弯曲臀部。
+        继续向前弯曲，直到您感觉到腘绳肌轻度拉伸。 （不要试图超越轻微的拉伸感，随着柔韧性的增加，运动范围也会增加。）坚持一秒。
+        从臀部拉直回到起始位置。 重复。
+        tips: 在前几组的时候，用较低的重量来让身体适应运动。 这个练习也可以用你的膝盖略微弯曲来强调使用你的臀部。
+    related_exs:
+    - ex:
+        id: 160013
+        title: 沙包早安式
+- data:
+    id: 20010
+    full_name: 'Barbell Hack Squats'
+    title: '杠铃后拉深蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Hack_Squat_M.svg'
+      F: 'Barbell_Hack_Squat_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    describe:
+      explain_en: |
+        Begin by placing a loaded barbell behind you. Place two 25 lb plates under the back of your feet. Tighten your core and straighten your lower back.
+        Slowly squat down, getting a good grip on the barbell behind you. Check to make sure your posture is still perfect and balanced.
+        Stand up while holding the barbell behind. Use your heels to drive yourself back up. Do not straighten your knees at the top.
+        Slowly lower yourself back down, driving your hips behind you. Repeat the movement.
+      explain_ch: |
+        首先放置一个杠铃在身后。 将两块25磅的杠铃片放在脚后面。 收紧腰腹，并伸直下背部。
+        慢慢地蹲下，抓住身后的杠铃，确保姿势保持平衡。
+        站起来，把杠铃放在后面。 用脚后跟站稳。 站起来时候不要完全伸直膝盖。
+        慢慢再放下来，把臀部往下压。 重复这个动作。
+    related_exs:
+    - ex:
+        id: 130003
+        title: 哈克机深蹲
+- data:
+    id: 20011
+    full_name: 'Barbell High Pulls'
+    title: '杠铃高拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_High_Pull_M.svg'
+      F: 'Barbell_High_Pull_F.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    - 'shoulders'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+    describe:
+      explain_en: |
+        Prepare a barbell with a lighter amount of weight than usual. Place the barbell in front of you at your shins.
+        Squat down into position, driving your hips back. Keep your chest and head up. Place your hands in an overhand grip on the barbell. Your arms should be straight with a slight bend at the elbow.
+        In one fluid motion, explode up and off the ground as you pull the bar high, leading with your elbows. Your feet will leave the ground.
+        Land softly and lower yourself back to the starting position.
+      explain_ch: |
+        准备一个比平时重量更轻的杠铃。
+        蹲下来, 抬头挺胸。 双手握在杠铃上。 手臂伸直，肘部略有弯曲。
+        在一个流畅的运动中，把杠铃拉高后，胳膊肘拉高，迅猛踮脚。
+        轻轻地降低杠铃，回到起始位置。
+    related_exs: []
+- data:
+    id: 20012
+    full_name: 'Barbell Hip Thrusts'
+    title: '杠铃臀部推举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Hip_Thrusts-1.svg'
+      F: 'Barbell_Hip_Thrusts.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 20013
+    full_name: 'Barbell Kneeling Squats'
+    title: '杠铃跪姿深蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Kneeling_Squats.svg'
+      F: 'Kneeling_Squats-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 20014
+    full_name: 'Barbell Lunges'
+    title: '杠铃弓箭步'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Lunge_M.svg'
+      F: 'Barbell_Lunge_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 20015
+    full_name: 'Barbell Overhead Squats'
+    title: '举重深蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Overhead_Squats.svg'
+      F: 'Barbell_Overhead_Squats-1.svg'
+    primary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 20016
+    full_name: 'Barbell Pullovers / Lying Chest Overhead Extensions'
+    title: '曲臂杠铃上拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Pullover_M.svg'
+      F: 'Barbell_Pullover_F.svg'
+    primary_mg:
+    - 'chest'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 20017
+    full_name: 'Barbell Push and Press'
+    title: '杠铃推举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Push_Press_M.svg'
+      F: 'Push_Press_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 20018
+    full_name: 'Barbell Pushups / Push-ups'
+    title: '杠铃俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Barbell_Push_Ups.svg'
+      F: 'Barbell_Push_Ups-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    describe:
+      explain_en: |
+        Place a loaded barbell on the floor and place your hands at a slightly-wider-than-shoulder-width grip.
+        Bracing your core, get into push-up position with a straight posture from head to heel.
+        Lower your body down until your chest hovers about ½ an inch from the bar.
+        Use a combination of chest and triceps power to push your body back up away from the bar.
+      explain_ch: |
+        将负重杠铃放在地板上，双手分开，略宽于肩宽，放在杠上。
+        收紧腹部肌肉，保持背部平直，进入俯卧撑姿势。
+        胸部下来，直到胸部距离杠1厘米。
+        使用胸部和肱三头肌的组合力量来推动身体起来。
+    related_exs:
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑
+- data:
+    id: 20019
+    full_name: 'Barbell Shoulder Press / Overhead Press'
+    title: '坐姿杠铃推肩'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Shoulder_Press_M.svg'
+      F: 'Barbell_Shoulder_Press_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'triceps'
+    - 'upper-back-lower-traps'
+    related_exs: []
+- data:
+    id: 20020
+    full_name: 'Barbell Shoulder Shrugs'
+    title: '杠铃耸肩'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Shrug_M.svg'
+      F: 'Barbell_Shrug_F.svg'
+    primary_mg:
+    - 'neck-upper-traps'
+    secondary_mg:
+    - 'shoulders'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 20021
+    full_name: 'Barbell Snatch'
+    title: '杠铃抓举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Snatch_M.svg'
+      F: 'Barbell_Snatch_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'chest'
+    - 'hamstrings'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 20022
+    full_name: 'Barbell Split Squats'
+    title: '杠铃分腿蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Split_Squats.svg'
+      F: 'Barbell_Split_Squats-1.svg'
+    primary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 20023
+    full_name: 'Barbell Squats'
+    title: '杠铃深蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell-Squat_M.svg'
+      F: 'Barbell_Squat_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 20024
+    full_name: 'Barbell Step-ups'
+    title: '杠铃上阶'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell-Step-up_M.svg'
+      F: 'Barbell_Step-up_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 20025
+    full_name: 'Battle Rope Double Arm Slams'
+    title: '战绳猛扣'
+    record_method: 'reps'
+    pictures:
+      M: 'Battle_Rope_Double_Arm_Slam_M.svg'
+      F: 'Battle_Rope_Double_Arm_Slam_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'biceps'
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 20026
+    full_name: 'Battle Rope Double Waves'
+    title: '战绳波浪'
+    record_method: 'reps'
+    pictures:
+      M: 'Battle_Rope_Double_Waves_M.svg'
+      F: 'Battle_Rope_Double_Waves_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 20027
+    full_name: 'Battle Rope Jumping Jacks'
+    title: '战绳开合'
+    record_method: 'reps'
+    pictures:
+      M: 'Battle_Rope_Jumping_Jacks_M.svg'
+      F: 'Battle_Rope_Jumping_Jacks_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'calves'
+    - 'shoulders'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 20028
+    full_name: 'Battle Rope Reverse Lunges'
+    title: '战绳箭步蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'Battle_Rope_Reverse_Lunges.svg'
+      F: 'Battle_Rope_Reverse_Lunges-1.svg'
+    primary_mg:
+    - 'biceps'
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 20029
+    full_name: 'Battle Rope Side-to-Side Swings'
+    title: '战绳两边摆'
+    record_method: 'reps'
+    pictures:
+      M: 'Side_to_Side_battle_rope_M.svg'
+      F: 'Side_to_Side_battle_rope_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'shoulders'
+    - 'triceps'
+    secondary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'lower-back'
+    - 'quadriceps'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 20030
+    full_name: 'Battle Rope Snakes'
+    title: '战绳蛇动'
+    record_method: 'reps'
+    pictures:
+      M: 'Battle_Rope_Snakes_M.svg'
+      F: 'Battle_Rope_Snakes_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'biceps'
+    - 'forearms'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 20031
+    full_name: 'Battle Rope Squatting Alternating Waves'
+    title: '战绳交替波'
+    record_method: 'reps'
+    pictures:
+      M: 'Battle_Rope_Squatting_Alternating_Waves_M.svg'
+      F: 'Battle_Rope_Squatting_Alternating_Waves_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'quadriceps'
+    - 'shoulders'
+    secondary_mg:
+    - 'biceps'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 20032
+    full_name: 'Bear Crawls'
+    title: '熊爬'
+    record_method: 'reps'
+    pictures:
+      M: 'Bear_Crawls.svg'
+      F: 'Bear_Crawls-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'shoulders'
+    secondary_mg:
+    - 'calves'
+    - 'forearms'
+    - 'hamstrings'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 20033
+    full_name: 'Behind-the-Back Standing Bicep Curls'
+    title: '背后弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl_M.svg'
+      F: 'Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl_F.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 20034
+    full_name: 'Bench Flutter Kicks'
+    title: '平板凳俯卧交替抬腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Bench_Flutter_Kicks_M.svg'
+      F: 'Bench_Flutter_Kicks_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+
+    related_exs: []
+- data:
+    id: 20035
+    full_name: 'Bench Hops / Box Jumps'
+    title: '箱跳'
+    record_method: 'reps'
+    pictures:
+      M: 'Bench_Hops_Box_Jumps-1.svg'
+      F: 'Bench_Hops_Box_Jumps.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 20036
+    full_name: 'Bent Over Barbell Rows'
+    title: '俯身杠铃划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Bent_Over_Barbell_Row_M.svg'
+      F: 'Bent_Over_Barbell_Row_F.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'forearms'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 20037
+    full_name: 'Bent Over Double Arm Tricep Kickbacks'
+    title: '俯身双臂哑铃肱三头肌屈伸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Bent_Over_Double_Arm_Tricep_Kickbacks.svg'
+      F: 'Bent_Over_Double_Arm_Tricep_Kickbacks-1.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 20038
+    full_name: 'Bent Over Two-Arm Long Barbell / T-Bar Rows'
+    title: '俯身T杠铃划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Bent_Over_Two-Arm_Long_Bar_Row_M.svg'
+      F: 'Bent_Over_Two-Arm_Long_Bar_Row_F.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'forearms'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 20039
+    full_name: 'Bicycles / Elbow-to-Knee Crunches / Cross-body Crunches'
+    title: '空蹬自行车'
+    record_method: 'reps'
+    pictures:
+      M: 'Bicycle_Crunches_Air-Bikes_M.svg'
+      F: 'Bicycle_Crunches_Air-Bikes_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 20040
+    full_name: 'Bird Dogs / Alternating Reach & Kickbacks'
+    title: '交替后踢'
+    record_method: 'reps'
+    pictures:
+      M: 'Bird_Dogs_M.svg'
+      F: 'Bird_Dogs_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'lower-back'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 20041
+    full_name: 'Bodyweight Calf Raises'
+    title: '提踵'
+    record_method: 'reps'
+    pictures:
+      M: 'Bodyweight_Calf_Raises_M.svg'
+      F: 'Bodyweight_Calf_Raises_F.svg'
+    primary_mg:
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 20042
+    full_name: 'Bodyweight Side Steps / Lateral Lunges'
+    title: '侧弓步'
+    record_method: 'reps'
+    pictures:
+      M: 'Bodyweight_Side_Steps_Lateral_Lunges.svg'
+      F: 'Bodyweight_Side_Steps_Lateral_Lunges-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 20043
+    full_name: 'Bodyweight Squats'
+    title: '抱头深蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'Bodyweight_Squat_M.svg'
+      F: 'Bodyweight_Squat_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 20044
+    full_name: 'Bodyweight Walking Lunges'
+    title: '弓箭步行走'
+    record_method: 'reps'
+    pictures:
+      M: 'Bodyweight_Walking_Lunge_M.svg'
+      F: 'Bodyweight_Walking_Lunge_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 20045
+    full_name: 'Bosu Ball Burpees'
+    title: '波速球波比跳'
+    record_method: 'reps'
+    pictures:
+      M: 'Bosu_Ball_Burpees.svg'
+      F: 'Bosu_Ball_Burpees-1.svg'
+    primary_mg:
+    - 'biceps'
+    - 'shoulders'
+    - 'triceps'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 20046
+    full_name: 'Bosu Ball Chest Dumbbell Flyes / Flies'
+    title: '波速球哑铃飞鸟'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Bosu_Ball_Dumbbell_Chest_Flyes.svg'
+      F: 'Bosu_Ball_Dumbbell_Chest_Flyes-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+    secondary_mg:
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 20047
+    full_name: 'Bosu Ball Chest Dumbbell Press'
+    title: '波速球哑铃卧推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Bosu_Ball_Dumbbell_Chest_Press.svg'
+      F: 'Bosu_Ball_Dumbbell_Chest_Press-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 20048
+    full_name: 'Bosu Ball Leg Pull-in / Knee Tucks'
+    title: '波速球坐姿收腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Bosu_Ball_Leg_Pull-in_Knee_Tuck_M.svg'
+      F: 'Bosu_Ball_Leg_Pull-in_Knee_Tuck_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 20049
+    full_name: 'Bosu Ball Mountain Climbers'
+    title: '波速球登山'
+    record_method: 'reps'
+    pictures:
+      M: 'Bosu_Ball_Mountain_Climbers_M.svg'
+      F: 'Bosu_Ball_Mountain_Climbers_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    secondary_mg:
+    - 'chest'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 20050
+    full_name: 'Bosu Ball Plank'
+    title: '波速球平板支撑'
+    record_method: 'time'
+    pictures:
+      M: 'Bosu_Ball_Plank_M.svg'
+      F: 'Bosu_Ball_Plank_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 20051
+    full_name: 'Bosu Ball Plank Leg Lifts'
+    title: '波速球平板摆腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Bosu_Ball_Plank_leg_lift_M.svg'
+      F: 'Bosu_Ball_Plank_leg_lift_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'hamstrings'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 20052
+    full_name: 'Bosu Ball Push-ups / Pushups'
+    title: '波速球俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Bosu_Ball_Push-up_M.svg'
+      F: 'Bosu_Ball_Push-up_F.svg'
+    primary_mg:
+    - 'chest'
+    - 'abs'
+    secondary_mg:
+    - 'shoulders'
+    - 'triceps'
+    describe:
+      explain_en: |
+        Place a BOSU Ball on the ground with the blue rubber side facing down. Carefully, place a hand on each side. Take a push-up position by ensuring your elbows are slightly bent, your core is tight and your hips are level.
+        Bend at the elbows first, slowly lowering your body towards the BOSU Ball. Keep your core tight during the entire exercise. Pause once your upper arms are parallel with the floor. Push yourself back to the starting position, making sure not to completely straighten your elbows.
+        Repeat.
+      explain_ch: |
+        将波速球放在地上，蓝色橡胶面朝下。 小心地把手放在两边。
+        弯曲肘部，慢慢降低上半身。 整个过程收紧腹部肌肉，保持背部平直，直到上臂与地面平行，然后推回自己的起始位置，注意不要完全伸直肘部。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑
+- data:
+    id: 20053
+    full_name: 'Bosu Ball Single Leg / Pistol Squats'
+    title: '波速球单腿蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'Bosu_Ball_Single-Leg_Pistol_Squats.svg'
+      F: 'Bosu_Ball_Single-Leg_Pistol_Squats-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 20054
+    full_name: 'Bosu Ball Single Leg Bridge / Hip Thrusts / Extensions / Raises'
+    title: '波速球单腿臀桥'
+    record_method: 'reps'
+    pictures:
+      M: 'Bosu_Ball-Single_Leg_Bridge_Hip_Thrust_Extension_M.svg'
+      F: 'Bosu_Ball-Single_Leg_Bridge_Hip_Thrust_Extension_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'abs'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 20055
+    full_name: 'Bosu Ball Squats'
+    title: '波速球深蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'Bosu_Ball_Squat_M.svg'
+      F: 'Bosu_Ball_Squat_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 20056
+    full_name: 'Bosu Ball Static Balance'
+    title: '波速球平衡'
+    record_method: 'time'
+    pictures:
+      M: 'Bosu_Ball_Static_Balance-1.svg'
+      F: 'Bosu_Ball_Static_Balance.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 20057
+    full_name: 'Bosu Ball V-ups'
+    title: '波速球举腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Bosu_Ball_V-ups_M.svg'
+      F: 'Bosu_Ball_V-ups_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 20058
+    full_name: 'Boxing with a Punching Bag'
+    title: '打沙包'
+    record_method: 'time'
+    pictures:
+      M: 'Boxing_with_a_Punching_Bag.svg'
+      F: 'Boxing_with_a_Punching_Bag-1.svg'
+    primary_mg:
+    - 'biceps'
+    - 'shoulders'
+    - 'triceps'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 20059
+    full_name: 'Bulgarian Split Squats'
+    title: '分腿蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Bulgarian_Split_Squat_M.svg'
+      F: 'Bulgarian_Split_Squat_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 20060
+    full_name: 'Burpees / Squat Thrusts'
+    title: '波比跳'
+    record_method: 'reps'
+    pictures:
+      M: 'Burpees_M.svg'
+      F: 'Burpees_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'chest'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 20061
+    full_name: 'Butt Kicks'
+    title: '踢臀'
+    record_method: 'reps'
+    pictures:
+      M: 'Butt_Kicks-1.svg'
+      F: 'Butt_Kicks.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 20062
+    full_name: 'Butterflies / Pec Deck / Seated Machine Flyes'
+    title: '器械飞鸟'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Butterfly_M.svg'
+      F: 'Butterfly_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 20063
+    full_name: 'Butterfly Stretch'
+    title: '蝴蝶拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Butterfly_Stretch_M.svg'
+      F: 'Butterfly_Stretch_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'lower-back'
+    related_exs: []

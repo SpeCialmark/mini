@@ -1,0 +1,542 @@
+exercises:
+- data:
+    id: 30001
+    full_name: 'Cable Core Rotation'
+    title: '绳索/弹力带腹肌转体'
+    record_method: 'reps'
+    pictures:
+      M: 'Cable_Core_Rotation_M.svg'
+      F: 'Cable_Core_Rotation_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'obliques'
+
+    related_exs: []
+- data:
+    id: 30002
+    full_name: 'Cable Hammer Biceps Curls'
+    title: '绳索锤式弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Cable_Hammer_Curls-1.svg'
+      F: 'Cable_Hammer_Curls.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 30003
+    full_name: 'Cable Hip Abduction / Adduction'
+    title: '绳索/弹力带髋关节内收'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Cable_Hip_Abduction_M.svg'
+      F: 'Cable_Hip_Abduction_F.svg'
+    primary_mg:
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 30004
+    full_name: 'Cable Hip Extensions'
+    title: '绳索/弹力带臀伸'
+    record_method: 'reps'
+    pictures:
+      M: 'Cable_Hip_Extension_M.svg'
+      F: 'Cable_Hip_Extension_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'hamstrings'
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 30005
+    full_name: 'Cable Rope Overhead Triceps Extensions'
+    title: '绳索过顶肱三头肌屈伸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Cable_Rope_Overhead_Triceps_Extension_M.svg'
+      F: 'Cable_Rope_Overhead_Triceps_Extension_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 30006
+    full_name: 'Cable Shrugs'
+    title: '绳索耸肩'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Cable_Shrug_M.svg'
+      F: 'Cable_Shrug_F.svg'
+    primary_mg:
+    - 'neck-upper-traps'
+    secondary_mg:
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 30007
+    full_name: 'Cable Squat Rows / Row Squats'
+    title: '绳索深蹲划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Squat_Cable_Row_M.svg'
+      F: 'Squat_Cable_Row_F.svg'
+    primary_mg:
+    - 'middle-back-lats'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 30008
+    full_name: 'Cable Triceps Kickbacks'
+    title: '绳索肱三头肌屈伸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Cable_Triceps_Kickback_M.svg'
+      F: 'Cable_Triceps_Kickback_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 30009
+    full_name: 'Cable Upright Rows'
+    title: '绳索直立划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Upright_Cable_Row_M.svg'
+      F: 'Upright_Cable_Row_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 30010
+    full_name: "Captain's Chair Leg / Knee / Hip Raises"
+    title: '举腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Knee_Hip_Raise_M.svg'
+      F: 'Knee_Hip_Raise_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 30011
+    full_name: 'Cardio - Walking'
+    title: '有氧慢走'
+    record_method: 'time'
+    pictures:
+      M: 'Cardio-Walking.svg'
+      F: 'Cardio-Walking-1.svg'
+    primary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 30012
+    full_name: 'Cardio – Cross Trainer / Crosstrainer Machine'
+    title: '有氧椭圆机'
+    record_method: 'time'
+    pictures:
+      M: 'Cardio-Cross_Trainer_Crosstrainer_Machine.svg'
+      F: 'Cardio-Cross_Trainer_Crosstrainer_Machine-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'biceps'
+    - 'calves'
+    - 'triceps'
+    related_exs: []
+- data:
+    id: 30013
+    full_name: 'Cardio – Elliptical Machine'
+    title: '有氧椭圆机 '
+    record_method: 'time'
+    pictures:
+      M: 'Cardio-Elliptical_Machine_M.svg'
+      F: 'Cardio-Elliptical_Machine_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    related_exs: []
+- data:
+    id: 30014
+    full_name: 'Cardio – Recumbent Bike'
+    title: '有氧卧式脚踏车'
+    record_method: 'time'
+    pictures:
+      M: 'Cardio-Recumbent_Bike_M.svg'
+      F: 'Cardio-Recumbent_Bike_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 30015
+    full_name: 'Cardio – Rowing Machine'
+    title: '有氧划船机'
+    record_method: 'time'
+    pictures:
+      M: 'Cardio-Rowing_Machine_M.svg'
+      F: 'Cardio-Rowing_Machine_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'biceps'
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 30016
+    full_name: 'Cardio – Running / Jogging / Treadmill'
+    title: '有氧慢跑'
+    record_method: 'time'
+    pictures:
+      M: 'Cardio-Running_Treadmill_M.svg'
+      F: 'Cardio-Running_Treadmill_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 30017
+    full_name: 'Cardio – Sprints'
+    title: '冲刺跑'
+    record_method: 'time'
+    pictures:
+      M: 'Sprints.svg'
+      F: 'Sprints-1.svg'
+    primary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'chest'
+    - 'middle-back-lats'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 30018
+    full_name: 'Cardio – Stairmaster'
+    title: '有氧爬梯机'
+    record_method: 'time'
+    pictures:
+      M: 'StairMaster.svg'
+      F: 'StairMaster-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    related_exs: []
+- data:
+    id: 30019
+    full_name: 'Cardio – Stairmaster / Stairmill'
+    title: '有氧爬梯机 '
+    record_method: 'time'
+    pictures:
+      M: 'Cardio_Stairmaster.svg'
+      F: 'Cardio_Stairmaster-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    related_exs: []
+- data:
+    id: 30020
+    full_name: 'Cardio – Stationary Bike / Spinning'
+    title: '有氧健身车'
+    record_method: 'time'
+    pictures:
+      M: 'Cardio-Stationary_Bike_M.svg'
+      F: 'Cardio-Stationary_Bike_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 30021
+    full_name: 'Cardio – Swimming'
+    title: '有氧游泳'
+    record_method: 'time'
+    pictures:
+      M: 'Swimming-1.svg'
+      F: 'Swimming.svg'
+    primary_mg:
+    - 'chest'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'middle-back-lats'
+    - 'neck-upper-traps'
+    - 'quadriceps'
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'obliques'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 30022
+    full_name: 'Cardio – Road Bike / Cycling / Riding'
+    title: '有氧骑车'
+    record_method: 'time'
+    pictures:
+      M: 'Cardio-Road_Bike_Cycle.svg'
+      F: 'Cardio-Road_Bike_Cycle-1.svg'
+    primary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 30023
+    full_name: 'Cat Back / Backward Camel Stretch'
+    title: '猫式背部拉伸'
+    record_method: 'reps'
+    pictures:
+      M: 'Cat_Back_Stretches_M.svg'
+      F: 'Cat_Back_Stretches_F.svg'
+    primary_mg:
+    - 'lower-back'
+    secondary_mg:
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 30024
+    full_name: 'Chair / Bench Tricep Dips'
+    title: '平板凳臂屈伸'
+    record_method: 'reps'
+    pictures:
+      M: 'Chair_Tricep_Dip_M.svg'
+      F: 'Chair_Tricep_Dip_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 30025
+    full_name: 'Chair Squats'
+    title: '椅子深蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'chair_squat_M.svg'
+      F: 'chair_squat_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 30026
+    full_name: 'Clamshells / Clams'
+    title: '蚌式'
+    record_method: 'reps'
+    pictures:
+      M: 'Clamshells.svg'
+      F: 'Clamshells-1.svg'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 30027
+    full_name: 'Close Grip Lat Pulldowns / Pull Downs / Pullovers'
+    title: '窄握高位下拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Close_Grip_Lat_Pulldowns-1.svg'
+      F: 'Close-Grip-Lat-Pulldowns.svg'
+    primary_mg:
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'biceps'
+
+    related_exs: []
+- data:
+    id: 30028
+    full_name: 'Close Grip Pullups / Chinups'
+    title: '窄握引体向上'
+    record_method: 'reps'
+    pictures:
+      M: 'Close_Grip_Pullup_Chinup_M.svg'
+      F: 'Close_Grip_Pullup_Chinup_F.svg'
+    primary_mg:
+    - 'lower-back'
+    secondary_mg:
+    - 'biceps'
+    - 'forearms'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 30029
+    full_name: 'Close-Grip Overhand Barbell Bench Press'
+    title: '窄握杠铃卧推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Close-Grip_Barbell_Bench_Press_M.svg'
+      F: 'Close-Grip_Barbell_Bench_Press_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'chest'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 30030
+    full_name: 'Cobra Abdominal Stretch / Old Horse Stretch'
+    title: '腹部拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Cobra_Stretch_M.svg'
+      F: 'Cobra_Stretch_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 30031
+    full_name: 'Crab Toe Touches'
+    title: '摸脚'
+    record_method: 'reps'
+    pictures:
+      M: 'Crab_Toe_Touches.svg'
+      F: 'Crab_Toe_Touches-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'lower-back'
+    - 'quadriceps'
+    - 'shoulders'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'obliques'
+
+    related_exs: []
+- data:
+    id: 30032
+    full_name: 'Crab Walks'
+    title: '螃蟹走'
+    record_method: 'reps'
+    pictures:
+      M: 'Crab_Walks.svg'
+      F: 'Crab_Walks-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 30033
+    full_name: 'Cross Body Mountain Climbers'
+    title: '登山'
+    record_method: 'reps'
+    pictures:
+      M: 'Cross-Body_Mountain_Climbers_M.svg'
+      F: 'Cross-Body_Mountain_Climbers_F.svg'
+    primary_mg:
+    - 'obliques'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 30034
+    full_name: 'Crossbody Cable Row'
+    title: '体前绳索划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Crossbody_Cable_Row_M.svg'
+      F: 'Crossbody_Cable_Row_F.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+
+    related_exs: []
+- data:
+    id: 30035
+    full_name: 'Crunches'
+    title: '卷腹'
+    record_method: 'reps'
+    pictures:
+      M: 'Sit_up_Crunch_M.svg'
+      F: 'Sit_up_Crunch_F.svg'
+    primary_mg:
+    - 'abs'
+
+
+    related_exs: []

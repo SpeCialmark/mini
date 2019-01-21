@@ -1,0 +1,89 @@
+store:
+  image: registry-vpc.cn-shenzhen.aliyuncs.com/11train/store:$TAG
+  command:
+    - gunicorn
+    - 'store_app:app'
+    - '-b'
+    - ':5006'
+    - '-w'
+    - '2'
+    - '--threads'
+    - '2'
+    - '--worker-class'
+    - gevent
+  restart: always
+  environment:
+    - CFG_ENV=production
+    - PYTHONUNBUFFERED=0
+  labels:
+    aliyun.scale: '2'
+    aliyun.rolling_updates: 'true'
+    aliyun.routing.port_5006: 'http://store.11train.com'
+    aliyun.probe.url: 'http://container:5006/api/v1/store/health'
+    aliyun.probe.timeout_seconds: "1"
+    aliyun.probe.initial_delay_seconds: "3"
+
+celery-beat:
+  image: registry-vpc.cn-shenzhen.aliyuncs.com/11train/store:$TAG
+  entrypoint:
+    - celery
+    - '-A'
+    - 'celery_worker:celery'
+    - beat
+    - '-l=info'
+  restart: always
+  environment:
+    - CFG_ENV=production
+    - PYTHONUNBUFFERED=0
+  labels:
+    aliyun.scale: '1'
+    aliyun.probe.cmd: 'celery inspect ping -A celery_worker:celery --workdir /project/store-server/'
+    aliyun.probe.timeout_seconds: "3"
+    aliyun.probe.initial_delay_seconds: "5"
+
+celery-worker:
+  image: registry-vpc.cn-shenzhen.aliyuncs.com/11train/store:$TAG
+  entrypoint:
+    - celery
+    - '-A'
+    - 'celery_worker:celery'
+    - worker
+    - '-l=info'
+    - '--autoscale=6,2'
+    - '-P'
+    - 'eventlet'
+    - '--discard'
+  restart: always
+  environment:
+    - CFG_ENV=production
+    - PYTHONUNBUFFERED=0
+  labels:
+    aliyun.scale: '2'
+    aliyun.probe.cmd: 'celery inspect ping -A celery_worker:celery --workdir /project/store-server/'
+    aliyun.probe.timeout_seconds: "3"
+    aliyun.probe.initial_delay_seconds: "5"
+
+wxopen:
+  image: registry-vpc.cn-shenzhen.aliyuncs.com/11train/store:$TAG
+  command:
+    - gunicorn
+    - 'wxopen_app:app'
+    - '-b'
+    - ':5000'
+    - '-w'
+    - '1'
+    - '--threads'
+    - '2'
+    - '--worker-class'
+    - gevent
+  restart: always
+  environment:
+    - CFG_ENV=production
+    - PYTHONUNBUFFERED=0
+  labels:
+    aliyun.scale: '2'
+    aliyun.rolling_updates: 'true'
+    aliyun.routing.port_5000: 'http://wx.11train.com'
+    aliyun.probe.url: http://container:5000/wechat/health
+    aliyun.probe.timeout_seconds: "1"
+    aliyun.probe.initial_delay_seconds: "3"

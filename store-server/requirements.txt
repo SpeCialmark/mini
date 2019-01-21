@@ -1,0 +1,63 @@
+# yaml
+PyYAML
+ruamel.yaml
+
+# postgres
+SQLAlchemy
+psycopg2
+psycopg2-binary
+
+# redis
+redis==2.10.6
+hiredis
+
+# aliyun
+oss2
+aliyun-python-sdk-core-v3
+aliyun-log-python-sdk
+
+# test
+pytest
+
+
+Flask
+Flask-BabelEx
+Flask-Moment
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Script
+flask-cors
+flask-socketio
+
+Werkzeug
+requests
+
+gunicorn
+gevent
+eventlet
+
+raven
+raven[flask]
+
+blinker
+
+# weixin
+pycrypto
+
+hashids
+wechatpy
+
+# picture
+Pillow
+
+# celery
+celery
+
+# tencent clound
+qcloudapi-sdk-python
+
+pybase62
+
+elastic-apm[flask]==3.0.3
+
+python-redis-lock

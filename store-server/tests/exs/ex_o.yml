@@ -1,0 +1,128 @@
+exercises:
+- data:
+    id: 150001
+    full_name: 'One Arm Barbell Rows'
+    title: '俯身单臂长杠划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'One_Arm_Barbell_Row_M.svg'
+      F: 'One_Arm_Barbell_Row_F.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+
+    related_exs: []
+- data:
+    id: 150002
+    full_name: 'One Arm Kettlebell Swings'
+    title: '单臂壶铃摇摆'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'One-Arm_Kettlebell_Swings.svg'
+      F: 'One-Arm_Kettlebell_Swings-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'shoulders'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 150003
+    full_name: 'One-Arm Dumbbell Preacher Curl'
+    title: '单臂哑铃牧师凳弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'One_Arm_Dumbbell_Preacher_Curl_M.svg'
+      F: 'One_Arm_Dumbbell_Preacher_Curl_F.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 150004
+    full_name: 'One-Arm Kettlebell Push and Press'
+    title: '单臂壶铃推举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'One-Arm_Kettlebell_Push_Press_M.svg'
+      F: 'One-Arm_Kettlebell_Push_Press_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 150005
+    full_name: 'One-Arm Kettlebell Rows'
+    title: '单臂壶铃划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'One-Arm_Kettlebell_Row_M.svg'
+      F: 'One-Arm_Kettlebell_Row_F.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+
+    related_exs: []
+- data:
+    id: 150006
+    full_name: 'One-Arm Kettlebell Snatch'
+    title: '单臂壶铃抓举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'One-Arm_Kettlebell_Snatch_M.svg'
+      F: 'One-Arm_Kettlebell_Snatch_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'lower-back'
+    - 'triceps'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 150007
+    full_name: 'Overhead Cable Curl / Crucifix Curls'
+    title: '过顶绳索弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Overhead_Cable_Curl_M.svg'
+      F: 'Overhead_Cable_Curl_F.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 150008
+    full_name: 'Overhead Triceps Stretch'
+    title: '肱三头肌拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Overhead_Triceps_Stretch_M.svg'
+      F: 'Overhead_Triceps_Stretch_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'shoulders'
+    related_exs: []

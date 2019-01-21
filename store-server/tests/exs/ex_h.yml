@@ -1,0 +1,288 @@
+exercises:
+- data:
+    id: 80001
+    full_name: 'Hammer Strength Machine / Seated Chest Press'
+    title: '悍马机推胸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Hammer_Strength_Machine_Chest_Press_M.svg'
+      F: 'Hammer_Strength_Machine_Chest_Press_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 80002
+    full_name: 'Hamstring Stretch'
+    title: '大腿拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Hamstring_Stretch_M.svg'
+      F: 'Hamstring_Stretch_F.svg'
+    primary_mg:
+    - 'hamstrings'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 80003
+    full_name: 'Handstand Push-ups / Pushups'
+    title: '倒立俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Handstand_Push-up_M.svg'
+      F: 'Handstand_Push-up_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    describe:
+      explain_en: |
+        With your feet against a wall, bring yourself into a push-up position.
+        Walk your feet up the wall until you are upside down.
+        With a tight core, allow your feet to support you as you slowly lower yourself towards the floor.
+        Pause at the bottom, feeling the tension in your shoulders, then push yourself back up.
+        Repeat.
+        When finished, walk yourself back down the wall.
+      explain_ch: |
+        脚靠在墙上，进入俯卧撑姿势。
+        脚一步步往墙走，直到倒过来。
+        收紧腹部肌肉，可以让脚支撑着部分重量，慢慢地将自己压向地板。
+        在底部停下来，感受肩上的紧张，然后把自己推回来。
+        重复。
+        完成后，脚从墙上走下来。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑
+- data:
+    id: 80004
+    full_name: 'Hanging Knee Raises'
+    title: '悬垂提膝'
+    record_method: 'reps'
+    pictures:
+      M: 'Hanging_Knee_Raises-1.svg'
+      F: 'Hanging_Knee_Raises.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 80005
+    full_name: 'Hanging Leg Raises'
+    title: '悬垂举腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Hanging_Leg_Raise_M.svg'
+      F: 'Hanging_Leg_Raise_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'forearms'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 80006
+    full_name: 'Hanging Leg Raises to Bar'
+    title: '悬垂高举腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Hanging_Leg_Raises_to_Bar.svg'
+      F: 'Hanging_Leg_Raises_to_Bar-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    secondary_mg:
+    - 'middle-back-lats'
+
+    related_exs: []
+- data:
+    id: 80007
+    full_name: 'Hanging Windshield Wipers'
+    title: '悬垂雨刷'
+    record_method: 'reps'
+    pictures:
+      M: 'Hanging_Windshield_Wipers.svg'
+      F: 'Hanging_Windshield_Wipers-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    secondary_mg:
+    - 'middle-back-lats'
+
+    related_exs: []
+- data:
+    id: 80008
+    full_name: 'Hex / Trap Bar / Cage Deadlifts / Squats'
+    title: '六角杠铃硬拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Hex_Bar_Cage_Deadlifts.svg'
+      F: 'Hex_Bar_Cage_Deadlifts-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'lower-back'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    related_exs: []
+- data:
+    id: 80009
+    full_name: 'High Box Jumps'
+    title: '跳箱'
+    record_method: 'reps'
+    pictures:
+      M: 'High_Box_Jump_M.svg'
+      F: 'High_Box_Jump_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 80010
+    full_name: 'High Knees / Front Knee Lifts / Run / Jog on the Spot'
+    title: '高抬腿'
+    record_method: 'time'
+    pictures:
+      M: 'High_Knees_M.svg'
+      F: 'High_Knees_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 80011
+    full_name: 'Hindu / Judo Push-up / Dive Bombers'
+    title: '俯冲式俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Dive_Bomber_Push-up_M.svg'
+      F: 'Dive_Bomber_Push-up_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+    secondary_mg:
+    - 'lower-back'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 80012
+    full_name: 'Hindu Squats'
+    title: '印度深蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'Hindu_Squats-1.svg'
+      F: 'Hindu_Squats.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 80013
+    full_name: 'Hip Circles'
+    title: '臀部划圈'
+    record_method: 'time'
+    pictures:
+      M: 'Hip_Circles.svg'
+      F: 'Hip_Circles-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 80014
+    full_name: 'Hip Raises / Butt Lift / Bridges'
+    title: '臀桥'
+    record_method: 'reps'
+    pictures:
+      M: 'Hip_Raise_M.svg'
+      F: 'Hip_Raise_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    secondary_mg:
+    - 'abs'
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 80015
+    full_name: 'Hollow Body Rock Hold'
+    title: '双腿直腿伸展'
+    record_method: 'reps'
+    pictures:
+      M: 'Hollow_Body_Rock_Hold.svg'
+      F: 'Hollow_Body_Rock_Hold-1.svg'
+    primary_mg:
+    - 'abs'
+    related_exs: []

@@ -1,0 +1,83 @@
+exercises:
+
+- data:
+    id: 210001
+    full_name: 'Underhand Grip Barbell Bench Press'
+    title: '下手杠铃卧推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Underhand_Grip_Barbell_Bench_Press.svg'
+      F: 'Underhand_Grip_Barbell_Bench_Press-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'shoulders'
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+
+
+    related_exs: []
+- data:
+    id: 210002
+    full_name: 'Upright Barbell Rows'
+    title: '直立杠铃划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Barbell_Upright_Row_M.svg'
+      F: 'Barbell_Upright_Row_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'neck-upper-traps'
+
+    related_exs: []
+- data:
+    id: 210003
+    full_name: 'Upright Dumbbell Rows'
+    title: '站姿哑铃直立划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Upright_Row_M.svg'
+      F: 'Dumbbell_Upright_Row_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'forearms'
+    - 'upper-back-lower-traps'
+
+
+    related_exs: []
+- data:
+    id: 210004
+    full_name: 'Upright Kettlebell Front Rows'
+    title: '直立壶铃划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Upright_Kettlebell_Rows.svg'
+      F: 'Upright_Kettlebell_Rows-1.svg'
+    primary_mg:
+    - 'shoulders'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'abs'
+
+
+    related_exs: []
+- data:
+    id: 210005
+    full_name: 'Upward Cable Wood Chops'
+    title: '向上绳索伐木'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Wood_Chop_M.svg'
+      F: 'Wood_Chop_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    secondary_mg:
+    - 'shoulders'
+    related_exs: []

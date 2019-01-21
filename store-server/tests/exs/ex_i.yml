@@ -1,0 +1,188 @@
+exercises:
+- data:
+    id: 90001
+    full_name: 'Inchworms / Walkouts'
+    title: '尺蠖练习'
+    record_method: 'reps'
+    pictures:
+      M: 'Inchworm_M.svg'
+      F: 'Inchworm_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+    secondary_mg:
+    - 'biceps'
+    - 'calves'
+    - 'chest'
+    - 'forearms'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 90002
+    full_name: 'Incline Barbell Bench Chest Press'
+    title: '上斜杠铃推胸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Incline_Barbell_Bench_Press_M.svg'
+      F: 'Incline_Barbell_Bench_Press_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 90003
+    full_name: 'Incline Bench Dumbbell Flyes'
+    title: '上斜哑铃飞鸟'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Incline_Dumbbell_Fly_M.svg'
+      F: 'Incline_Dumbbell_Fly_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 90004
+    full_name: 'Incline Close-Grip Bench Press'
+    title: '上斜窄距卧推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Incline_Close-Grip_Bench_Press.svg'
+      F: 'Incline_Close-Grip_Bench_Press-2.svg'
+    primary_mg:
+    - 'chest'
+    - 'triceps'
+    secondary_mg:
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 90005
+    full_name: 'Incline Dumbbell Bench Chest Press'
+    title: '上斜哑铃卧推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Incline_Dumbbell_Press_M.svg'
+      F: 'Incline_Dumbbell_Press_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 90006
+    full_name: 'Incline Push-ups / Pushups'
+    title: '上斜俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Incline_Push-ups-1.svg'
+      F: 'Incline_Push-ups.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+    describe:
+      explain_en: |
+        Set up a bench or stable elevated surface. Begin with both hands on the bench at shoulder-width or just outside of shoulder-width.
+        Place your feet straight behind you while you tighten your abs and engage the hips. Your hips should not dip or elevate too high during the movement.
+        Slowly lower yourself towards the bench. Once your upper arms are parallel with the floor, pause, and return to the starting position.
+      explain_ch: |
+        找个哑铃凳或稳定的凳子。 双手分开，与肩同宽，或者略宽。
+        在运动过程中，臀部注意不要过高。
+        慢慢地胸部下来。 一旦上臂平行于地面，暂停，并返回到起始位置。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑
+- data:
+    id: 90007
+    full_name: 'Internal Cable Shoulder Rotation'
+    title: '绳索内旋'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Internal_Cable_Shoulder_Rotation.svg'
+      F: 'Internal_Cable_Shoulder_Rotation-1.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 90008
+    full_name: 'Inverted Rows / Reverse Pull-ups'
+    title: '反向划船'
+    record_method: 'reps'
+    pictures:
+      M: 'Inverted_Row_M.svg'
+      F: 'Inverted_Row_F.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'shoulders'
+    related_exs: []

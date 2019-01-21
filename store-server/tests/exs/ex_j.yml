@@ -1,0 +1,62 @@
+exercises:
+- data:
+    id: 100001
+    full_name: 'Jackknife Sit-up / Crunch / Toe Touches'
+    title: '仰卧两头起'
+    record_method: 'reps'
+    pictures:
+      M: 'Jackknife_Sit-up_M.svg'
+      F: 'Jackknife_Sit-up_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 100002
+    full_name: 'Jump Squats'
+    title: '深蹲跳'
+    record_method: 'reps'
+    pictures:
+      M: 'Jump_Squat_M.svg'
+      F: 'Jump_Squat_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 100003
+    full_name: 'Jumping Calf Press / Raises'
+    title: '提踵跳'
+    record_method: 'reps'
+    pictures:
+      M: 'Jumping_Calf_Raise_M.svg'
+      F: 'Jumping_Calf_Raise_F.svg'
+    primary_mg:
+    - 'calves'
+
+
+    related_exs: []
+- data:
+    id: 100004
+    full_name: 'Jumping Jacks / Star Jumps'
+    title: '开合跳'
+    record_method: 'reps'
+    pictures:
+      M: 'Jumping_Jacks_M.svg'
+      F: 'Jumping_Jacks_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+    - 'shoulders'
+    related_exs: []

@@ -1,0 +1,560 @@
+exercises:
+- data:
+    id: 180001
+    full_name: 'Rack Pulls'
+    title: '架上硬拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Rack_Pulls_M.svg'
+      F: 'Rack_Pulls_F.svg'
+    primary_mg:
+    - 'lower-back'
+    secondary_mg:
+    - 'abs'
+    - 'hamstrings'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 180002
+    full_name: 'Ragdoll / Forward Bend / Fold Stretch / Toe Touches'
+    title: '站立触脚趾'
+    record_method: 'reps'
+    pictures:
+      M: 'Ragdoll_Forward_Bend_Fold_Stretch_Toe-Touches.svg'
+      F: 'Ragdoll_Forward_Bend_Fold_Stretch_Toe_Touches.svg'
+    primary_mg:
+    - 'calves'
+    - 'hamstrings'
+    secondary_mg:
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 180003
+    full_name: 'Rear Delt Machine Flyes'
+    title: '反向器械飞鸟'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Rear_Delt_Flyes_Machine.svg'
+      F: 'Rear_Delt_Flyes_Machine-1.svg'
+    primary_mg:
+    - 'shoulders'
+
+
+    related_exs: []
+- data:
+    id: 180004
+    full_name: 'Renegade / Alternating Plank / Commando Rows'
+    title: '交替俯卧划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Renegade_Row_Plank-Row_M.svg'
+      F: 'Renegade_Row_Plank-Row_F.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'chest'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 180005
+    full_name: 'Resistance Band Bent Over Rows'
+    title: '弹力带划船'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Bent_Over_Row.svg'
+      F: 'Resistance_Band_Bent_Over_Row-1.svg'
+    primary_mg:
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+
+    related_exs: []
+- data:
+    id: 180006
+    full_name: 'Resistance Band Bicep Curls'
+    title: '弹力带弯举'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Bicep_Curls.svg'
+      F: 'Resistance_Band_Bicep_Curls-1.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 180007
+    full_name: 'Resistance Band Chest Press'
+    title: '弹力带推胸'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Chest_Press.svg'
+      F: 'Resistance_Band_Chest_Press-1.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 180008
+    full_name: 'Resistance Band Clam Shells'
+    title: '弹力带蚌式'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Thigh_Clams.svg'
+      F: 'Resistance_Band_Thigh_Clams-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+
+
+    related_exs: []
+- data:
+    id: 180009
+    full_name: 'Resistance Band Deadlifts'
+    title: '弹力带硬拉'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Deadlifts.svg'
+      F: 'Resistance_Band_Deadlifts-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    secondary_mg:
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 180010
+    full_name: 'Resistance Band Glute Bridges'
+    title: '弹力带臀桥'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Glute_Bridge.svg'
+      F: 'Resistance_Band_Glute_Bridge-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+    secondary_mg:
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 180011
+    full_name: 'Resistance Band Glute Kickbacks'
+    title: '弹力带后踢'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Glute_Kickbacks.svg'
+      F: 'Resistance_Band_Glute_Kickbacks-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+
+
+    related_exs: []
+- data:
+    id: 180012
+    full_name: 'Resistance Band Lateral Raises / Side Raises'
+    title: '弹力带侧平举'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Lateral_Raise.svg'
+      F: 'Resistance_Band_Lateral_Raise-1.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 180013
+    full_name: 'Resistance Band Lying Leg Extensions'
+    title: '弹力带腿拉伸'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Lying_Leg_Extensions.svg'
+      F: 'Resistance_Band_Lying_Leg_Extensions-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 180014
+    full_name: 'Resistance Band Push-ups / Pushups'
+    title: '弹力带俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Push-ups.svg'
+      F: 'Resistance_Band_Push-ups-1.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+    describe:
+      explain_en: |
+        Bring yourself to the ground and place your hands below your shoulders and your feet directly behind you.
+        Wrap a resistance band behind you so that the band is stretched across your upper back - not your neck. Brace your core and maintain a flat back.
+        Slowly lower yourself and once your upper arms are parallel with the floor, pause, and return to the starting position. Feel the tension in your chest and triceps as the band provides resistance.
+      explain_ch: |
+        在身后包一个弹力带，让弹力带穿过后背， 而不是脖子。 收紧腹部肌肉，保持背部平坦。
+        慢慢放下，一旦上臂平行于地面，暂停，然后回到起始位置。 弹力带提供阻力，增加强度，可以更好感受胸部和肱三头肌的紧张感。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑
+- data:
+    id: 180015
+    full_name: 'Resistance Band Shoulder Front Raises'
+    title: '弹力带前平举'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Front_Raises-1.svg'
+      F: 'Resistance_Band_Front_Raises.svg'
+    primary_mg:
+    - 'shoulders'
+
+
+    related_exs: []
+- data:
+    id: 180016
+    full_name: 'Resistance Band Side Steps'
+    title: '弹力带侧步'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Side_Steps.svg'
+      F: 'Resistance_Band_Side_Steps-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 180017
+    full_name: 'Resistance Band Squat and Overhead Press'
+    title: '弹力带深蹲推肩'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Squat_and_Overhead_Press.svg'
+      F: 'Resistance_Band_Squat_and_Overhead_Press-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 180018
+    full_name: 'Resistance Band Squats'
+    title: '弹力带深蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Squat.svg'
+      F: 'Resistance_Band_Squat-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 180019
+    full_name: 'Resistance Band Standing Shoulder Press / Overhead Press'
+    title: '弹力带推肩'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Standing_Shoulder_Press.svg'
+      F: 'Resistance_Band_Standing_Shoulder_Press-1.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 180020
+    full_name: 'Resistance Band Tricep Kickbacks'
+    title: '弹力带肱三头肌屈伸'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Tricep_Kickback.svg'
+      F: 'Resistance_Band_Tricep_Kickback-1.svg'
+    primary_mg:
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 180021
+    full_name: 'Resistance Band Tricep Overhead Extensions'
+    title: '弹力带肱三头肌过顶屈伸'
+    record_method: 'reps'
+    pictures:
+      M: 'Resistance_Band_Tricep_Overhead_Extension.svg'
+      F: 'Resistance_Band_Tricep_Overhead_Extension-1.svg'
+    primary_mg:
+    - 'triceps'
+
+
+    related_exs: []
+- data:
+    id: 180022
+    full_name: 'Reverse Bench Crunches'
+    title: '平板凳反向卷腹'
+    record_method: 'reps'
+    pictures:
+      M: 'Reversed_Bench_Crunch_M.svg'
+      F: 'Reversed_Bench_Crunch_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+    related_exs: []
+- data:
+    id: 180023
+    full_name: 'Reverse Cable Flyes / Crossovers'
+    title: '绳索反向飞鸟'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Reverse_cable_flyes_Reverse_cable_crossovers.svg'
+      F: 'Reverse_cable_flyes_Reverse_cable_crossovers-1.svg'
+    primary_mg:
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'middle-back-lats'
+
+    related_exs: []
+- data:
+    id: 180024
+    full_name: 'Reverse Crunch'
+    title: '反向卷腹'
+    record_method: 'reps'
+    pictures:
+      M: 'Reverse_Crunch_M.svg'
+      F: 'Reverse_Crunch_F.svg'
+    primary_mg:
+    - 'abs'
+    related_exs: []
+- data:
+    id: 180025
+    full_name: 'Reverse Dumbbell Lunges'
+    title: '哑铃反向弓步'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Reverse_Dumbbell_Lunge_M.svg'
+      F: 'Reverse_Dumbbell_Lunge_F.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 180026
+    full_name: 'Reverse Flyes'
+    title: '反向飞鸟'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Reverse_Flyes_M.svg'
+      F: 'Reverse_Flyes_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 180027
+    full_name: 'Reverse Grip EZ Curl Bar Curls'
+    title: 'EZ曲杆反向弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Reverse_Grip_EZ_Bar_Curl-1.svg'
+      F: 'Reverse_Grip_EZ_Bar_Curl.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 180028
+    full_name: 'Reverse Triceps Bench Press'
+    title: '反握肱三头肌卧推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Reverse_Triceps_Bench_Press_M.svg'
+      F: 'Reverse_Triceps_Bench_Press_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'chest'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 180029
+    full_name: 'Roman Chair / Hyperextension Bench Side Bends'
+    title: '腹肌侧弯'
+    record_method: 'reps'
+    pictures:
+      M: 'Romain_Chair_Hyperextention_Bench_Side_Bends.svg'
+      F: 'Romain_Chair_Hyperextention_Bench_Side_Bends-1.svg'
+    primary_mg:
+    - 'obliques'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 180030
+    full_name: 'Romanian Deadlifts'
+    title: '罗马尼亚硬拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Romanian_Deadlift_M.svg'
+      F: 'Romanian_Deadlift_F.svg'
+    primary_mg:
+    - 'hamstrings'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 180031
+    full_name: 'Rope Climb'
+    title: '爬绳'
+    record_method: 'reps'
+    pictures:
+      M: 'Rope_Climb.svg'
+      F: 'Rope_Climb-1.svg'
+    primary_mg:
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'abs'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 180032
+    full_name: 'Rope Jumping / Jump rope / Skipping'
+    title: '跳绳'
+    record_method: 'reps'
+    pictures:
+      M: 'Rope_jumping_M.svg'
+      F: 'Rope_jumping_F.svg'
+    primary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'abs'
+    - 'hamstrings'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 180033
+    full_name: 'Roundhouse Kicks'
+    title: '侧踢'
+    record_method: 'reps'
+    pictures:
+      M: 'Roundhouse_Kicks.svg'
+      F: 'Roundhouse_Kicks-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 180034
+    full_name: 'Russian / Mason / V-Sit Twists'
+    title: '俄罗斯转体'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Weighted_Russian_Twist_M.svg'
+      F: 'Russian_Twist_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'lower-back'
+
+    related_exs: []

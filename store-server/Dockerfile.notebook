@@ -1,0 +1,17 @@
+FROM jupyter/minimal-notebook
+
+USER $NB_UID
+
+RUN pip install --upgrade pip && \
+    pip install ipywidgets && \
+    # Activate ipywidgets extension in the environment that runs the notebook server
+    jupyter nbextension enable --py widgetsnbextension --sys-prefix && \
+    # Also activate ipywidgets extension for JupyterLab
+    jupyter labextension install @jupyter-widgets/jupyterlab-manager@^0.38.1
+
+COPY requirements.txt /tmp/
+RUN pip install -r /tmp/requirements.txt && \
+    fix-permissions $CONDA_DIR && \
+    fix-permissions /home/$NB_USER
+
+USER $NB_UID

@@ -1,0 +1,1828 @@
+exercises:
+- data:
+    id: 190001
+    full_name: 'Samson Stretch / Lunge Stretch'
+    title: '箭步拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Samson_Stretch.svg'
+      F: 'Samson_Stretch-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'biceps'
+    - 'calves'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 190002
+    full_name: 'Scarecrows'
+    title: '稻草人'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Scarecrow_M.svg'
+      F: 'Scarecrow_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'shoulders'
+    secondary_mg:
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 190003
+    full_name: 'Scorpion Stretch'
+    title: '蝎子背部拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Scorpion_M.svg'
+      F: 'Scorpion_F.svg'
+    primary_mg:
+    - 'lower-back'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 190004
+    full_name: 'Seal Jacks'
+    title: '海豹跳'
+    record_method: 'reps'
+    pictures:
+      M: 'Seal_Jacks.svg'
+      F: 'Seal_Jacks-1.svg'
+    primary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 190005
+    full_name: 'Seated / Bent Over Rear Delt Raises'
+    title: '坐姿俯身后束提举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Rear_Lateral_Dumbbell_Raise_M.svg'
+      F: 'Seated_Rear_Lateral_Dumbbell_Raise_F.svg'
+    primary_mg:
+    - 'neck-upper-traps'
+    - 'shoulders'
+    secondary_mg:
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 190006
+    full_name: 'Seated / Low Cable Back Rows'
+    title: '坐姿绳索划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Low_Cable_Row_M.svg'
+      F: 'Seated_Low_Cable_Row_F.svg'
+    primary_mg:
+    - 'lower-back'
+    secondary_mg:
+    - 'biceps'
+    - 'shoulders'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 190007
+    full_name: 'Seated Alternating Incline Bench Dumbbell Curls'
+    title: '上斜哑铃交替弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Alternate_Incline_Dumbbell_Curl_M.svg'
+      F: 'Alternate_Incline_Dumbbell_Curl_F.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'abs'
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 190008
+    full_name: 'Seated Arnold Dumbbell Press'
+    title: '坐姿阿诺德哑铃推举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Arnold_Dumbbell_Press_M.svg'
+      F: 'Seated_Arnold_Dumbbell_Press_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'biceps'
+    - 'neck-upper-traps'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 190009
+    full_name: 'Seated Barbell Military Press'
+    title: '坐姿杠铃推举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Barbell_Military_Press_M.svg'
+      F: 'Seated_Barbell_Military_Press_F.svg'
+    primary_mg:
+    - 'shoulders'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'abs'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 190010
+    full_name: 'Seated Bench Leg Pull-Ins / Flat Bench Knee-ups'
+    title: '平板坐姿收腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Bench_Leg_Pull-in_Knee-up_M.svg'
+      F: 'Bench_Leg_Pull-In_Knee-up_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 190011
+    full_name: 'Seated Calf Raises'
+    title: '坐姿提踵'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Calf_Raise_M.svg'
+      F: 'Seated_Calf_Raise_F.svg'
+    primary_mg:
+    - 'calves'
+
+
+    related_exs: []
+- data:
+    id: 190012
+    full_name: 'Seated Dumbbell Bicep Curls'
+    title: '坐姿哑铃弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Dumbbell_Curl_M.svg'
+      F: 'Seated_Dumbbell_Curl_F.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 190013
+    full_name: 'Seated Dumbbell Concentration Curls'
+    title: '托臂弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Concentration_Curls_M.svg'
+      F: 'Concentration_Curls_F.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 190014
+    full_name: 'Seated Lateral / Side Shoulder Dumbbell Raises'
+    title: '坐姿哑铃侧平举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Lateral_Dumbbell_Raise_M.svg'
+      F: 'Seated_Lateral_Dumbbell_Raise_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'neck-upper-traps'
+
+    related_exs: []
+- data:
+    id: 190015
+    full_name: 'Seated Leg Curls'
+    title: '坐姿腿弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Leg_curl_M.svg'
+      F: 'Seated_Leg_curl_F.svg'
+    primary_mg:
+    - 'hamstrings'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 190016
+    full_name: 'Seated Machine Back Row'
+    title: '器械孤立划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Machine_Back_Row.svg'
+      F: 'Seated_Machine_Back_Row-1.svg'
+    primary_mg:
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+
+    related_exs: []
+- data:
+    id: 190017
+    full_name: 'Seated Machine Leg Extensions'
+    title: '器械腿屈伸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Machine_Leg_Extensions_M.svg'
+      F: 'Seated_Machine_Leg_Extensions_F.svg'
+    primary_mg:
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 190018
+    full_name: 'Seated Palm-Down Wrist Curls'
+    title: '坐姿正握手腕弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Palm-Down_Barbell_Wrist_Curl_M.svg'
+      F: 'Seated_Palm-Down_Barbell_Wrist_Curl_F.svg'
+    primary_mg:
+    - 'forearms'
+
+
+    related_exs: []
+- data:
+    id: 190019
+    full_name: 'Seated Palm-Up Wrist Curls'
+    title: '坐姿反握手腕弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Palm-Up_Barbell_Wrist_Curl_M.svg'
+      F: 'Seated_Palm-Up_Barbell_Wrist_Curl_F.svg'
+    primary_mg:
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 190020
+    full_name: 'Seated Single Arm Overhead Dumbbell Tricep Extensions'
+    title: '哑铃单臂肱三头肌屈伸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Single_Arm_Overhead_Dumbbell_Tricep_Extension.svg'
+      F: 'Seated_Single_Arm_Overhead_Dumbbell_Tricep_Extension-1.svg'
+    primary_mg:
+    - 'shoulders'
+    - 'triceps'
+
+
+    related_exs: []
+- data:
+    id: 190021
+    full_name: 'Seated Tricep Press / Overhead Extensions'
+    title: '哑铃肱三头肌屈伸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Tricep_Press_M.svg'
+      F: 'Seated_Tricep_Press_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 190022
+    full_name: 'Seated Vacuum'
+    title: '真空吸腹'
+    record_method: 'reps'
+    pictures:
+      M: 'Seated_Vacuum_M.svg'
+      F: 'Seated_Vacuum_F.svg'
+    primary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 190023
+    full_name: 'Semi-Supine Laying Down / Constructive Rest Position'
+    title: '仰卧休息'
+    record_method: 'time'
+    pictures:
+      M: 'Semi-Supine_Laying_Down_Constructive_Rest_Position.svg'
+      F: 'Semi-Supine_Laying_Down_Constructive_Rest_Position-1.svg'
+    primary_mg:
+    - 'lower-back'
+    secondary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 190024
+    full_name: 'Shadow Boxing'
+    title: '影子拳'
+    record_method: 'time'
+    pictures:
+      M: 'Shadow_Boxing.svg'
+      F: 'Shadow_Boxing-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'shoulders'
+    - 'triceps'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+    - 'quadriceps'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 190025
+    full_name: 'Shoulder Pole / Broomstick Stretch'
+    title: '肩部杆子拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Shoulder_Pole_Broomstick_Stretch.svg'
+      F: 'Shoulder_Pole_Broomstick_Stretch-1.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'chest'
+
+    related_exs: []
+- data:
+    id: 190026
+    full_name: 'Shoulder Stretch'
+    title: '肩部拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Shoulder_Stretch_M.svg'
+      F: 'Shoulder_Stretch_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'neck-upper-traps'
+
+    related_exs: []
+- data:
+    id: 190027
+    full_name: 'Side / Lateral Medicine Ball Throw / Slam'
+    title: '药球转身掷墙'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Side_Medicine_Ball_Throw_Slam.svg'
+      F: 'Side_Medicine_Ball_Throw_Slam-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+    - 'obliques'
+    - 'shoulders'
+    secondary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'middle-back-lats'
+    related_exs: []
+- data:
+    id: 190028
+    full_name: 'Side / Lateral Suffles / Hops / Skaters'
+    title: '滑冰式'
+    record_method: 'reps'
+    pictures:
+      M: 'Skaters_M.svg'
+      F: 'Skaters_F.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 190029
+    full_name: 'Side / Oblique Crunches'
+    title: '侧卷腹'
+    record_method: 'reps'
+    pictures:
+      M: 'Side_Crunches.svg'
+      F: 'Side_Crunches-1.svg'
+    primary_mg:
+    - 'obliques'
+
+
+    related_exs: []
+- data:
+    id: 190030
+    full_name: 'Side Lateral Leg / Hip Swings'
+    title: '摆腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Side_Leg_Hip_Swings_M.svg'
+      F: 'Side_Leg_Hip_Swings_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 190031
+    full_name: 'Side Lying Quad Stretch'
+    title: '股四头肌拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Side_Lying_Quad_Stretch.svg'
+      F: 'Side_Lying_Quad_Stretch-1.svg'
+    primary_mg:
+    - 'quadriceps'
+
+
+    related_exs: []
+- data:
+    id: 190032
+    full_name: 'Side Plank'
+    title: '侧支撑'
+    record_method: 'time'
+    pictures:
+      M: 'Side_plank_M.svg'
+      F: 'Side_Plank_F.svg'
+    primary_mg:
+    - 'obliques'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 190033
+    full_name: 'Side Plank Leg Raises'
+    title: '侧撑抬腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Side_Plank_Leg_Raises.svg'
+      F: 'Side_Plank_Leg_Raises-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 190034
+    full_name: 'Side to Side Jump Squats'
+    title: '边到边深蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'Side_to_Side_Jump_Squat_M.svg'
+      F: 'Side_to_Side_Jump_Squat_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 190035
+    full_name: 'Single / One Arm Dumbbell Bench Rows'
+    title: '单臂哑铃划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'One_Arm_Dumbbell_Row_M.svg'
+      F: 'One_Arm_Dumbbell_Row_F.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 190036
+    full_name: 'Single Arm Cable Lateral / Side Raise'
+    title: '单臂绳索侧平举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Single_Arm_Cable_Lateral_Side_Raise-1.svg'
+      F: 'Single_Arm_Cable_Lateral_Side_Raise.svg'
+    primary_mg:
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 190037
+    full_name: 'Single Arm Chest Press'
+    title: '单臂胸推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Single_arm_dumbbell_chest_press_M.svg'
+      F: 'Single_arm_dumbbell_chest_press_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 190038
+    full_name: 'Single Arm Dumbbell / Suitcase Carry'
+    title: '单臂哑铃负重行走'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Single_Arm_Dumbbell_Suitcase_Carry.svg'
+      F: 'Single_Arm_Dumbbell_Suitcase_Carry-1.svg'
+    primary_mg:
+    - 'obliques'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 190039
+    full_name: 'Single Arm Medicine Ball Push-Ups / Pushups'
+    title: '单臂药球俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Medicine_Ball_Push-up_Single_Arm_M.svg'
+      F: 'Medicine_Ball_Push-up_Single_Arm_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'forearms'
+    - 'shoulders'
+    - 'triceps'
+    describe:
+      explain_en: |
+        In a push-up position, place one hand on top of the medicine ball and other hand on floor, slightly wider than shoulder width apart.
+        Keep one arm straight on floor and other arm bent with your hand on the ball. Straighten body and set feet shoulder width apart.
+        Lower body until you feel a stretch in your shoulder and / or chest.
+        Push body up in a rapid motion.
+        Repeat.
+      explain_ch: |
+        俯卧撑姿势，一只手放在药球上，另一只手放在地板上，两手间距稍比肩宽。两脚分开与肩同宽。
+        保持一只手在地板上，另一只手支撑在球上。胸部下来，直到感觉到肩膀和胸部拉伸。
+        快速推上身体，回到初始位置。
+        重复。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑
+- data:
+    id: 190040
+    full_name: 'Single Leg Bench Bodyweight Squats'
+    title: '单腿箱式深蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'Single_Leg_Bench_Bodyweight_Squats.svg'
+      F: 'Single_Leg_Bench_Bodyweight_Squats-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 190041
+    full_name: 'Single Leg Glute Bridge / Hip Extension with Leg Lift'
+    title: '单腿臀桥'
+    record_method: 'reps'
+    pictures:
+      M: 'Single_Leg_Glute_Bridge_M.svg'
+      F: 'Single_Leg_Glute_Bridge_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'abs'
+    - 'hamstrings'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 190042
+    full_name: 'Single Leg Swiss Ball Hips Raises / Leg Curls'
+    title: '单腿瑞士球提臀'
+    record_method: 'reps'
+    pictures:
+      M: 'Single_Leg_Swiss_Ball_Hip_Raise_Leg_Curl_M.svg'
+      F: 'Single_Leg_Swiss_Ball_Hip_Raise_Leg_Curl_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+
+
+    related_exs: []
+- data:
+    id: 190043
+    full_name: 'Single Straight Leg Dumbbell Deadlift'
+    title: '单腿哑铃硬拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Single_Straight_Leg_Dumbbell_Deadlift.svg'
+      F: 'Single_Straight_Leg_Dumbbell_Deadlift-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 190044
+    full_name: 'Sissy Squats'
+    title: '负重挺髋蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Sissy_Squats.svg'
+      F: 'Sissy_Squats-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 190045
+    full_name: 'Sit-ups'
+    title: '仰卧起坐'
+    record_method: 'reps'
+    pictures:
+      M: 'Sit-ups.svg'
+      F: 'Sit-up_F.svg'
+    primary_mg:
+    - 'abs'
+    related_exs: []
+- data:
+    id: 190046
+    full_name: 'Sled Push'
+    title: '滑橇推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Sled_Push-1.svg'
+      F: 'Sled_Push.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 190047
+    full_name: 'Smith Machine Bench Chest Press'
+    title: '史密斯机卧推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Smith_Machine_Chest_Press_M.svg'
+      F: 'Smith_Machine_Chest_Press_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 190048
+    full_name: 'Smith Machine Shoulder Press'
+    title: '史密斯机推肩'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Smith_Machine_Shoulder_Press.svg'
+      F: 'Smith_Machine_Shoulder_Press-1.svg'
+    secondary_mg:
+    - 'shoulders'
+#  网站可能有误, 只有secondary, 没有primary
+
+    related_exs: []
+- data:
+    id: 190049
+    full_name: 'Smith Machine Squats'
+    title: '史密斯机深蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Smith_Machine_Squats-1.svg'
+      F: 'Smith_Machine_Squats.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'hamstrings'
+    - 'glutes-hip-flexors'
+#  网站可能有误, hamstring出现在primary和secondary.
+
+    related_exs: []
+- data:
+    id: 190050
+    full_name: 'Snap Jumps'
+    title: '快速跳'
+    record_method: 'reps'
+    pictures:
+      M: 'Snap_Jumps.svg'
+      F: 'Snap_Jumps-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 190051
+    full_name: 'Spiderman Push-ups / Pushups'
+    title: '蜘蛛俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Spiderman_Push_Up_M.svg'
+      F: 'Spiderman_Push_Up_F.svg'
+    primary_mg:
+    - 'chest'
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    describe:
+      explain_en: |
+        Go into a standard push-up position, supporting your weight on your toes and hands. Your back is flat and your core is tight. Your hands should be directly beneath your shoulders.
+        Lower yourself into a push-up. Focus the tension in the chest.
+        As you descend, bring your right leg up and to the side. Try to touch the knee to the elbow. As you push yourself back up, return the leg to its original position. Repeat with the other side.
+      explain_ch: |
+        进入标准的俯卧撑姿势，腹肌收紧，背部平坦。 双手在肩膀下面。
+        当胸部下降时，把右腿抬高到一边，膝盖尝试触摸肘部。 推起来，腿回到原来的位置。 换另一边重复。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑
+- data:
+    id: 190052
+    full_name: 'Split Alternating Squat Jumps'
+    title: '交替分腿蹲跳'
+    record_method: 'reps'
+    pictures:
+      M: 'Split_Alternating_Squat_Jumps_M.svg'
+      F: 'Split_Alternating_Squat_Jumps_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 190053
+    full_name: 'Stability / Swiss / Exercise Ball Ab Piker Press'
+    title: '瑞士球曲体推'
+    record_method: 'reps'
+    pictures:
+      M: 'Swiss_Ball_Ab_Pike_Press_M.svg'
+      F: 'Swiss_Ball_Ab_Pike_Press_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 190054
+    full_name: 'Stability / Swiss / Exercise Ball Back Extensions'
+    title: '瑞士球下背部伸展'
+    record_method: 'reps'
+    pictures:
+      M: 'Swiss_Ball_Back_Extensions_M.svg'
+      F: 'Swiss_Ball_Back_Extensions_F.svg'
+    primary_mg:
+    - 'lower-back'
+
+
+    related_exs: []
+- data:
+    id: 190055
+    full_name: 'Stability / Swiss / Exercise Ball Crunches'
+    title: '瑞士球卷腹'
+    record_method: 'reps'
+    pictures:
+      M: 'Swiss_Ball_Crunch_M.svg'
+      F: 'Swiss_Ball_Crunch_F.svg'
+    primary_mg:
+    - 'abs'
+
+
+    related_exs: []
+- data:
+    id: 190056
+    full_name: 'Stability / Swiss / Exercise Ball Dumbbell Chest Flyes'
+    title: '瑞士球哑铃飞鸟'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Stability_Swiss_Exercise_Ball_Chest_Flies_Flys.svg'
+      F: 'Stability_Swiss_Exercise_Ball_Chest_Flies_Flys-2.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+    secondary_mg:
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 190057
+    full_name: 'Stability / Swiss / Exercise Ball Dumbbell Chest Press'
+    title: '瑞士球哑铃卧推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Stability_Ball_Dumbbell_Chest_Press_M.svg'
+      F: 'Stability_Ball_Dumbbell_Chest_Press_F.svg'
+    primary_mg:
+    - 'chest'
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 190058
+    full_name: 'Stability / Swiss / Exercise Ball Dumbbell Shoulder Press'
+    title: '瑞士球哑铃推肩'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Stability_Ball_Dumbbell_Shoulder_Press_M.svg'
+      F: 'Stability_Ball_Dumbbell_Shoulder_Press_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 190059
+    full_name: 'Stability / Swiss / Exercise Ball Hamstring Leg Curl / Hip Raise /
+      Bridge'
+    title: '瑞士球屈腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Swiss_Ball_Leg_Curl_Hip_Raise_M.svg'
+      F: 'Swiss_Ball_Leg_Curl_Hip_Raise_F.svg'
+    primary_mg:
+    - 'hamstrings'
+    secondary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 190060
+    full_name: 'Stability / Swiss / Exercise Ball Knee Tuck to Chest'
+    title: '瑞士球屈膝'
+    record_method: 'reps'
+    pictures:
+      M: 'Swiss_Ball_Knee_Tuck_to_Chest_M.svg'
+      F: 'Swiss_Ball_Knee_Tuck_to_Chest_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 190061
+    full_name: 'Stability / Swiss / Exercise Ball Pushups / Push-ups'
+    title: '瑞士球下斜俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Swiss_Exericse_Ball_Pushups_Push-ups.svg'
+      F: 'Swiss_Exericse_Ball_Pushups_Push-ups-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'shoulders'
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    describe:
+      explain_en: |
+        Place a Swiss Ball on the ground and lie face down in front of it. With your hands beneath your shoulders, push yourself up into a classic Push-Up position. With a tight core, place one foot on the Swiss Ball. Once you feel balanced, position the other foot on the ball as well.
+        Maintaining a braced core and a flat back, slowly lower your upper body towards the floor. Focus all of the tension into your chest. Your feet will remain on the ball, fighting for balance during the movement.
+        Push yourself back into the starting position before beginning again.
+      explain_ch: |
+        将瑞士球放在地上，面朝下躺在它的前面。 将双手放在肩膀下方，将自己推向经典的俯卧撑姿势。 腹肌收紧，在瑞士球上放一只脚。 一旦感觉平衡，将另一只脚放在球上。
+        保持腹肌收紧和平坦的背部，缓慢地降低上半身朝向地板。 把注意力都集中在胸部。 脚保持在球上，在运动中争取平衡。
+        把自己推回到起始位置，重复。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑
+- data:
+    id: 190062
+    full_name: 'Stability / Swiss / Exercise Ball Rollout'
+    title: '瑞士球前滑'
+    record_method: 'reps'
+    pictures:
+      M: 'Swiss_Exericse_Ball_Rollout.svg'
+      F: 'Swiss_Exericse_Ball_Rollout-1.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'middle-back-lats'
+    - 'obliques'
+
+    related_exs: []
+- data:
+    id: 190063
+    full_name: 'Stability / Swiss / Exercise Ball Squats'
+    title: '瑞士球下蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'Stability_Swiss_Exercise_Ball_Squat-1.svg'
+      F: 'Stability_Swiss_Exercise_Ball_Squat.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 190064
+    full_name: 'Staggered Hand Push-Ups / Pushups'
+    title: '交错俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Staggered_Hand_Push-Ups.svg'
+      F: 'Staggered_Hand_Push-Ups-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+    - 'shoulders'
+    secondary_mg:
+    - 'triceps'
+    describe:
+      explain_en: |
+        Lying face down, place your hands below your shoulders and your feet directly behind you. Brace your core and maintain a flat back. Shift your left hand slightly above shoulder height while you shift your right hand back towards your ribs.
+        Push yourself up to the starting position, feeling the contraction in your core, chest, and shoulders.
+        Slowly lower yourself and once your upper arms are parallel with the floor, pause, and return to the starting position. Repeat by switching the hand positions.
+      explain_ch: |
+        面朝下躺着，将双手放在肩膀下方，双脚放在身后。 腹部收紧，保持背部平坦。 将左手稍稍移动到肩以上，同时将右手移向肋骨。
+        把自己推到起始位置，感受腹部，胸部和肩膀的收缩。
+        慢慢放下自己，一旦上臂平行于地面，暂停，然后回到起始位置。 换另一边重复。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑
+- data:
+    id: 190065
+    full_name: 'Standing Adductor / Adduction Stretch'
+    title: '站立内收肌拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Standing_Adductor_stretch.svg'
+      F: 'Standing_Adductor_stretch-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 190066
+    full_name: 'Standing Arm Circles'
+    title: '手臂画圈'
+    record_method: 'time'
+    pictures:
+      M: 'Arm_Circles_M.svg'
+      F: 'Arm_Circles_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 190067
+    full_name: 'Standing Barbell Calf Raises'
+    title: '杠铃提踵'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'standing_barbell_calf_raise_M.svg'
+      F: 'standing_barbell_calf_raise_F.svg'
+    primary_mg:
+    - 'calves'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 190068
+    full_name: 'Standing Barbell Shoulder Press'
+    title: '站姿杠铃推肩'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Standing_Barbell_Shoulder_Press.svg'
+      F: 'Standing_Barbell_Shoulder_Press-1.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    related_exs: []
+- data:
+    id: 190069
+    full_name: 'Standing Bicep Cable Curls'
+    title: '绳索弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Cable_Curl_M.svg'
+      F: 'Cable_Curl_F.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'abs'
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 190070
+    full_name: 'Standing Cable Chest Press'
+    title: '绳索推胸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Standing_Cable_Chest_Press.svg'
+      F: 'Standing_Cable_Chest_Press-1.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 190071
+    full_name: 'Standing Cable Crossover Press / Flyes'
+    title: '绳索飞鸟'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Standing_Cable_Fly_M.svg'
+      F: 'Standing_Cable_Fly_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+
+    related_exs: []
+- data:
+    id: 190072
+    full_name: 'Standing Cross-body Crunches'
+    title: '站立交叉卷腹'
+    record_method: 'reps'
+    pictures:
+      M: 'Standing_Cross-body_Crunch_M.svg'
+      F: 'Standing_Cross-body_Crunch_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    secondary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 190073
+    full_name: 'Standing Dumbbell / Kettlebell Side Bends'
+    title: '站立哑铃侧弯'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Side_Bend_M.svg'
+      F: 'Dumbbell_Side_Bend_F.svg'
+    primary_mg:
+    - 'obliques'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 190074
+    full_name: 'Standing Dumbbell Bicep Curls'
+    title: '哑铃弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Standing_Dumbbell_Curl_M.svg'
+      F: 'Standing_Dumbbell_Curl_F.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'abs'
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 190075
+    full_name: 'Standing Dumbbell Calf Raises'
+    title: '哑铃提踵'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Standing_Dumbbell_Calf_Raise_M.svg'
+      F: 'Standing_Dumbbell_Calf_Raise_F.svg'
+    primary_mg:
+    - 'calves'
+
+
+    related_exs: []
+- data:
+    id: 190076
+    full_name: 'Standing Dumbbell Overhead Shoulder Press'
+    title: '站立哑铃推肩'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Standing_Overhead_Dumbbell_Press_M.svg'
+      F: 'Standing_Overhead_Dumbbell_Press_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'neck-upper-traps'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 190077
+    full_name: 'Standing Dumbbell Bicep Hammer Curls'
+    title: '锤式弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Hammer_Curls_M.svg'
+      F: 'Hammer_Curls_F.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 190078
+    full_name: 'Standing Front Shoulder Plate / Dumbbell / Kettlebell Raises'
+    title: '哑铃前举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Standing_Plate_Raises.svg'
+      F: 'Standing_Plate_Raises-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'shoulders'
+    secondary_mg:
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 190079
+    full_name: 'Standing Hamstring Stretch'
+    title: '站立腘绳肌拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Standing_Hamstring_Stretch.svg'
+      F: 'Standing_Hamstring_Stretch-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    secondary_mg:
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 190080
+    full_name: 'Standing Knee Hugs'
+    title: '站立抱膝'
+    record_method: 'reps'
+    pictures:
+      M: 'Standing_Knee_Hugs.svg'
+      F: 'Standing_Knee_Hugs-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+
+
+    related_exs: []
+- data:
+    id: 190081
+    full_name: 'Standing Leg / Hamstring Curls'
+    title: '站立腿弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Standing_Leg_Hamstring_Curl_M.svg'
+      F: 'Standing_Leg_Hamstring_Curl_F.svg'
+    primary_mg:
+    - 'hamstrings'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 190082
+    full_name: 'Standing Long Jumps'
+    title: '立定跳远'
+    record_method: 'reps'
+    pictures:
+      M: 'Standing_long_jump_M.svg'
+      F: 'Standing_long_jump_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 190083
+    full_name: 'Standing Overhead Barbell Triceps Extensions'
+    title: '杠铃肱三头肌屈伸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Overhead_Barbell_Triceps_Extension_M.svg'
+      F: 'Overhead_Barbell_Triceps_Extension_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 190084
+    full_name: 'Standing Overhead Military Barbell Shoulder Press'
+    title: '杠铃推肩'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Standing_Overhead_Barbell_Military_Shoulder_Press.svg'
+      F: 'Standing_Overhead_Barbell_Military_Shoulder_Press-1.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    related_exs: []
+- data:
+    id: 190085
+    full_name: 'Standing Quadricep Stretch'
+    title: '站立股四头肌拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Standing_Quadricep_Stretch_M.svg'
+      F: 'Standing_Quadricep_Stretch_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 190086
+    full_name: 'Standing Rest / Water Break'
+    title: '休息'
+    record_method: 'time'
+    pictures:
+      M: 'Standing_Rest_Water_Break.svg'
+      F: 'Standing_Rest_Water_Break-1.svg'
+    related_exs: []
+
+
+
+- data:
+    id: 190087
+    full_name: 'Standing Reverse Barbell Curls'
+    title: '反握杠铃弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Standing_Reverse_Barbell_Curls.svg'
+      F: 'Standing_Reverse_Barbell_Curls-1.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'forearms'
+
+
+    related_exs: []
+- data:
+    id: 190088
+    full_name: 'Standing TRX Suspension Strap Ab Rollout'
+    title: 'TRX前倾'
+    record_method: 'reps'
+    pictures:
+      M: 'Standing_TRX_Ab_Rollout.svg'
+      F: 'Standing_TRX_Ab_Rollout-1.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'middle-back-lats'
+    - 'obliques'
+
+
+    related_exs: []
+- data:
+    id: 190089
+    full_name: 'Standing Two-Armed Bent Over Dumbbell Rows'
+    title: '俯身哑铃划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Two_Armed_Bent_Over_Row_M.svg'
+      F: 'Two_Armed_Bent_Over_Row_F.svg'
+    primary_mg:
+    - 'lower-back'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+
+    related_exs: []
+- data:
+    id: 190090
+    full_name: 'Static Bicep Curls'
+    title: '哑铃半举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Static_Arm_Curl_M.svg'
+      F: 'Static_Arm_Curl_F.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 190091
+    full_name: 'Static Push-up / Pushup Hold'
+    title: '俯卧撑支撑'
+    record_method: 'time'
+    pictures:
+      M: 'Static_Pushup_Hold_M.svg'
+      F: 'Static_Pushup_Hold_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 190092
+    full_name: 'Static Squat Hold'
+    title: '半蹲支撑'
+    record_method: 'time'
+    pictures:
+      M: 'Static_Squat_Hold.svg'
+      F: 'Static_Squat_Hold-1.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 190093
+    full_name: 'Step Up with Knee Raises'
+    title: '抬膝上阶'
+    record_method: 'reps'
+    pictures:
+      M: 'Step_up_with_Knee_Raise_M.svg'
+      F: 'Step_up_with_Knee_Raise_F.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 190094
+    full_name: 'Stiff Legged Barbell Deadlifts'
+    title: '直腿硬拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Stiff_Leg_Barbell_Deadlift_M.svg'
+      F: 'Stiff_Leg_Barbell_Deadlift_F.svg'
+    primary_mg:
+    - 'hamstrings'
+    secondary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 190095
+    full_name: 'Straight Arm Pulldowns / Pull Downs / Pullovers'
+    title: '直臂下拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Straight_Arm_Pulldown_M.svg'
+      F: 'Straight_Arm_Pulldown_F.svg'
+    primary_mg:
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 190096
+    full_name: 'Straight-Leg Calf Stretch'
+    title: '手部抵墙小腿拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Straight-Leg_Calf_Stretch_M.svg'
+      F: 'Straight-Leg_Calf_Stretch_F.svg'
+    primary_mg:
+    - 'calves'
+
+
+    related_exs: []
+- data:
+    id: 190097
+    full_name: 'Sumo / Plié Dumbbell Squats'
+    title: '相扑深蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Pile_Sumo_Dumbbell_Squat_M.svg'
+      F: 'Pile_Sumo_Dumbbell_Squat_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 190098
+    full_name: 'Sumo Barbell Deadlift'
+    title: '相扑杠铃硬拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Sumo_Barbell_Deadlift.svg'
+      F: 'Sumo_Barbell_Deadlift-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 190099
+    full_name: 'Supermans / Extended Arms & Legs Lifts'
+    title: '超人'
+    record_method: 'reps'
+    pictures:
+      M: 'Superman_M.svg'
+      F: 'Superman_F.svg'
+    primary_mg:
+    - 'lower-back'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 190100
+    full_name: 'Supine Lying Down Position / Corpse Pose'
+    title: '平躺休息'
+    record_method: 'time'
+    pictures:
+      M: 'Supine_Laying_Down_Position_Corpse.svg'
+      F: 'Supine_Laying_Down_Position_Corpse-1.svg'
+    primary_mg:
+    - 'lower-back'
+    secondary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 190101
+    full_name: 'Surrenders'
+    title: '投降式'
+    record_method: 'reps'
+    pictures:
+      M: 'Surrenders.svg'
+      F: 'Surrenders-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 190102
+    full_name: 'Swiss Ball Hand Off / V-Pass'
+    title: '瑞士球V字起'
+    record_method: 'reps'
+    pictures:
+      M: 'Swiss_Ball_Hand_Off_V_Pass.svg'
+      F: 'Swiss_Ball_Hand_Off_V_Pass-1.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+
+    related_exs: []
+- data:
+    id: 190103
+    full_name: 'Swiss Ball Leg Lifts'
+    title: '瑞士球举腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Swiss_Ball_Leg_Lifts_M.svg'
+      F: 'Swiss_Ball_Leg_Lifts_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 190104
+    full_name: 'Swiss Ball Plank'
+    title: '瑞士球支撑'
+    record_method: 'time'
+    pictures:
+      M: 'Swiss_ball_plank_M.svg'
+      F: 'Swiss_ball_plank_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'lower-back'
+
+# 2017-12
+
+    related_exs: []
+- data:
+    id: 190105
+    full_name: 'Seated Dual Front Raises'
+    title: '坐姿哑铃前平举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Dual_Front_Raises-1.svg'
+      F: 'Seated_Dual_Front_Raises.svg'
+    primary_mg:
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 190106
+    full_name: 'Seated Shoulder Hammer Press'
+    title: '哑铃锤式推肩'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Seated_Shoulder_Hammer_Presses.svg'
+      F: 'Seated_Shoulder_Hammer_Presses-1.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'chest'
+    - 'triceps'
+    related_exs: []

@@ -1,0 +1,88 @@
+store:
+- data:
+    id: 1
+    app_id: wxdc99022ece040703
+    template_id: 1
+    store:
+      cards:
+      - id: 1
+        type: banner
+        images:
+        - http://oss.11train.com/store/test1/1%20%281%29.jpg
+        - http://oss.11train.com/store/test1/1%20%282%29.jpg
+        - http://oss.11train.com/store/test1/1%20%283%29.jpg
+        - http://oss.11train.com/store/test1/1%20%284%29.jpg
+        - http://oss.11train.com/store/test1/1%20%285%29.jpg
+        - http://oss.11train.com/store/test1/1%20%286%29.JPG
+
+      - id: 2
+        type: images-vertical
+        images:
+        - http://oss.11train.com/store/test1/2%20%281%29.jpg
+        - http://oss.11train.com/store/test1/2%20%282%29.jpg
+        - http://oss.11train.com/store/test1/2%20%283%29.jpg
+        - http://oss.11train.com/store/test1/2%20%284%29.jpg
+        - http://oss.11train.com/store/test1/2%20%285%29.jpg
+
+      - id: 3
+        type: trainer-cases
+        cases:
+        - image: http://oss.11train.com/store/test1/7.jpg
+          title: 白小姐
+          text: 三个月减脂20斤, 腰围从80减到65
+        - image: http://oss.11train.com/store/test1/7.jpg
+          title: 白小姐
+          text: 三个月减脂20斤, 腰围从80减到65
+        - image: http://oss.11train.com/store/test1/7.jpg
+          title: 白小姐
+          text: 三个月减脂20斤, 腰围从80减到65
+
+      - id: 4
+        type: business-hours
+        begin: '8:00'
+        end: '16:00'
+
+      - id: 5
+        type: text
+        title: 场地介绍
+        text: |
+          超级猩猩SUPERMONKEY全能体能工作室, 融合TRX、跳床、CROSSFIT、搏击、杠铃、壶铃等多功能训练项目为一体，打造超猩特色课程， 体验多种课程的同时，也让猩猩们能更高效有趣地完成训练。
+
+      - id: 6
+        type: contact
+        title: 联系我们
+        contact:
+        - type: location
+          address: 广东省深圳市宝安区创业一路
+          name: 宝安区创业一路(深圳市宝安区政府)
+          latitude: 22.55329
+          longitude: 113.88308
+          lat_lon_type: gcj02
+
+        - type: tel
+          phone: '13555556666'
+          name: 徐教练
+
+        - type: qrcode
+          image: http://oss.11train.com/store/test1/qrcode_for_gh_b00148b14908_258.jpg
+
+      - id: 7
+        type: text
+        title: 注意事项
+        text: |
+          1.本店提供更衣室、储物柜、卫生间、淋浴；
+          2.为公共安全，内设闭路监控，请勿裸体健身；
+          3.为保障体验，请按预约人数和时间进行健身；
+          4.预约开始前6小时后取消预约，不支持退款；
+          5.室内设高速WIFI，密码：supermonkey；
+          6.请按预约时间与人数使用自助健身舱，如超时或超员将补扣实际产生费用，如累计三次超时超员情况将列入超级猩猩信用黑名单，后续会无法预定超级猩猩旗下产品。
+
+      contact: []
+    course_indexes:
+    - 1
+    - 2
+    - 3
+    - 4
+    coach_indexes:
+    - 2
+    - 1

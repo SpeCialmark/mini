@@ -1,0 +1,2295 @@
+exercises:
+
+- data:
+    id: 270001
+    full_name: 'Accomplished'
+    title: '完成式'
+    record_method: 'reps'
+    pictures:
+      M: 'Accomplished.svg'
+      F: 'Accomplished-1.svg'
+    primary_mg:
+    - 'knees'
+    - 'lower-back'
+    - 'spine'
+    secondary_mg:
+    - 'ankles'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 270002
+    full_name: 'Alternate Nostril Breathing'
+    title: '交替鼻孔呼吸'
+    record_method: 'reps'
+    pictures:
+      M: 'Alternate_Nostril_Breathing.svg'
+      F: 'Alternate_Nostril_Breathing-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+    describe:
+      explain_en: |
+        Sit in a comfortable position. Lengthen your spine.
+        Bring your left thumb and index finger together. Rest the back of the hand on your left knee.
+        Tuck your right index and middle fingers into your palm. Close your eyes.
+        Close your right nostril with your right thumb. Exhale completely.
+        Inhale through your left nostril. Close your left nostril with your ring finger.
+        Release your thumb and exhale through your right nostril. Inhale through your right nostril.
+        Close your right nostril with your thumb. Release your ring finger and exhale through your left nostril. This is one round.
+        Repeat 5 rounds of this breath. Rest in Corpse for several breaths.
+        Modification: Place a firm cushion or rolled mat under your bottom to bring more length to your spine.
+      explain_ch: |
+        坐姿， 将手背放在膝盖上。
+        把右手食指和中指放到手掌里。 闭上你的眼睛。
+        用右手拇指闭上右鼻孔。 彻底呼气。
+        通过左鼻孔吸气。 用无名指闭上左鼻孔。
+        释放拇指，通过右鼻孔呼气。 通过右鼻孔吸气。
+        用拇指闭上右鼻孔。 释放无名指，通过左鼻孔呼气。 这是一回合
+        重复5次。
+    related_exs: []
+- data:
+    id: 270003
+    full_name: 'Balancing Table'
+    title: '平衡台'
+    record_method: 'reps'
+    pictures:
+      M: 'Balancing_Table.svg'
+      F: 'Balancing_Table-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'spine'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+    - 'shoulders'
+    - 'wrists'
+    describe:
+      explain_en: |
+        Begin on all fours. Bring your wrists directly under your shoulders and knees under your hips. Bring your head to a neutral position.
+        Stretch your right leg back with an inhale. Bring it parallel to the floor. Flex the foot.
+        Reach your left arm forward with an inhale. Bring it parallel to the floor.
+        Balance here for one or more slow, deep breaths. Lower with an exhale. Change sides and repeat.
+      explain_ch: |
+        跪于垫面上，双膝分开与髋同宽。
+        吸气, 右腿向后伸展， 稍微弯曲脚。
+        吸气，向前伸展左臂。
+        在这里保持平衡， 一个或多个缓慢的深呼吸。 呼气， 放下手脚。 换另一边的手脚并重复。
+    related_exs: []
+- data:
+    id: 270004
+    full_name: "Bellow's Breath"
+    title: '风箱式呼吸'
+    record_method: 'reps'
+    pictures:
+      M: 'Bellows_Breath.svg'
+      F: 'Bellows_Breath-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+
+    related_exs: []
+- data:
+    id: 270005
+    full_name: 'Bharadvajas Twist'
+    title: '坐立侧扭转式'
+    record_method: 'reps'
+    pictures:
+      M: 'Bharadvajas_Twist.svg'
+      F: 'Bharadvajas_Twist-1.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'middle-back-lats'
+    - 'spine'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+    - 'knees'
+    - 'quadriceps'
+    - 'wrists'
+
+    related_exs: []
+- data:
+    id: 270006
+    full_name: 'Bound Angle'
+    title: '束角式'
+    record_method: 'reps'
+    pictures:
+      M: 'Bound_Angle.svg'
+      F: 'Bound_Angle-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'spine'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+    - 'knees'
+    - 'lower-back'
+    - 'middle-back-lats'
+
+    related_exs: []
+- data:
+    id: 270007
+    full_name: 'Bow'
+    title: '弓式'
+    record_method: 'reps'
+    pictures:
+      M: 'Bow.svg'
+      F: 'Bow-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'shoulders'
+    - 'spine'
+    secondary_mg:
+    - 'abs'
+    - 'forearms'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'triceps'
+    describe:
+      explain_en: |
+        Lie on your stomach and separate your legs hip-width apart. Bend your knees and hold on the outsides of your ankles. Rest your forehead on the floor.
+        Kick your legs away from you with an inhale and lift your head and chest from the floor. Balance on your low belly.
+        Hold the pose and take slow, deep breaths.
+        Lower with an exhale.
+        Avoid this pose if you have a serious back or neck injury.
+      explain_ch: |
+        俯卧，双腿分开。 弯曲膝盖，并抓住脚踝外侧。 把额头放在垫面上。
+        吸气，腿踢开，并将头部和胸部从垫面上抬起。 肚子保持平衡。
+        保持姿势，缓慢深呼吸。
+        呼气，放下。
+    related_exs: []
+- data:
+    id: 270008
+    full_name: 'Breath of Fire'
+    title: '喷火式呼吸'
+    record_method: 'reps'
+    pictures:
+      M: 'Breath_of_Fire.svg'
+      F: 'Breath_of_Fire-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+
+    related_exs: []
+- data:
+    id: 270009
+    full_name: 'Bridge'
+    title: '桥式'
+    record_method: 'reps'
+    pictures:
+      M: 'Bridge.svg'
+      F: 'Bridge-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'spine'
+    secondary_mg:
+    - 'abs'
+    - 'chest'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 270010
+    full_name: 'Camel'
+    title: '骆驼式'
+    record_method: 'reps'
+    pictures:
+      M: 'Camel.svg'
+      F: 'Camel-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'neck-upper-traps'
+    - 'spine'
+    secondary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+    describe:
+      explain_en: |
+        Begin kneeling with your knees hip-width apart. Curl your toes under.
+        Place your hands on your lower back. Lengthen your spine and expand your chest with an inhale.
+        Slowly arch back with an exhale, keeping your hips over your knees. One at a time, bring your hands to the insides of your ankles. Rest your neck in a neutral position.
+        Hold the pose and take slow, deep breaths.
+        Return your hands to your back, then rise with an inhale and sit back on your heels.
+        Modification: Keep your hands on your low back to lessen the stretch.
+        Avoid this pose if you have a neck or back injury.
+      explain_ch: |
+        开始跪姿， 脚趾撑起。
+        将手放在腰部，拉伸脊柱，吸气，扩张胸部。
+        慢慢拱起，呼气，臀部挺直。 慢慢逐步把双手移到脚踝的内侧。
+        保持姿势，缓慢深呼吸。
+        把手放回背部，吸气，重新回到坐在脚后跟上。
+        修改：将手放在腰部以减少伸展。
+        如果您有颈部或背部受伤，请避免此姿势。
+    related_exs: []
+- data:
+    id: 270011
+    full_name: 'Cat Stretch'
+    title: '猫式伸展'
+    record_method: 'reps'
+    pictures:
+      M: 'Cat_Stretch.svg'
+      F: 'Cat_Stretch-1.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'middle-back-lats'
+    - 'spine'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'neck-upper-traps'
+    - 'shoulders'
+    - 'wrists'
+    describe:
+      explain_en: |
+        Begin on all fours. Bring your wrists directly under your shoulders and knees under your hips. Bring your head to a neutral position.
+        With an inhale, arch your spine, reaching your head and tailbone toward the sky. Let your belly drop toward the floor.
+        With an exhale, round your spine, drawing your head and tailbone toward the floor.
+        Repeat this movement.
+        Modification: Place a folded blanket under your knees for cushion.
+      explain_ch: |
+        跪于垫面上，双膝分开与髋同宽。
+        吸气时，抬头凹背，胸腔和臀部上提。
+        呼气时，腹部用力向上推， 脊柱向上拱起。
+        整个背部用力向上隆起，下颌找胸骨，眼睛看向肚脐。
+    related_exs: []
+- data:
+    id: 270012
+    full_name: 'Chair'
+    title: '幻椅式'
+    record_method: 'reps'
+    pictures:
+      M: 'Chair.svg'
+      F: 'Chair-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'ankles'
+    - 'triceps'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 270013
+    full_name: 'Cooling breath'
+    title: '清凉调息'
+    record_method: 'reps'
+    pictures:
+      M: 'Cooling_Breath.svg'
+      F: 'Cooling_Breath-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+
+
+    related_exs: []
+- data:
+    id: 270014
+    full_name: 'Corpse'
+    title: '挺尸式'
+    record_method: 'time'
+    pictures:
+      M: 'Corpse.svg'
+      F: 'Corpse-1.svg'
+    primary_mg:
+    - 'spine'
+    describe:
+      explain_en: |
+        Lie on your back. Bring your feet wide and let them flop open.
+        Bring your arms several inches away from your torso, palms up.
+        Make any minor adjustments needed so that you are completely comfortable.
+        Close your eyes. Find stillness.
+        Hold the pose and take natural breaths. Focus your attention on your breath.
+        Come out of the pose slowly and gently.
+      explain_ch: |
+        平躺于垫面，双脚自然分开，脚掌倒向两侧。
+        双手放在身体两侧，掌心向上。
+        闭眼，全身放松。精力集中到呼吸上。
+    related_exs: []
+- data:
+    id: 270015
+    full_name: 'Cow Face'
+    title: '牛面式'
+    record_method: 'reps'
+    pictures:
+      M: 'Cow_Face.svg'
+      F: 'Cow_Face-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'shoulders'
+    - 'triceps'
+    secondary_mg:
+    - 'knees'
+    - 'quadriceps'
+    describe:
+      explain_en: |
+        Sit on your heels with your knees together. Lengthen your spine.
+        Bend your left arm behind your back and bring the hand in between your shoulder blades, palm facing away.
+        Reach your right arm up with an inhale. Bend your elbow with an exhale and clasp your fingers behind your back.
+        Hold the pose and take slow, deep breaths.
+        Release your arms and change sides.
+        Modification: Women: Sit on the floor and cross your right leg over the left. Stack your knees on top of each other and point your toes behind you.
+      explain_ch: |
+        臀部坐在脚后跟上。 伸展脊柱。
+        把左臂弯曲在背后，把手放在肩胛骨之间，掌心向外。
+        吸气,伸直右臂。 呼气,弯曲手肘，然后在背部两手指紧扣。
+        保持姿势，缓慢深呼吸。
+        释放手臂，换一侧重复。
+        修改：可以两腿交叉坐。
+    related_exs: []
+- data:
+    id: 270016
+    full_name: 'Crane'
+    title: '禅鹤式'
+    record_method: 'reps'
+    pictures:
+      M: 'Crane.svg'
+      F: 'Crane-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'forearms'
+    - 'shoulders'
+    - 'wrists'
+    secondary_mg:
+    - 'chest'
+    - 'triceps'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 270017
+    full_name: 'Crescent Lunge'
+    title: '新月式'
+    record_method: 'reps'
+    pictures:
+      M: 'Crescent.svg'
+      F: 'Crescent-1.svg'
+    primary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+    - 'shoulders'
+    secondary_mg:
+    - 'ankles'
+    - 'chest'
+    - 'glutes-hip-flexors'
+    - 'knees'
+    - 'spine'
+
+
+    related_exs: []
+- data:
+    id: 270018
+    full_name: 'crow'
+    title: '乌鸦式'
+    record_method: 'reps'
+    pictures:
+      M: 'Crow.svg'
+      F: 'Crow-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'forearms'
+    - 'shoulders'
+    - 'wrists'
+    secondary_mg:
+    - 'chest'
+    - 'triceps'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 270019
+    full_name: 'Dolphin'
+    title: '海豚式'
+    record_method: 'reps'
+    pictures:
+      M: 'Dolphin.svg'
+      F: 'Dolphin-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'shoulders'
+    secondary_mg:
+    - 'middle-back-lats'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 270020
+    full_name: 'Downward Facing Dog'
+    title: '下犬式'
+    record_method: 'reps'
+    pictures:
+      M: 'Downward_Facing_Dog.svg'
+      F: 'Downward_Facing_Dog-1.svg'
+    primary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'middle-back-lats'
+    - 'spine'
+    secondary_mg:
+    - 'abs'
+    - 'ankles'
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    - 'triceps'
+    - 'wrists'
+    describe:
+      explain_en: |
+        Lie on your stomach. Bring your hands under your shoulders and spread your fingers wide. Bring your feet as wide as your hips and curl your toes under.
+        Push into the floor and come onto your knees with an exhale, then slowly straighten your legs. Release your heels toward the floor. Reach your tailbone toward the sky behind you to lengthen your spine. Bring your head in between your arms.
+        Hold the pose and take slow, deep breaths.
+        Release your knees to the floor with an exhale and sit back on your heels.
+        Avoid this pose if you have high blood pressure or carpal tunnel syndrome.
+      explain_ch: |
+        跪于垫面上，双膝分开与髋同宽。
+        双手掌压实垫面，双手分开与肩同宽。
+        吸气， 臀部向上， 缓缓蹬直双膝。
+        呼气， 重心向后，脚跟踩向垫面的方向， 不要给手腕压力， 膝盖不要内扣
+    related_exs: []
+- data:
+    id: 270021
+    full_name: 'Eagle'
+    title: '鹰式'
+    record_method: 'reps'
+    pictures:
+      M: 'Eagle.svg'
+      F: 'Eagle-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'shoulders'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'ankles'
+    - 'middle-back-lats'
+    - 'quadriceps'
+    - 'wrists'
+    describe:
+      explain_en: |
+        Stand with your feet together. Bend your knees slightly. Cross your right thigh over your left thigh with an inhale. Hook your right toes behind your calf.
+        Raise your arms to shoulder height with an inhale. Cross your right arm under your left arm with an exhale. Bend your elbows and bring your palms to touch.
+        Gaze at one point ahead of you. Hold the pose and take slow, deep breaths.
+        Slowly unwind with an exhale. Return to standing. Change sides.
+        Modification: Rest your top toes on the floor rather than hooking them behind your calf.
+        Avoid this pose if you have a knee injury or low blood pressure.
+      explain_ch: |
+        站立， 稍微弯曲膝盖。 吸气，将右大腿穿过左大腿， 右脚趾勾住小腿后面。
+        吸气，抬起手臂， 用左臂交叉右臂。 弯曲胳膊，并让两手掌触摸。
+        凝视你前方的一点。 保持姿势，缓慢深呼吸。
+        慢慢放松，呼气。 回到站立。 换另一边重复。
+        修改：将脚趾放在垫面上，而不是将它们挂在小腿后面。
+        如果您有膝伤或低血压，请避免练此动作。
+    related_exs: []
+- data:
+    id: 270022
+    full_name: 'Easy Pose'
+    title: '散盘式'
+    record_method: 'reps'
+    pictures:
+      M: 'Easy.svg'
+      F: 'Easy-1.svg'
+    primary_mg:
+    - 'knees'
+    - 'spine'
+    secondary_mg:
+    - 'ankles'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 270023
+    full_name: 'Equestrian'
+    title: '奔马式'
+    record_method: 'reps'
+    pictures:
+      M: 'Equestrian.svg'
+      F: 'Equestrian-1.svg'
+    primary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'ankles'
+    - 'chest'
+    - 'glutes-hip-flexors'
+    - 'knees'
+    - 'spine'
+
+    related_exs: []
+- data:
+    id: 270024
+    full_name: "Extended Child's Pose"
+    title: '前伸展儿童式'
+    record_method: 'reps'
+    pictures:
+      M: 'Extended_Childs.svg'
+      F: 'Extended_Childs-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'knees'
+    - 'spine'
+    secondary_mg:
+    - 'lower-back'
+    - 'middle-back-lats'
+    - 'upper-back-lower-traps'
+    describe:
+      explain_en: |
+        Sit on your heels. Bring your feet together and knees hip-width apart.
+        Bend forward with an exhale and rest your torso between your thighs. Relax your tailbone toward your feet.
+        Reach your arms far forward. Spread your fingers and press your palms into the floor. Rest your forehead on the floor.
+        Hold the pose and take slow, deep breaths.
+        Rise with an inhale.
+        Avoid this pose if you have a knee injury.
+      explain_ch: |
+        坐在脚后跟上。 脚放在一起，膝分开与髋同宽。
+        呼气，向前弯曲，上身放在大腿上。
+        尽可能向前伸出胳膊。 展开手指，手掌按着垫子。 额头碰地。
+        保持姿势，缓慢深呼吸。
+        吸气，上升。
+        如果膝盖受伤，请避免这种姿势。
+    related_exs: []
+- data:
+    id: 270025
+    full_name: 'Extended Cobra'
+    title: '蛇式伸展'
+    record_method: 'reps'
+    pictures:
+      M: 'Extended_Cobra.svg'
+      F: 'Extended_Cobra-1.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'middle-back-lats'
+    - 'spine'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'abs'
+    - 'forearms'
+    - 'glutes-hip-flexors'
+    - 'shoulders'
+    - 'triceps'
+    describe:
+      explain_en: |
+        Lie on your stomach. Separate your feet hip-width apart. Place your hands under your shoulders and spread your fingers. Rest your forehead on the floor.
+        Push into your hands and lift your head, chest and stomach with an inhale. Keep your pelvis on the floor.
+        Hold the pose and take slow, deep breaths.
+        Lower with an exhale.
+      explain_ch: |
+        俯卧，双脚分开与髋同宽。 双手放在肩膀下，伸开手指。 额头放在垫面上。
+        手撑起，吸气，提起头，胸部和胃。 保持臀部在垫面上。
+        保持姿势，缓慢深呼吸。
+        呼气，放下。
+    related_exs: []
+- data:
+    id: 270026
+    full_name: 'Extended Hand-to-Big-Toe'
+    title: '手抓脚趾式'
+    record_method: 'reps'
+    pictures:
+      M: 'Extended_Hand-to-Big-Toe.svg'
+      F: 'Extended_Hand-to-Big-Toe-1.svg'
+    primary_mg:
+    - 'ankles'
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 270027
+    full_name: 'Extended Puppy'
+    title: '小狗伸展式'
+    record_method: 'reps'
+    pictures:
+      M: 'Extended_Puppy.svg'
+      F: 'Extended_Puppy-1.svg'
+    primary_mg:
+    - 'shoulders'
+    - 'spine'
+    secondary_mg:
+    - 'abs'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 270028
+    full_name: 'Extended Side Angle'
+    title: '侧角伸展式'
+    record_method: 'reps'
+    pictures:
+      M: 'Extended_Side_Angle.svg'
+      F: 'Extended_Side_Angle-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'obliques'
+    - 'quadriceps'
+    - 'shoulders'
+    secondary_mg:
+    - 'ankles'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 270029
+    full_name: 'Extended Triangle'
+    title: '三角伸展式'
+    record_method: 'reps'
+    pictures:
+      M: 'Extended_Triangle.svg'
+      F: 'Extended_Triangle-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'shoulders'
+    - 'spine'
+    secondary_mg:
+    - 'calves'
+    - 'obliques'
+    - 'triceps'
+    describe:
+      explain_en: |
+        Begin standing. Step your feet 3 ½ to 4 feet apart. Bring feet parallel.
+        Bring your arms to shoulder height, palms facing down. Turn your right foot 90 degrees to the right. Turn your left foot slightly in.
+        Reach your right arm out to the right and then down with an exhale. Bring your hand to your shin or ankle. Inhale and reach your left arm toward the sky, palm facing forward. Gaze up toward your hand.
+        Hold the pose and take slow, deep breaths.
+        Look down and activate your core and legs. Rise with an inhale, then exhale and step your feet together. Change sides.
+        Modification: Gaze toward the floor.
+      explain_ch: |
+        站立两脚分开，大概4个脚掌宽度。
+        手臂抬到与肩同高，手掌朝下。 将右脚向右转90度。 左脚稍微靠内收。
+        呼气，伸出右臂，然后手臂往下，直到手摸到小腿或脚踝上。 吸气，朝着天空伸向左臂，手掌朝前。 凝视手。
+        保持姿势，缓慢深呼吸。
+        向下看，激活腹部和腿部。 吸气，身体回到初始姿势，然后呼气，双脚并拢。
+        换另一边重复。
+    related_exs: []
+- data:
+    id: 270030
+    full_name: 'Eye of the Needle'
+    title: '针眼式'
+    record_method: 'reps'
+    pictures:
+      M: 'Eye_of_the_Needle.svg'
+      F: 'Eye_of_the_Needle-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+    secondary_mg:
+    - 'knees'
+    - 'spine'
+
+    related_exs: []
+- data:
+    id: 270031
+    full_name: 'Feathered Peacock'
+    title: '孔雀式'
+    record_method: 'reps'
+    pictures:
+      M: 'Feathered_Peacock.svg'
+      F: 'Feathered_Peacock-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    - 'shoulders'
+    secondary_mg:
+    - 'triceps'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 270032
+    full_name: 'Fire Log'
+    title: '单盘前曲伸展式'
+    record_method: 'reps'
+    pictures:
+      M: 'Fire_Log.svg'
+      F: 'Fire_Log-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'knees'
+    - 'quadriceps'
+    describe:
+      explain_en: |
+        Begin sitting. Bend your knees and place your feet flat on the floor.
+        Slide your left foot under your right leg and bring the heel near the right buttock. (Depending on your flexibility, try to bring the shin parallel to the front of your mat.) Release your left knee toward the floor.
+        Stack your right leg on top of the left. The right ankle should be just beyond the left knee. Flex your feet. Rest your fingertips by your sides.
+        Hold the pose and take slow, deep breaths.
+        Carefully straighten your legs and change sides.
+        Avoid this pose if you have a knee or ankle injury.
+      explain_ch: |
+        开始坐姿，弯曲膝盖，双脚放松。
+        将左脚伸到右腿下方，并将脚跟靠近右臀部。
+        把右腿放在左脚上。 右脚踝应该超出左膝盖。双手用指尖撑着。
+        保持姿势，缓慢深呼吸。
+        小心地伸直腿，换另一边重复。
+    related_exs: []
+- data:
+    id: 270033
+    full_name: 'Fish'
+    title: '鱼式'
+    record_method: 'reps'
+    pictures:
+      M: 'Fish.svg'
+      F: 'Fish-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'neck-upper-traps'
+    - 'spine'
+    secondary_mg:
+    - 'abs'
+    describe:
+      explain_en: |
+        Lie on your back with your feet together. Place your hands underneath your buttocks, palms down.
+        Push your elbows into the floor with an inhale and lift your chest toward the sky. Bring the crown or top of your head to the floor. Keep most of your weight in your elbows.
+        Hold the pose and take slow, deep breaths.
+        Lift your head an inch off the floor with an exhale, then release all the way down.
+        Avoid this pose if you have a serious neck or back injury.
+      explain_ch: |
+        仰卧双脚并拢。 把手放在臀部下面，手心向下。
+        吸气，肘部压着垫面，将胸部抬向天空。 头顶到垫面。 肘部支撑大部分体重。
+        保持姿势，缓慢深呼吸。
+        呼气，将头部抬离地面一寸，然后完全放下。
+    related_exs: []
+- data:
+    id: 270034
+    full_name: 'Five Pointed Star'
+    title: '五角星式'
+    record_method: 'reps'
+    pictures:
+      M: 'Five_Pointed_Star.svg'
+      F: 'Five_Pointed_Star-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'spine'
+    secondary_mg:
+    - 'abs'
+    - 'ankles'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 270035
+    full_name: 'Four Limbed Staff'
+    title: '四柱式'
+    record_method: 'reps'
+    pictures:
+      M: 'Four-Limbed_Staff.svg'
+      F: 'Four-Limbed_Staff-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'triceps'
+    secondary_mg:
+    - 'chest'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'wrists'
+
+    related_exs: []
+- data:
+    id: 270036
+    full_name: 'Frog'
+    title: '蛙式'
+    record_method: 'reps'
+    pictures:
+      M: 'Frog.svg'
+      F: 'Frog-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'ankles'
+    - 'knees'
+
+    related_exs: []
+- data:
+    id: 270037
+    full_name: 'Full Boat'
+    title: '船式'
+    record_method: 'reps'
+    pictures:
+      M: 'Full_Boat.svg'
+      F: 'Full_Boat-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    - 'spine'
+    secondary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 270038
+    full_name: 'Garland'
+    title: '花环式'
+    record_method: 'reps'
+    pictures:
+      M: 'Garland.svg'
+      F: 'Garland-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'knees'
+    - 'spine'
+    secondary_mg:
+    - 'ankles'
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 270039
+    full_name: 'Gate'
+    title: '门闩式'
+    record_method: 'reps'
+    pictures:
+      M: 'Gate.svg'
+      F: 'Gate-1.svg'
+    primary_mg:
+    - 'obliques'
+    - 'spine'
+    secondary_mg:
+    - 'hamstrings'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 270040
+    full_name: 'Goddess'
+    title: '女神式'
+    record_method: 'reps'
+    pictures:
+      M: 'Goddess.svg'
+      F: 'Goddess-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'ankles'
+    - 'calves'
+    - 'chest'
+    - 'knees'
+    - 'spine'
+
+    related_exs: []
+- data:
+    id: 270041
+    full_name: 'Half Boat'
+    title: '半船式'
+    record_method: 'reps'
+    pictures:
+      M: 'Half_Boat.svg'
+      F: 'Half_Boat-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    - 'spine'
+    secondary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 270042
+    full_name: 'Half Monkey / Half Split'
+    title: '半猴式'
+    record_method: 'reps'
+    pictures:
+      M: 'Half_Monkey.svg'
+      F: 'Half_Monkey-1.svg'
+    primary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    secondary_mg:
+    - 'knees'
+    - 'spine'
+
+    related_exs: []
+- data:
+    id: 270043
+    full_name: 'Half Moon'
+    title: '半月式'
+    record_method: 'reps'
+    pictures:
+      M: 'Half_Moon.svg'
+      F: 'Half_Moon-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'obliques'
+    - 'quadriceps'
+    secondary_mg:
+    - 'ankles'
+    - 'chest'
+
+    related_exs: []
+- data:
+    id: 270044
+    full_name: 'Half Spinal Twist'
+    title: '半扭脊式'
+    record_method: 'reps'
+    pictures:
+      M: 'Half_Spinal_Twist.svg'
+      F: 'Half_Spinal_Twist-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'shoulders'
+    - 'spine'
+    secondary_mg:
+    - 'neck-upper-traps'
+
+    related_exs: []
+- data:
+    id: 270045
+    full_name: 'Hand to Foot'
+    title: '指触趾前曲伸展式'
+    record_method: 'reps'
+    pictures:
+      M: 'Hand_Under_Foot.svg'
+      F: 'Hand_Under_Foot-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'wrists'
+    secondary_mg:
+    - 'calves'
+    - 'lower-back'
+    - 'neck-upper-traps'
+    - 'shoulders'
+    - 'spine'
+
+    related_exs: []
+- data:
+    id: 270046
+    full_name: 'Handstand'
+    title: '手倒立式'
+    record_method: 'reps'
+    pictures:
+      M: 'Handstand.svg'
+      F: 'Handstand-1.svg'
+    primary_mg:
+    - 'biceps'
+    - 'shoulders'
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'forearms'
+    - 'wrists'
+
+    related_exs: []
+- data:
+    id: 270047
+    full_name: 'Happy Baby'
+    title: '快乐婴儿式'
+    record_method: 'reps'
+    pictures:
+      M: 'Happy_Baby.svg'
+      F: 'Happy_Baby-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+    secondary_mg:
+    - 'knees'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 270048
+    full_name: 'Head to Knee'
+    title: '头碰膝式'
+    record_method: 'reps'
+    pictures:
+      M: 'Head_to_Knee.svg'
+      F: 'Head_to_Knee-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'spine'
+    secondary_mg:
+    - 'calves'
+    - 'knees'
+    - 'lower-back'
+    - 'middle-back-lats'
+
+    related_exs: []
+- data:
+    id: 270049
+    full_name: 'Headstand / Head stand'
+    title: '倒立式'
+    record_method: 'reps'
+    pictures:
+      M: 'Headstand.svg'
+      F: 'Headstand-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    - 'spine'
+    secondary_mg:
+    - 'forearms'
+    - 'middle-back-lats'
+    - 'triceps'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 270050
+    full_name: 'Hero'
+    title: '英雄坐'
+    record_method: 'reps'
+    pictures:
+      M: 'Hero.svg'
+      F: 'Hero-1.svg'
+    primary_mg:
+    - 'knees'
+    - 'quadriceps'
+    secondary_mg:
+    - 'ankles'
+    - 'spine'
+
+    related_exs: []
+- data:
+    id: 270051
+    full_name: 'Inclined Plane'
+    title: '反台式'
+    record_method: 'reps'
+    pictures:
+      M: 'Inclined_Plane.svg'
+      F: 'Inclined_Plane-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'obliques'
+    - 'spine'
+    - 'triceps'
+    secondary_mg:
+    - 'calves'
+    - 'chest'
+    - 'forearms'
+    - 'hamstrings'
+    - 'neck-upper-traps'
+    - 'wrists'
+
+    related_exs: []
+- data:
+    id: 270052
+    full_name: 'Lion'
+    title: '狮子式'
+    record_method: 'reps'
+    pictures:
+      M: 'Lion.svg'
+      F: 'Lion-1.svg'
+    primary_mg:
+    - 'spine'
+    - 'wrists'
+    secondary_mg:
+    - 'knees'
+    - 'quadriceps'
+    describe:
+      explain_en: |
+        Sit on your heels. Bring your feet together and knees wide.
+        Place your palms on the floor in between your knees, fingers pointed toward feet. Straighten your arms and lengthen your spine.
+        Inhale deeply through your nose.
+        Open your mouth wide, stick out your tongue, look up and exhale while making a ‘hhhaaa’ sound. Close your mouth. Take a natural breath.
+        Repeat this breath five times. Release the pose.
+      explain_ch: |
+        臀部坐在脚后跟上。脚合拢，膝展开。
+        将手掌放在膝盖之间的垫面上，手指指向脚部。 伸直手臂，伸展脊椎。
+        通过鼻子深吸气。
+        张开嘴，伸出舌头，仰视，呼气，同时发出'哈'的声音。 闭嘴， 自然地呼吸。
+        重复这个呼吸五次。 释放姿势。
+    related_exs: []
+- data:
+    id: 270053
+    full_name: 'Lizard'
+    title: '蜥蜴式'
+    record_method: 'reps'
+    pictures:
+      M: 'Lizard.svg'
+      F: 'Lizard-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    secondary_mg:
+    - 'ankles'
+    - 'knees'
+    - 'quadriceps'
+    - 'spine'
+
+    related_exs: []
+- data:
+    id: 270054
+    full_name: 'Locust'
+    title: '蝗虫式'
+    record_method: 'reps'
+    pictures:
+      M: 'Locust.svg'
+      F: 'Locust-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'spine'
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'middle-back-lats'
+    describe:
+      explain_en: |
+        Lie on your stomach. Separate your feet hip-width apart and bring your arms by your sides, palms up. Rest your forehead on the floor.
+        Raise your head, chest, arms and legs with an inhale. Reach your head and toes away from each other.
+        Hold the pose and take slow, deep breaths.
+        Lower with an exhale.
+        Avoid this pose if you have high blood pressure or heart conditions.
+      explain_ch: |
+        俯卧。 双脚分开与髋同宽，双臂放在两侧，双手掌心向上。 额头放在垫面上。
+        吸气，抬起头部，胸部，手臂和腿部。脚趾尽量往后伸。
+        保持姿势，缓慢深呼吸。
+        呼气，放下回到仰卧姿势。
+    related_exs: []
+- data:
+    id: 270055
+    full_name: 'Lotus'
+    title: '莲花式'
+    record_method: 'reps'
+    pictures:
+      M: 'Lotus.svg'
+      F: 'Lotus-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+    - 'spine'
+    secondary_mg:
+    - 'ankles'
+    - 'knees'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 270056
+    full_name: 'Mermaid'
+    title: '人鱼式'
+    record_method: 'reps'
+    pictures:
+      M: 'Mermaid.svg'
+      F: 'Mermaid-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    - 'spine'
+    secondary_mg:
+    - 'abs'
+    - 'chest'
+    - 'knees'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 270057
+    full_name: 'Mountain'
+    title: '山式'
+    record_method: 'reps'
+    pictures:
+      M: 'Mountain.svg'
+      F: 'Mountain-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'lower-back'
+    - 'spine'
+    secondary_mg:
+    - 'chest'
+    - 'knees'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 270058
+    full_name: 'Noose'
+    title: '套索扭转式'
+    record_method: 'reps'
+    pictures:
+      M: 'Noose.svg'
+      F: 'Noose-1.svg'
+    primary_mg:
+    - 'ankles'
+    - 'glutes-hip-flexors'
+    - 'spine'
+    secondary_mg:
+    - 'abs'
+    - 'chest'
+    - 'knees'
+    - 'obliques'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 270059
+    full_name: 'Ocean Breathing'
+    title: '海洋式呼吸'
+    record_method: 'reps'
+    pictures:
+      M: 'Ocean_Breathing.svg'
+      F: 'Ocean_Breathing-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+
+    related_exs: []
+- data:
+    id: 270060
+    full_name: 'Palm Tree'
+    title: '棕树式'
+    record_method: 'reps'
+    pictures:
+      M: 'Palm_Tree.svg'
+      F: 'Palm_Tree-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'spine'
+    secondary_mg:
+    - 'ankles'
+    - 'chest'
+    - 'quadriceps'
+    - 'shoulders'
+    - 'upper-back-lower-traps'
+    - 'wrists'
+    describe:
+      explain_en: |
+        Stand with your feet hip-width apart.
+        Rest your hands on top of your head with an exhale, fingers interlocked.
+        Reach your palms toward the sky with an inhale. Come on to your toes and stretch your whole body.
+        Balance here for one or more slow deep breaths.
+        Exhale and lower. Repeat this movement.
+      explain_ch: |
+        站直， 双脚分开与髋同宽。
+        双手放在头顶上，手指互锁。
+        吸气，将手掌伸向天空，舒展整个身体。
+        停在这里，一个或多个缓慢的深呼吸。
+        呼气，降低， 回到初始位置。
+    related_exs: []
+- data:
+    id: 270061
+    full_name: 'Yoga Plank'
+    title: '板式'
+    record_method: 'reps'
+    pictures:
+      M: 'Plank.svg'
+      F: 'Plank-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    - 'shoulders'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    - 'triceps'
+    - 'wrists'
+
+    related_exs: []
+- data:
+    id: 270062
+    full_name: 'Plank Flow'
+    title: '板流式'
+    record_method: 'reps'
+    pictures:
+      M: 'Plank_Flow.svg'
+      F: 'Plank_Flow-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    - 'shoulders'
+    - 'spine'
+    secondary_mg:
+    - 'middle-back-lats'
+    - 'quadriceps'
+    - 'triceps'
+    - 'wrists'
+    describe:
+      explain_en: |
+        Begin in Downward Facing Dog. Bring your hands as wide as your shoulders and feet as wide as your hips. Spread your fingers wide. Reach your tailbone toward the sky behind you.
+        With an inhale, shift forward into Plank, bringing your shoulders over your wrists.
+        With an exhale push back into Downward Facing Dog.
+        Repeat this movement.
+        Modification: Lower your knees to the floor.
+      explain_ch: |
+        跪于垫面上，双膝分开与髋同宽。
+        双手掌压实垫面，双手分开与肩同宽。臀部向上，这是下犬式的姿势。
+        吸气， 肩膀移向手腕。
+        呼气， 推回到下犬式的姿势。
+    related_exs: []
+- data:
+    id: 270063
+    full_name: 'Plow'
+    title: '犁式'
+    record_method: 'reps'
+    pictures:
+      M: 'Plow.svg'
+      F: 'Plow-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'shoulders'
+    - 'spine'
+    secondary_mg:
+    - 'neck-upper-traps'
+    - 'triceps'
+    describe:
+      explain_en: |
+        Lie on your back with your arms alongside your body, palms down. Lift your legs and hips with an inhale, then support your low back with your hands.
+        Slowly lower your legs overhead with an exhale, bringing your toes to the floor. Try to straighten your legs.
+        If your toes touch the floor, release your hands from your back and press your palms into the floor.
+        Hold the pose and take slow, deep breaths.
+        Tuck your chin into your chest and with an exhale slowly roll down one vertebra at a time.
+        Modification: Bring feet wide and hold onto ankles.
+        Avoid this pose if you have a neck injury.
+      explain_ch: |
+        仰卧，两手放在两侧，手心向下。吸气，提起腿和臀部，然后用双手支撑腰部。
+        把手放在背上，两肘靠近。脚趾伸向天空。放松脚趾。
+        呼气,慢慢降低脚，脚趾碰到垫面。
+        如果脚趾碰到垫面，从背部松开手掌，然后手掌按着垫面。
+        保持姿势，缓慢深呼吸。
+        下巴靠胸部，并呼气。
+        修改：把脚放宽，并握住脚踝。
+        如果你有颈部受伤，请避免这种姿势。
+    related_exs: []
+- data:
+    id: 270064
+    full_name: 'Prayer'
+    title: '祈祷式'
+    record_method: 'reps'
+    pictures:
+      M: 'Prayer.svg'
+      F: 'Prayer-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'lower-back'
+    - 'spine'
+    secondary_mg:
+    - 'chest'
+    - 'knees'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 270065
+    full_name: 'Preparatory King Dancer'
+    title: '舞王式'
+    record_method: 'reps'
+    pictures:
+      M: 'Preparatory_King_Dancer.svg'
+      F: 'Preparatory_King_Dancer-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'quadriceps'
+    - 'shoulders'
+    - 'spine'
+    secondary_mg:
+    - 'abs'
+    - 'ankles'
+    - 'calves'
+    - 'middle-back-lats'
+    - 'obliques'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 270066
+    full_name: 'Pyramid'
+    title: '金字塔式'
+    record_method: 'reps'
+    pictures:
+      M: 'Pyramid.svg'
+      F: 'Pyramid-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'shoulders'
+    - 'spine'
+    secondary_mg:
+    - 'calves'
+    - 'wrists'
+    describe:
+      explain_en: |
+        Begin standing. Step your left foot about 3 feet back with an exhale. Keeping your heels in one line, point your left foot 45 degrees to the left. Face your torso forward.
+        Press your palms together behind your back with an inhale. Open your chest.
+        Bend forward with an exhale. Reach your forehead toward your knee.
+        Hold the pose and take slow, deep breaths.
+        Rise with an inhale, then exhale and step your feet together. Change sides.
+        Modification: Hold opposite elbows behind your back, or reach both hands to the floor.
+        Avoid this pose if you have high blood pressure or a back injury.
+      explain_ch: |
+        站立。 左脚伸前3个脚掌长度，呼气。 脚后跟保持一条线，将左脚指向左侧45度。 躯干向前。
+        吸气，将手掌压在背后。 打开胸部。
+        呼气，向前弯曲。 额头伸向膝盖。
+        保持姿势，缓慢深呼吸。
+        吸气，升起，然后呼气，双脚合拢。 换另一边重复。
+        修改：背后双手抓着肘部。
+    related_exs: []
+- data:
+    id: 270067
+    full_name: 'Rabbit'
+    title: '兔子式'
+    record_method: 'reps'
+    pictures:
+      M: 'Rabbit.svg'
+      F: 'Rabbit-1.svg'
+    primary_mg:
+    - 'neck-upper-traps'
+    - 'spine'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'middle-back-lats'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 270068
+    full_name: 'Raised Arms / Raised Hands'
+    title: '上手式'
+    record_method: 'reps'
+    pictures:
+      M: 'Raised_Armsfor_hatha_sun_salutation.svg'
+      F: 'Raised_Armsfor_hatha_sun_salutation-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'shoulders'
+    - 'spine'
+    secondary_mg:
+    - 'knees'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 270069
+    full_name: 'Reclined Spinal Twist'
+    title: '躺卧脊柱扭转式'
+    record_method: 'reps'
+    pictures:
+      M: 'Reclined_Spinal_Twist.svg'
+      F: 'Reclined_Spinal_Twist-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+    - 'spine'
+    secondary_mg:
+    - 'obliques'
+    describe:
+      explain_en: |
+        Lie on your back. Stretch your arms out at shoulder height, palms down.
+        Bend your right leg and place your foot flat on the floor next to your left knee. Place your left hand on top of your right knee.
+        With an exhale gently guide your right knee toward the floor. Gaze toward the right.
+        Hold the pose and take slow, deep breaths.
+        Untwist with an inhale. Change sides.
+      explain_ch: |
+        仰卧。 伸出手臂，手掌向下。
+        弯曲右腿，右脚放在左膝盖边上。 左手放在右膝盖上。
+        呼气，轻轻地将右膝朝地面压。 向右看。
+        保持姿势，缓慢深呼吸。
+        吸气, 回到初始姿势。换另一边重复。
+    related_exs: []
+- data:
+    id: 270070
+    full_name: 'Reclining Bound Angle'
+    title: '仰卧束角式'
+    record_method: 'reps'
+    pictures:
+      M: 'Reclining_Bound_Angle.svg'
+      F: 'Reclining_Bound_Angle-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'knees'
+    secondary_mg:
+    - 'spine'
+
+    related_exs: []
+- data:
+    id: 270071
+    full_name: 'Reclining Hand-to-Big-Toe'
+    title: '仰卧手抓脚趾式'
+    record_method: 'reps'
+    pictures:
+      M: 'Reclining_Hand-to-Big-Toe.svg'
+      F: 'Reclining_Hand-to-Big-Toe-1.svg'
+    primary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    secondary_mg:
+    - 'lower-back'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 270072
+    full_name: 'Reclining Hero'
+    title: '仰卧英雄式'
+    record_method: 'reps'
+    pictures:
+      M: 'Reclining_Hero.svg'
+      F: 'Reclining_Hero-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'ankles'
+    - 'chest'
+    - 'knees'
+    - 'spine'
+
+    related_exs: []
+- data:
+    id: 270073
+    full_name: 'Reverse Warrior'
+    title: '反转战士式'
+    record_method: 'reps'
+    pictures:
+      M: 'Reverse_Warrior.svg'
+      F: 'Reverse_Warrior-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'middle-back-lats'
+    - 'quadriceps'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'calves'
+    - 'knees'
+    - 'obliques'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 270074
+    full_name: 'Revolved Head-to-Knee'
+    title: '扭转头触膝式'
+    record_method: 'reps'
+    pictures:
+      M: 'Revolved_Head-to-Knee.svg'
+      F: 'Revolved_Head-to-Knee-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'middle-back-lats'
+    - 'obliques'
+    - 'spine'
+    secondary_mg:
+    - 'calves'
+    - 'knees'
+    - 'neck-upper-traps'
+
+    related_exs: []
+- data:
+    id: 270075
+    full_name: 'Revolved Side Angle'
+    title: '三角扭转侧伸展式'
+    record_method: 'reps'
+    pictures:
+      M: 'Revolved_Side_Angle.svg'
+      F: 'Revolved_Side_Angle-1.svg'
+    primary_mg:
+    - 'calves'
+    - 'chest'
+    - 'hamstrings'
+    - 'shoulders'
+    - 'spine'
+    secondary_mg:
+    - 'ankles'
+    - 'knees'
+    - 'middle-back-lats'
+    - 'obliques'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 270076
+    full_name: 'Revolved Triangle'
+    title: '扭转三角伸展式'
+    record_method: 'reps'
+    pictures:
+      M: 'Revolved_Triangle.svg'
+      F: 'Revolved_Triangle-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'spine'
+    secondary_mg:
+    - 'calves'
+    - 'middle-back-lats'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 270077
+    full_name: 'Seated Forward Bend'
+    title: '坐立前曲式'
+    record_method: 'reps'
+    pictures:
+      M: 'Seated_Forward_Bend.svg'
+      F: 'Seated_Forward_Bend-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'spine'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 270078
+    full_name: 'Shining Skull Breath / Frontal Brain CLeaning Breath'
+    title: '前脑清洁呼吸'
+    record_method: 'reps'
+    pictures:
+      M: 'Shining_Skull_Breath.svg'
+      F: 'Shining_Skull_Breath-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+
+    related_exs: []
+- data:
+    id: 270079
+    full_name: 'Shoulder Pressing'
+    title: '压肩式'
+    record_method: 'reps'
+    pictures:
+      M: 'Shoulder_Pressing.svg'
+      F: 'Shoulder_Pressing-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'forearms'
+    - 'shoulders'
+    - 'wrists'
+    secondary_mg:
+    - 'middle-back-lats'
+    - 'triceps'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 270080
+    full_name: 'Shoulderstand'
+    title: '肩立式'
+    record_method: 'reps'
+    pictures:
+      M: 'Shoulderstand.svg'
+      F: 'Shoulderstand-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'neck-upper-traps'
+    - 'shoulders'
+    secondary_mg:
+    - 'chest'
+    - 'spine'
+    - 'upper-back-lower-traps'
+    describe:
+      explain_en: |
+        Lie on your back with your arms alongside your body, palms down. Lift your legs and hips with an inhale, then support your low back with your hands.
+        Walk your hands down your back and bring your elbows close together. Reach your feet toward the sky. Relax your toes.
+        Hold the pose and take slow, deep breaths into your belly.
+        Lower your feet behind your head, place your palms flat on the floor, tuck your chin into your chest and with an exhale slowly roll down one vertebra at a time.
+        Always follow shoulderstand with its counterposes, Plow and Fish.
+        Avoid this pose if you have high blood pressure, headache, neck injury, or a heart condition.
+      explain_ch: |
+        仰卧，两手放在两侧，手心向下。 吸气，提起腿和臀部，然后用双手支撑腰部。
+        把手放在背上，两肘靠近。 脚趾伸向天空。 放松脚趾。
+        保持姿势，慢慢深呼吸。
+        如果您有高血压，头痛，颈部损伤或心脏病，请避免此姿势。
+    related_exs: []
+- data:
+    id: 270081
+    full_name: 'Side Crow'
+    title: '侧乌鸦式'
+    record_method: 'reps'
+    pictures:
+      M: 'Side_Crow.svg'
+      F: 'Side_Crow-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'forearms'
+    - 'obliques'
+    - 'shoulders'
+    - 'wrists'
+    secondary_mg:
+    - 'lower-back'
+    - 'spine'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 270082
+    full_name: 'Yoga Side Plank'
+    title: '侧板式'
+    record_method: 'reps'
+    pictures:
+      M: 'Side_Plank.svg'
+      F: 'Side_Plank-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'obliques'
+    - 'shoulders'
+    secondary_mg:
+    - 'forearms'
+    - 'wrists'
+
+    related_exs: []
+- data:
+    id: 270083
+    full_name: 'Sleeping Pigeon'
+    title: '睡鸽式'
+    record_method: 'reps'
+    pictures:
+      M: 'Pigeon.svg'
+      F: 'Pigeon-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'shoulders'
+    - 'spine'
+
+    related_exs: []
+- data:
+    id: 270084
+    full_name: 'Snake'
+    title: '蛇式'
+    record_method: 'reps'
+    pictures:
+      M: 'Snake.svg'
+      F: 'Snake-1.svg'
+    primary_mg:
+    - 'middle-back-lats'
+    - 'spine'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 270085
+    full_name: 'Sphinx'
+    title: '人面狮身式'
+    record_method: 'reps'
+    pictures:
+      M: 'Sphinx-1.svg'
+      F: 'Sphinx.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'middle-back-lats'
+    - 'shoulders'
+    - 'spine'
+    secondary_mg:
+    - 'abs'
+    - 'chest'
+
+    related_exs: []
+- data:
+    id: 270086
+    full_name: 'Staff'
+    title: '手杖式'
+    record_method: 'reps'
+    pictures:
+      M: 'Staff.svg'
+      F: 'Staff-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'spine'
+    secondary_mg:
+    - 'triceps'
+    - 'wrists'
+
+    related_exs: []
+- data:
+    id: 270087
+    full_name: 'Standing Forward Bend'
+    title: '站立前曲式'
+    record_method: 'reps'
+    pictures:
+      M: 'Standing_Forward_Bend.svg'
+      F: 'Standing_Forward_Bend-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'lower-back'
+    - 'spine'
+    secondary_mg:
+    - 'calves'
+    - 'middle-back-lats'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 270088
+    full_name: 'Standing Half Forward Bend'
+    title: '站立半前曲式'
+    record_method: 'reps'
+    pictures:
+      M: 'Standing_Half_Forward_Bend.svg'
+      F: 'Standing_Half_Forward_Bend-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'spine'
+    secondary_mg:
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 270089
+    full_name: 'Standing Split'
+    title: '站立劈式'
+    record_method: 'reps'
+    pictures:
+      M: 'Standing_Split.svg'
+      F: 'Standing_Split-1.svg'
+    primary_mg:
+    - 'ankles'
+    - 'calves'
+    - 'hamstrings'
+    secondary_mg:
+    - 'quadriceps'
+    - 'spine'
+
+    related_exs: []
+- data:
+    id: 270090
+    full_name: 'Standing Yoga Seal'
+    title: '站立锁合式'
+    record_method: 'reps'
+    pictures:
+      M: 'Standing_Yoga_Seal.svg'
+      F: 'Standing_Yoga_Seal-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    - 'shoulders'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'chest'
+    - 'glutes-hip-flexors'
+    - 'spine'
+    - 'triceps'
+    describe:
+      explain_en: |
+        Stand with your feet hip-width apart. Bring feet parallel. Reach your hands toward the sky with an inhale, palms facing each other.
+        Bend your knees with an exhale and shift your hips back and down.
+        Interlock your fingers behind you with an inhale. Open your chest.
+        Bend forward with an exhale, keeping your knees bent. Draw your chest toward your thighs and reach your arms up and forward. Relax your neck.
+        Lift your torso with an inhale, release your hands and reach your hands toward the sky.
+        Repeat this movement.
+      explain_ch: |
+        两脚分开与髋同宽。 把脚平行。 吸气，双手朝上，双手相对。
+        呼气，弯曲膝盖，并将臀部稍微下蹲。
+        吸气，把手指联锁在你身后。 打开胸部。
+        呼气，向前弯曲，保持膝盖弯曲。 把胸部靠向大腿，向上向后伸直双臂。 放松脖子。
+        吸气，抬起身躯，双手伸向上方，回到初始姿势。
+    related_exs: []
+- data:
+    id: 270091
+    full_name: 'Striking Cobra'
+    title: '蛇攻击式'
+    record_method: 'reps'
+    pictures:
+      M: 'Striking_Cobra.svg'
+      F: 'Striking_Cobra-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    - 'shoulders'
+    - 'spine'
+    secondary_mg:
+    - 'biceps'
+    - 'middle-back-lats'
+    - 'triceps'
+    - 'wrists'
+    describe:
+      explain_en: |
+        Begin in Extended Child’s Pose: sit back on your heels and reach your arms in front of you. Bring your hands shoulder-width apart.
+        With an inhale, lift your hips, bend your elbows and slide your chest forward along the floor. Then press into your hands and reach your chest forward and up, coming into Extended Cobra.
+        With an exhale, lift your hips and push yourself back into Extended Child’s Pose.
+        Repeat this movement.
+        Modification: Rise only into Low Cobra, keeping your belly on the floor and elbows bent.
+      explain_ch: |
+        坐在脚后跟上，并伸出手臂在你面前。 双手分开与肩同宽。初始姿势就是前伸展儿童式。
+        吸气时，抬起臀部，弯曲肘部，沿着垫面向前滑动胸部。 然后按住手，抬头挺胸，进入眼镜蛇式。
+        呼气，抬起臀部，把自己推回到前伸展儿童式。
+        重复这个动作。
+    related_exs: []
+- data:
+    id: 270092
+    full_name: 'Swaying Palm Tree'
+    title: '棕树摇摆'
+    record_method: 'reps'
+    pictures:
+      M: 'Swaying_Palm_Tree.svg'
+      F: 'Swaying_Palm_Tree-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    - 'spine'
+    secondary_mg:
+    - 'middle-back-lats'
+    - 'shoulders'
+    - 'upper-back-lower-traps'
+    - 'wrists'
+    describe:
+      explain_en: |
+        Stand with your feet wider than your shoulders.
+        With an inhale, stretch your palms toward the sky, fingers interlocked.
+        Bend to the right with an exhale. Do not move your hips.
+        Rise to center with an inhale. Change sides and repeat this movement.
+      explain_ch: |
+        站直，双脚分开略宽于肩膀。
+        吸气，手指互锁，将手掌伸向上方。
+        呼气，上身向右侧弯，不要移动臀部。
+        吸气，上身回到原位。
+        呼气，上身向左侧弯。
+    related_exs: []
+- data:
+    id: 270093
+    full_name: 'Thunderbolt / Kneeling / Diamond'
+    title: '雷电式'
+    record_method: 'reps'
+    pictures:
+      M: 'Thunderbolt.svg'
+      F: 'Thunderbolt-1.svg'
+    primary_mg:
+    - 'knees'
+    - 'quadriceps'
+    secondary_mg:
+    - 'ankles'
+    - 'spine'
+
+    related_exs: []
+- data:
+    id: 270094
+    full_name: 'Tiger'
+    title: '虎式'
+    record_method: 'reps'
+    pictures:
+      M: 'Tiger.svg'
+      F: 'Tiger-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'spine'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+    - 'knees'
+    - 'lower-back'
+    - 'shoulders'
+    - 'wrists'
+    describe:
+      explain_en: |
+        Begin on all fours. Bring your wrists directly under your shoulders and your knees under your hips. Bring your head to a neutral position.
+        With an inhale, reach your right foot toward the sky. Arch your spine and look up.
+        With an exhale, draw your right knee toward your nose. Round your spine.
+        Repeat this movement, then change sides.
+        Modification: Place a folded blanket under your knees for cushion.
+      explain_ch: |
+        跪于垫面上，双膝分开与髋同宽。
+        吸气时，右脚朝天空。 抬头凹背，胸腔和臀部上提。
+        呼气时，将右膝伸向鼻子。 脊椎拱起。
+        重复这个动作，然后换另一边。
+    related_exs: []
+- data:
+    id: 270095
+    full_name: 'Tree'
+    title: '树式'
+    record_method: 'reps'
+    pictures:
+      M: 'Tree.svg'
+      F: 'Tree-1.svg'
+    primary_mg:
+    - 'ankles'
+    - 'knees'
+    - 'quadriceps'
+    - 'spine'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'lower-back'
+    describe:
+      explain_en: |
+        Stand with your feet together. Shift your weight onto your right leg. Place the sole of your left foot along the inside of your right thigh; either above or below your knee.
+        Slowly reach your arms out and then up with an inhale. Bring your palms to touch overhead.
+        Gaze at one point ahead of you. Hold the pose and take slow, deep breaths.
+        Release your arms and leg with an exhale. Change sides.
+        Modification: If you find it difficult to balance, place your heel on top of the opposite foot.
+        Avoid this pose if you have low blood pressure.
+      explain_ch: |
+        站立。 把身体重量转移到右腿上。 将左脚的脚底沿着右大腿内侧，提升到膝盖位置。
+        慢慢伸出手臂，然后吸气。 在头顶上方双手合十。
+        凝视前方一点。 保持姿势，缓慢深呼吸。
+        呼气，释放手臂和腿。 换另一边重复。
+        修改：如果发现难以平衡，请将脚跟放在另一只脚的脚背上。
+    related_exs: []
+- data:
+    id: 270096
+    full_name: 'Upward Bow / Wheel'
+    title: '上轮式'
+    record_method: 'reps'
+    pictures:
+      M: 'Wheel_Upward_Bow.svg'
+      F: 'Wheel_Upward_Bow-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'quadriceps'
+    - 'shoulders'
+    - 'spine'
+    secondary_mg:
+    - 'abs'
+    - 'forearms'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'triceps'
+    - 'wrists'
+
+    related_exs: []
+- data:
+    id: 270097
+    full_name: 'Upward Facing Dog'
+    title: '上犬式'
+    record_method: 'reps'
+    pictures:
+      M: 'Upward_Facing_Dog.svg'
+      F: 'Upward_Facing_Dog-1.svg'
+    primary_mg:
+    - 'forearms'
+    - 'spine'
+    - 'triceps'
+    - 'wrists'
+    secondary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 270098
+    full_name: 'Upward Salute'
+    title: '双手上举式'
+    record_method: 'reps'
+    pictures:
+      M: 'Upward_Salute.svg'
+      F: 'Upward_Salute-1.svg'
+    primary_mg:
+    - 'shoulders'
+    - 'spine'
+    secondary_mg:
+    - 'knees'
+    - 'obliques'
+
+    related_exs: []
+- data:
+    id: 270099
+    full_name: 'Warrior I'
+    title: '战士第一式'
+    record_method: 'reps'
+    pictures:
+      M: 'Warrior_I.svg'
+      F: 'Warrior_I-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'middle-back-lats'
+    - 'quadriceps'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'calves'
+    - 'obliques'
+    - 'shoulders'
+    describe:
+      explain_en: |
+        Begin standing. Step your left foot 3 ½ to 4 feet back with an exhale. Keeping your heels in one line, point your left foot 45 degrees to the left. Face your torso forward.
+        Reach your arms toward the sky with an inhale, palms facing each other.
+        Bend your right knee with an exhale, bringing the thigh parallel to the floor. Align knee over ankle.
+        Hold the pose and take slow, deep breaths.
+        Straighten your leg with an inhale, then exhale and step your feet together. Release your arms. Change sides.
+      explain_ch: |
+        开始站立，两脚分开， 两脚相隔4个脚长度。左脚指向左侧45度，脚后跟保持一条线， 躯干向前。
+        吸气，手臂朝上，手掌相向。
+        呼气，弯曲右膝，呈90度，大腿平行于地面。
+        保持姿势，缓慢深呼吸。
+        吸气，拉直腿部，然后呼气，然后双脚合拢，手臂放下。然后换另一边重复。
+    related_exs: []
+- data:
+    id: 270100
+    full_name: 'Warrior II'
+    title: '战士第二式'
+    record_method: 'reps'
+    pictures:
+      M: 'Warrior_II.svg'
+      F: 'Warrior_II-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'biceps'
+    - 'chest'
+    - 'hamstrings'
+    - 'knees'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 270101
+    full_name: 'Warrior III'
+    title: '战士第三式'
+    record_method: 'reps'
+    pictures:
+      M: 'Warrior_III.svg'
+      F: 'Warrior_III-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'shoulders'
+    secondary_mg:
+    - 'middle-back-lats'
+    - 'upper-back-lower-traps'
+    describe:
+      explain_en: |
+        Begin standing. Reach your hands toward the sky with an inhale, palms facing each other.
+        Bring your weight into your right foot. Bend forward from your hips with an exhale, lifting your left leg straight back.
+        Hold the pose and take slow, deep breaths.
+        Rise with an inhale, then exhale and release your arms. Change sides.
+        Modification: Reach your arms to the sides for balance.
+      explain_ch: |
+        开始站立。 吸气,双手朝上，双手相对。
+        把身体重量带到右脚。 呼气，臀部向前弯曲，将左腿向后抬起。
+        保持姿势，缓慢深呼吸。
+        吸气，抬起手臂，然后呼气， 放下手臂。 换另一边重复。
+    related_exs: []
+- data:
+    id: 270102
+    full_name: 'Wide Angle Seated Forward Bend'
+    title: '坐式开角式'
+    record_method: 'reps'
+    pictures:
+      M: 'Wide-Angle_Seated_Forward_Bend.svg'
+      F: 'Wide-Angle_Seated_Forward_Bend-1.svg'
+    primary_mg:
+    - 'calves'
+    - 'hamstrings'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+    - 'spine'
+
+    related_exs: []
+- data:
+    id: 270103
+    full_name: 'Wide Legged Forward Bend'
+    title: '双角式'
+    record_method: 'reps'
+    pictures:
+      M: 'Wide_Legged_Forward_Bend.svg'
+      F: 'Wide_Legged_Forward_Bend-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'lower-back'
+    - 'spine'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'middle-back-lats'
+    - 'upper-back-lower-traps'
+    describe:
+      explain_en: |
+        Stand with your feet together. Step your feet 3 to 5 feet apart. Bring feet parallel.
+        Place your hands on your hips. Lengthen your spine with an inhale.
+        Bend forward with an exhale, keeping your spine long. Bring your fingertips or palms to the floor and walk them back until they’re in line with your feet.
+        Relax your neck and draw your shoulders away from your ears.
+        Hold the pose and take slow, deep breaths.
+        Bring your hands to your hips and engage your back muscles. Inhale and slowly rise with a flat back. Exhale and step your feet together.
+        Modification: Bend knees slightly.
+        Avoid this pose if you have low back problems.
+      explain_ch: |
+        两脚分开3到5个脚掌距离。
+        把手放在臀部。 吸气，拉长脊柱。
+        呼气，向前弯曲，伸展脊柱。 把指尖或手掌放在地上，然后向后走，直到它们与脚同一条线。
+        放松脖子，把肩膀从耳朵上拉开。
+        保持姿势，缓慢深呼吸。
+        双手回到臀部。 吸气，并慢慢地上升背部，背部保持直线。 呼气，双脚并拢。
+        整个过程，可以稍微弯曲膝盖。
+        如果下低背部有问题，避免这个动作。
+    related_exs: []
+- data:
+    id: 270104
+    full_name: 'Wild Thing'
+    title: '狂野式'
+    record_method: 'reps'
+    pictures:
+      M: 'Wild_Thing.svg'
+      F: 'Wild_Thing-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'shoulders'
+    - 'spine'
+    secondary_mg:
+    - 'abs'
+    - 'quadriceps'
+    - 'wrists'
+
+    related_exs: []
+- data:
+    id: 270105
+    full_name: 'Wind Release'
+    title: '锁腿式'
+    record_method: 'reps'
+    pictures:
+      M: 'Wind_Release.svg'
+      F: 'Wind_Release-1.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'spine'
+    secondary_mg:
+    - 'abs'
+    - 'knees'
+    describe:
+      explain_en: |
+        Lie on your back with your legs together.
+        Bend your right leg with an exhale, interlace your fingers around your shin and hug your knee into your chest. Inhale deeply.
+        Lift your head with an exhale and touch your forehead or chin to your knee. Hold for a few seconds.
+        Lower your head to the floor with an inhale. Continue hugging your knee and take slow, deep breaths. Release.
+        Change sides.
+        Always start with the right leg as this follows the movement of the colon.
+      explain_ch: |
+        仰卧，双脚并拢。
+        呼气，弯曲右腿，手指压着小腿上，把膝盖抱在胸前。 深吸一口气。
+        呼气，抬头，膝盖找下巴。 保持几秒钟。
+        吸气，头回到垫面上。 继续抱着膝盖，慢慢深呼吸。 回到仰卧姿势。
+        换另一边重复。
+    related_exs: []
+- data:
+    id: 270106
+    full_name: 'Yogic Breathing'
+    title: '瑜伽呼吸'
+    record_method: 'reps'
+    pictures:
+      M: 'Yogic_Breathing.svg'
+      F: 'Yogic_Breathing-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+    describe:
+      explain_en: |
+        Sit in a comfortable position. Lengthen your spine.
+        Place your right hand over your belly and your left hand over your chest. Close your eyes.
+        Inhale into your belly, slowly and deeply. Feel your belly expand. As you continue the inhalation, feel your ribs expand next and then the base of your throat.
+        As you exhale, relax the upper chest, feel the ribs contract next and lastly the belly.
+        Each breath should flow naturally without tension. Repeat 5 to 10 rounds of this breath.
+        Modification: Place a firm cushion or rolled mat under your bottom to bring more length to your spine.
+      explain_ch: |
+        坐在舒适的位置，伸展脊柱。
+        将右手放在腹部，左手放在胸前。 闭上眼睛。
+        慢慢地，深入地吸入腹部。 感觉肚子扩大。 继续吸气时，感觉肋骨会扩张，然后是喉咙底部。
+        呼气时，放松胸部，感觉肋骨排空，最后肚子排空。
+        每一次呼吸都应自然而然地没有紧张。 吸气呼气重复5到10轮。
+        可以在放置一个牢固的垫子或着将垫子折叠，让脊柱更好地伸展。
+    related_exs: []

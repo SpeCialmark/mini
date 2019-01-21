@@ -1,0 +1,16 @@
+exercises:
+
+- data:
+    id: 220001
+    full_name: 'V-Bar / Triangle Bar Lat Pulldowns / Pull Downs / Pullovers'
+    title: 'V型把手下拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'V-Bar_Triangle_Bar_Lat_Pull_Downs.svg'
+      F: 'V-Bar_Triangle_Bar_Lat_Pull_Downs-1.svg'
+    primary_mg:
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'biceps'
+
+    related_exs: []

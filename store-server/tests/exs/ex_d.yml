@@ -1,0 +1,705 @@
+exercises:
+- data:
+    id: 40001
+    full_name: 'Dead Bug'
+    title: '死虫动作'
+    record_method: 'reps'
+    pictures:
+      M: 'Dead_Bug_M.svg'
+      F: 'Dead_Bug_F.svg'
+    primary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 40002
+    full_name: 'Decline Barbell Bench Press'
+    title: '下斜杠铃卧推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Decline_Barbell_Bench_Press_M.svg'
+      F: 'Decline_Barbell_Bench_Press_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 40003
+    full_name: 'Decline Bench Crunches / Sit-ups'
+    title: '下斜仰卧起坐'
+    record_method: 'reps'
+    pictures:
+      M: 'Decline_Bench_Crunches_Sit-ups_Situps.svg'
+      F: 'Decline_Bench_Crunches_Sit-ups_Situps-1.svg'
+    primary_mg:
+    - 'abs'
+    related_exs: []
+- data:
+    id: 40004
+    full_name: 'Decline Bench Dumbbell Press'
+    title: '下斜哑铃卧推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Decline_Dumbbell_Press_M.svg'
+      F: 'Decline_Dumbbell_Press_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 40005
+    full_name: 'Decline Dumbbell Flyes'
+    title: '下斜哑铃飞鸟'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Decline_Dumbbell_Fly_M.svg'
+      F: 'Decline_Dumbbell_Fly_F.svg'
+    primary_mg:
+    - 'chest'
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 40006
+    full_name: 'Decline Lying Triceps Extension / Decline Skull Crushers'
+    title: '下斜杠铃臂屈伸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Decline_EZ_Bar_Triceps_Extension_M.svg'
+      F: 'Decline_EZ_Bar_Triceps_Extension_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 40007
+    full_name: 'Decline Push-ups / Pushups'
+    title: '下斜俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Decline_Pushup_M.svg'
+      F: 'Decline_Pushup_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+    describe:
+      explain_en: |
+        Facing down, place yourself on the ground with your hands flat on the floor, directly below your shoulders.
+        Place your feet on top of a bench or box. Only your toes and balls of your feet should be touching the floor.
+        Maintain a flat back and tight core before lowering your chest towards the ground. Bend your elbows at a 60-degree angle until your chest is just above the ground. You should feel a stretch across your chest. Hold for a count of one.
+        Push yourself back to the starting position by straightening your arms. Do not lock out your elbows.
+      explain_ch: |
+        该动作侧重训练胸大肌的上半部分。
+        将脚放在长凳上面。
+        收紧腹部肌肉，保持背部平直，然后将胸部向地面降低。 弯曲肘部60度，直到胸部差不多到地面。 此时应该感觉到胸部拉伸， 坚持一秒。
+        用手臂将上半身推回到起始位置。 注意不要锁定胳膊肘。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑
+- data:
+    id: 40008
+    full_name: 'Diamond / Pyramid / Triceps Push-ups / Pushups'
+    title: '钻石俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Diamond_Pushup_M.svg'
+      F: 'Diamond_Pushup_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'chest'
+    - 'shoulders'
+    describe:
+      explain_en: |
+        Position yourself on all fours on a mat.
+        Place your hands in front of you and shoulder-width apart.
+        Now bring your hands in towards the center until the tips of your index fingers and tips of your thumbs are touching. This creates a diamond shape between your hands. Your elbows and wrists should be in line with your chest.
+        With your fingers facing forwards, lift off your knees so that your body forms a straight line and just your hands and toes touch the floor.
+        Keep you pelvis straight and abs engaged and aim to keep a straight back throughout the movement.
+        Bend your elbows and lower your body towards the floor, aiming to touch your chest to the top of your hands. Pause briefly.
+        Return to the starting position by extending your elbows and lifting your body off the floor again.
+      explain_ch: |
+        该动作侧重肱三头肌， 而不是胸大肌。
+        把双手创建一个菱形，食指尖和拇指尖触碰到为止。 肘部和手腕与胸部同一条线。
+        整个运动收紧腹部肌肉，保持背部平直。弯曲肘部并将身体向地面放低，胸部触碰到手背。 暂停一下。
+        再次肘部发力将身体从地面抬起，重新回到起始位置。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑
+- data:
+    id: 40009
+    full_name: 'Donkey Kicks'
+    title: '跪姿后踢腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Donkey_kicks_M.svg'
+      F: 'Donkey_kicks_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 40010
+    full_name: 'Double Crunches'
+    title: '屈膝两头起'
+    record_method: 'reps'
+    pictures:
+      M: 'Double_Crunch_M.svg'
+      F: 'Double_Crunch_F.svg'
+    primary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 40011
+    full_name: 'Double Side Jackknifes'
+    title: '侧屈体抬腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Double-Side_Jackknife_M.svg'
+      F: 'Double-Side_Jackknife_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 40012
+    full_name: 'Downward Cable Wood Chops'
+    title: '站立绳索伐木'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Downward_Cable_Wood_Chops.svg'
+      F: 'Downward_Cable_Wood_Chops-1.svg'
+    primary_mg:
+    - 'obliques'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 40013
+    full_name: 'Dual / Two Arm Dumbbell Front Shoulder Raises'
+    title: '哑铃前平举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dual_Two_Arm_Dumbbell_Front_Shoulder_Raise.svg'
+      F: 'Dual_Two_Arm_Dumbbell_Front_Shoulder_Raise-1.svg'
+    primary_mg:
+    - 'neck-upper-traps'
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    related_exs: []
+- data:
+    id: 40014
+    full_name: 'Dumbbell Bent Over Lateral Rear Delt Raises / Flyes'
+    title: '俯身哑铃侧平举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Two_Armed_Bent_Over_Flyes.svg'
+      F: 'Two_Armed_Bent_Over_Flyes-1.svg'
+    primary_mg:
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 40015
+    full_name: 'Dumbbell Bicep Reverse Curls'
+    title: '哑铃反向弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Reverse_Curl_M.svg'
+      F: 'Dumbbell_Reverse_Curl_F.svg'
+    primary_mg:
+    - 'forearms'
+    secondary_mg:
+    - 'biceps'
+
+    related_exs: []
+- data:
+    id: 40016
+    full_name: 'Dumbbell Biceps Curl to Shoulder Press'
+    title: '肱二头肌弯举接推肩'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Biceps_Curl_To_Shoulder_Press-1.svg'
+      F: 'Dumbbell_Biceps_Curl_To_Shoulder_Press.svg'
+    primary_mg:
+    - 'biceps'
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 40017
+    full_name: 'Dumbbell Chops'
+    title: '哑铃伐木'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Chop-1.svg'
+      F: 'Dumbbell_Chop.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'obliques'
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 40018
+    full_name: 'Dumbbell Cuban Press'
+    title: '哑铃古巴推举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Cuban_Press_M.svg'
+      F: 'Dumbbell_Cuban_Press_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'neck-upper-traps'
+
+    related_exs: []
+- data:
+    id: 40019
+    full_name: 'Dumbbell Deadlifts'
+    title: '哑铃硬拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Deadlift_M.svg'
+      F: 'Dumbbell_Deadlift_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'lower-back'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 40020
+    full_name: 'Dumbbell Flat Bench Press'
+    title: '哑铃卧推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Bench_Press_M.svg'
+      F: 'Dumbbell_Bench_Press_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 40021
+    full_name: 'Dumbbell Floor Chest Press'
+    title: '哑铃地板卧推'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Floor_Press.svg'
+      F: 'Dumbbell_Floor_Press-1.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 40022
+    full_name: 'Dumbbell Incline Bench Rows'
+    title: '上斜哑铃划船'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Incline_Row_M.svg'
+      F: 'Dumbbell_Incline_Row_F.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'biceps'
+    - 'forearms'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 40023
+    full_name: 'Dumbbell Lunges'
+    title: '哑铃弓箭步'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Lunges_M.svg'
+      F: 'Dumbbell_Lunges_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+    related_exs: []
+
+- data:
+    id: 40024
+    full_name: 'Dumbbell Overhead Shoulder Press'
+    title: '哑铃推肩'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Shoulder_Press_M.svg'
+      F: 'Dumbbell_Shoulder_Press_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'triceps'
+    - 'upper-back-lower-traps'
+
+
+    related_exs: []
+- data:
+    id: 40025
+    full_name: 'Dumbbell Pullovers'
+    title: '曲臂哑铃上拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Pullover_M.svg'
+      F: 'Dumbbell_Pullover_F.svg'
+    primary_mg:
+    - 'chest'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+
+    related_exs: []
+- data:
+    id: 40026
+    full_name: 'Dumbbell Shrugs'
+    title: '哑铃耸肩'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Shrug_M.svg'
+      F: 'Dumbbell_Shrug_F.svg'
+    primary_mg:
+    - 'shoulders'
+
+
+    related_exs: []
+- data:
+    id: 40027
+    full_name: 'Dumbbell Side Lunges / Lateral Lunges'
+    title: '哑铃侧弓步'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Side_Lunge_M.svg'
+      F: 'Side_Lunge_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 40028
+    full_name: 'Dumbbell Squat Clean and Press'
+    title: '哑铃深蹲翻举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Squat-_Clean_and_Press_M.svg'
+      F: 'Dumbbell_Squat-_Clean_and_Press_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    - 'shoulders'
+    secondary_mg:
+    - 'hamstrings'
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 40029
+    full_name: 'Dumbbell Squat Thrusters / Squat to Overhead Press'
+    title: '深蹲哑铃推肩'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Squat_Thrusters_M.svg'
+      F: 'Squat_Thrusters_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'neck-upper-traps'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 40030
+    full_name: 'Dumbbell Squats'
+    title: '哑铃深蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Squat_M.svg'
+      F: 'Dumbbell_Squat_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 40031
+    full_name: 'Dumbbell Step-Ups'
+    title: '哑铃上阶'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Step-Up-1.svg'
+      F: 'Dumbbell_Step-Up.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 40032
+    full_name: 'Dumbbell Walking Lunges'
+    title: '哑铃弓箭步行走'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Walking_Lunges.svg'
+      F: 'Dumbbell_Walking_Lunges-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+    related_exs: []
+- data:
+    id: 40033
+    full_name: 'Dumbbell Weighted Leg Pull-Ins'
+    title: '哑铃收腿'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Weighted_Leg_Pull-ins.svg'
+      F: 'Dumbbell_Weighted_Leg_Pull-ins-1.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 40034
+    full_name: 'Dynamic Clap Push-ups / Pushups'
+    title: '击掌俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Dynamic_Clap_push_up_M.svg'
+      F: 'Dynamic_Clap_push_up_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+    describe:
+      explain_en: |
+        Weight will be held up by your hands and feet. Hands should be slightly wider than shoulder-width. Core is tight and back is flat. Lower yourself down keeping perfect form.
+        Explosively push yourself up, extending your elbows. While your hands are off the ground, clap them together.
+        Return your hands to the ground just outside shoulder-width. Lower yourself back to the starting position.
+      explain_ch: |
+        双手分开，比肩宽一些。
+        迅猛地推起上半身，胳膊肘展开。 当手离开地面时，一起拍手。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑

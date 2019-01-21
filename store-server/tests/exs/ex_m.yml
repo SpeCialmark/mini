@@ -1,0 +1,286 @@
+exercises:
+- data:
+    id: 130001
+    full_name: 'Machine Assisted Pull-ups / Pullups'
+    title: '器械辅助宽距引体向上'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Machine_Assisted_Pull-Ups_Pullups.svg'
+      F: 'Machine_Assisted_Pull-Ups_Pullups-1.svg'
+    primary_mg:
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'biceps'
+
+    related_exs: []
+- data:
+    id: 130002
+    full_name: 'Machine Bicep Preacher / Concentration Curls'
+    title: '器械牧师凳弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Machine_Bicep_Preacher_Concentration_Curls.svg'
+      F: 'Machine_Bicep_Preacher_Concentration_Curls-1.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 130003
+    full_name: 'Machine Hack Squats'
+    title: '哈克机深蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Machine_Hack_Squat_M.svg'
+      F: 'Machine_Hack_Squat_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 130004
+    full_name: 'Machine Seated Shoulder Press'
+    title: '器械推肩'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Machine_Seated_Shoulder_Press_M.svg'
+      F: 'Machine_Seated_Shoulder_Press_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'biceps'
+    - 'forearms'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 130005
+    full_name: 'Medicine Ball Chest Pass'
+    title: '药球投掷'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Medicine_Ball_Chest_Pass_M.svg'
+      F: 'Medicine_Ball_Chest_Pass_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+    secondary_mg:
+    - 'biceps'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 130006
+    full_name: 'Medicine Ball Push-Ups'
+    title: '药球俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Medicine_Ball_Push-Up_M.svg'
+      F: 'Medicine_Ball_Push-Up_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 130007
+    full_name: 'Medicine Ball Rotational Passes'
+    title: '药球转身投掷'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Medicine_Ball_Rotational_Pass_M.svg'
+      F: 'Medicine_Ball_Rotational_Pass_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+    - 'shoulders'
+    secondary_mg:
+    - 'biceps'
+    - 'triceps'
+    related_exs: []
+- data:
+    id: 130008
+    full_name: 'Medicine Ball Slams'
+    title: '药球扣球'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Medicine_Ball_Slam_M.svg'
+      F: 'Medicine_Ball_Slam_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+    - 'shoulders'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'biceps'
+    - 'forearms'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 130009
+    full_name: 'Medicine Ball V-Ups'
+    title: '药球V字起坐'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Medicine_Ball_V-Up_M.svg'
+      F: 'Medicine_Ball_V-Up_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 130010
+    full_name: 'Medicine Ball Wall Throw'
+    title: '药球掷墙'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Medicine_Ball_wall_throw_M.svg'
+      F: 'Medicine_Ball_wall_throw_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'biceps'
+    - 'hamstrings'
+    - 'quadriceps'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 130011
+    full_name: 'Medicine Ball Woodchops'
+    title: '药球伐木'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Medicine_Ball_Woodchops.svg'
+      F: 'Medicine_Ball_Woodchops-1.svg'
+    primary_mg:
+    - 'obliques'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 130012
+    full_name: 'Modified / Knee Push-ups / Pushups'
+    title: '跪姿俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Modified_Pushup_M.svg'
+      F: 'Modified_Pushup_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+    describe:
+      explain_en: |
+        Come to the ground on your knees. Tighten your core and maintain a flat back.
+        Position your hands on the ground in front of you, directly below your shoulders. Cross your feet in the back.
+        Lower your chest towards the ground. Bend your elbows at a 60-degree angle until your chest is just above the ground. You should feel a stretch across your chest. Hold for a count of one.
+        Without locking your elbows, push yourself back to the starting position by straightening your arms.
+      explain_ch: |
+        跪在地上。 腹部收紧，背部平坦。后面交叉脚。
+        胸部下来，弯曲肘部60度，直到胸部刚好在地面上。应该感觉到胸部拉伸，保持一秒。
+        不要锁定胳膊肘，通过伸直手臂把自己推回到起始位置。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑
+- data:
+    id: 130013
+    full_name: 'Mountain Climbers / Alternating Knee-ins'
+    title: '俯身爬坡'
+    record_method: 'reps'
+    pictures:
+      M: 'Mountain_Climbers_M.svg'
+      F: 'Mountain_Climbers_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'chest'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 130014
+    full_name: 'Muscle Ups'
+    title: '双力臂'
+    record_method: 'reps'
+    pictures:
+      M: 'Muscle_Up_M.svg'
+      F: 'Muscle_Up_F.svg'
+    primary_mg:
+    - 'chest'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'shoulders'
+    - 'triceps'
+    related_exs: []

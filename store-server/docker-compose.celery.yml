@@ -1,0 +1,31 @@
+
+---
+version: "2"
+
+services:
+
+  celery-worker:
+    image: store
+    entrypoint:
+      - celery
+      - '-A'
+      - celery_worker:celery
+      - worker
+      - '-l=info'
+      - '-c=1'
+      - '--discard'
+    environment:
+      - CFG_ENV=dev
+    restart: always
+
+  celery-beat:
+    image: store
+    entrypoint:
+      - celery
+      - '-A'
+      - celery_worker.celery
+      - beat
+      - '-l=info'
+    environment:
+      - CFG_ENV=dev
+    restart: always

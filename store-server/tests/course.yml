@@ -1,0 +1,112 @@
+courses:
+- data:
+    id: 1
+    biz_id: 1
+    title: 腰部塑形
+    price: ￥120/课时
+    images:
+    - http://oss.11train.com/store/test1/11.jpg
+    content:
+      - type: text
+        text: |
+          专业教练通过分析不同学员的体脂, 体型及健康情况, 通过不同的方式针对身体的肌肉强化训练, 使肌肉线条美化.
+
+      - type: text
+        title: 合适人群
+        text: |
+          腰部肥胖, 想要快速获得小蛮腰的人群
+
+      - type: text
+        title: 课程时间
+        text: |
+          60分钟/次, 3-5次/周
+
+      - type: text
+        title: 运动建议
+        text: |
+          1.根据教练安排, 坚持合理的运动频率;
+          2.补充足够的热量/碳水化合物/蛋白质等, 帮助肌肉生长, 在教练的指导下完成力量训练, 不过度承重.
+
+- data:
+    id: 2
+    biz_id: 1
+    title: 臀部塑形
+    price: ￥130/课时
+    images:
+    - http://oss.11train.com/store/test1/12.jpg
+    content:
+      - type: text
+        text: |
+          专业教练通过分析不同学员的体脂, 体型及健康情况, 通过不同的方式针对身体的肌肉强化训练, 使肌肉线条美化.
+
+      - type: text
+        title: 合适人群
+        text: |
+          腰部肥胖, 想要快速获得小蛮腰的人群
+
+      - type: text
+        title: 课程时间
+        text: |
+          60分钟/次, 3-5次/周
+
+      - type: text
+        title: 运动建议
+        text: |
+          1.根据教练安排, 坚持合理的运动频率;
+          2.补充足够的热量/碳水化合物/蛋白质等, 帮助肌肉生长, 在教练的指导下完成力量训练, 不过度承重.
+
+- data:
+    id: 3
+    biz_id: 1
+    title: 腰部塑形
+    price: ￥140/课时
+    images:
+    - http://oss.11train.com/store/test1/13.jpg
+    content:
+      - type: text
+        text: |
+          专业教练通过分析不同学员的体脂, 体型及健康情况, 通过不同的方式针对身体的肌肉强化训练, 使肌肉线条美化.
+
+      - type: text
+        title: 合适人群
+        text: |
+          腰部肥胖, 想要快速获得小蛮腰的人群
+
+      - type: text
+        title: 课程时间
+        text: |
+          60分钟/次, 3-5次/周
+
+      - type: text
+        title: 运动建议
+        text: |
+          1.根据教练安排, 坚持合理的运动频率;
+          2.补充足够的热量/碳水化合物/蛋白质等, 帮助肌肉生长, 在教练的指导下完成力量训练, 不过度承重.
+
+- data:
+    id: 4
+    biz_id: 1
+    title: 自由搏击
+    price: ￥140/课时
+    images:
+    - http://oss.11train.com/store/test1/14.jpg
+    content:
+      - type: text
+        text: |
+          专业教练通过分析不同学员的体脂, 体型及健康情况, 通过不同的方式针对身体的肌肉强化训练, 使肌肉线条美化.
+
+      - type: text
+        title: 合适人群
+        text: |
+          腰部肥胖, 想要快速获得小蛮腰的人群
+
+      - type: text
+        title: 课程时间
+        text: |
+          60分钟/次, 3-5次/周
+
+      - type: text
+        title: 运动建议
+        text: |
+          1.根据教练安排, 坚持合理的运动频率;
+          2.补充足够的热量/碳水化合物/蛋白质等, 帮助肌肉生长, 在教练的指导下完成力量训练, 不过度承重.

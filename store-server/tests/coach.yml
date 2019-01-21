@@ -1,0 +1,111 @@
+coaches:
+- data:
+    id: 1
+    biz_id: 1
+    name: Marry
+    images:
+    - http://oss.11train.com/store/test1/22.jpg
+    - http://oss.11train.com/store/test1/22.jpg
+    - http://oss.11train.com/store/test1/22.jpg
+    good_at:
+    - 增肌
+    - 减脂
+    - 塑形
+    content:
+    - type: text
+      title: 关于TA
+      text: |
+        减脂塑形，肌肉塑造，翘臀美腿，体态矫正，产前产后恢复，多功能训练等。
+        高级私人健身教练证书认证，国家职业资格认证，中国健身职业经理人认证，动感单车认证。
+    - type: text
+      title: 教练证书
+      text: |
+        国家健身教练职业资格证
+        北京红十字会CPR&创伤救护
+        古德体育·GSSC“JFS关节功能筛查”认证证书
+        美格菲健身学院MASTER体系魔瘦认证
+    trainer_cases:
+    - name: 黄小姐
+      avatar: http://oss.11train.com/store/test1/female.jpg
+      tags:
+      - 上班族
+      - 减脂
+      desc: |
+        训练22天, 体重见了12.6斤, 脂肪见了13.4斤, 腰围减了8厘米, 人更加的帅气了, 更重要的是更加的积极健康向上, 养成了良好的饮食习惯和锻炼习惯, 这是我最开心的事情
+      images:
+      - http://oss.11train.com/store/test1/31.jpg
+      - http://oss.11train.com/store/test1/32.jpg
+      - http://oss.11train.com/store/test1/33.jpg
+      - http://oss.11train.com/store/test1/34.jpg
+      - http://oss.11train.com/store/test1/35.jpg
+      - http://oss.11train.com/store/test1/36.jpg
+    - name: 黄小姐
+      avatar: http://oss.11train.com/store/test1/female.jpg
+      tags: []
+      desc: |
+        训练22天, 体重见了12.6斤, 脂肪见了13.4斤, 腰围减了8厘米, 人更加的帅气了, 更重要的是更加的积极健康向上, 养成了良好的饮食习惯和锻炼习惯, 这是我最开心的事情
+      images:
+      - http://oss.11train.com/store/test1/31.jpg
+      - http://oss.11train.com/store/test1/32.jpg
+      - http://oss.11train.com/store/test1/33.jpg
+      - http://oss.11train.com/store/test1/34.jpg
+      - http://oss.11train.com/store/test1/35.jpg
+      - http://oss.11train.com/store/test1/36.jpg
+    courses:
+    - id: 1
+    - id: 2
+- data:
+    id: 2
+    biz_id: 1
+    name: 周教练
+    images:
+    - http://oss.11train.com/store/test1/22.jpg
+    - http://oss.11train.com/store/test1/22.jpg
+    good_at:
+    - 增肌
+    - 减脂
+    - 塑形
+    content:
+    - type: text
+      title: 关于TA
+      text: |
+        减脂塑形，肌肉塑造，翘臀美腿，体态矫正，产前产后恢复，多功能训练等。
+        高级私人健身教练证书认证，国家职业资格认证，中国健身职业经理人认证，动感单车认证。
+    - type: text
+      title: 教练证书
+      text: |
+        国家健身教练职业资格证
+        北京红十字会CPR&创伤救护
+        古德体育·GSSC“JFS关节功能筛查”认证证书
+        美格菲健身学院MASTER体系魔瘦认证
+    trainer_cases:
+    - name: 黄小姐
+      avatar: http://oss.11train.com/store/test1/female.jpg
+      tags:
+      - 上班族
+      - 亚健康
+      - 体态调整
+      desc: |
+        训练22天, 体重见了12.6斤, 脂肪见了13.4斤, 腰围减了8厘米, 人更加的帅气了, 更重要的是更加的积极健康向上, 养成了良好的饮食习惯和锻炼习惯, 这是我最开心的事情
+      images:
+      - http://oss.11train.com/store/test1/31.jpg
+      - http://oss.11train.com/store/test1/32.jpg
+      - http://oss.11train.com/store/test1/33.jpg
+      - http://oss.11train.com/store/test1/34.jpg
+      - http://oss.11train.com/store/test1/35.jpg
+      - http://oss.11train.com/store/test1/36.jpg
+    - name: 黄小姐
+      avatar: http://oss.11train.com/store/test1/female.jpg
+      tags: []
+      desc: |
+        训练22天, 体重见了12.6斤, 脂肪见了13.4斤, 腰围减了8厘米, 人更加的帅气了, 更重要的是更加的积极健康向上, 养成了良好的饮食习惯和锻炼习惯, 这是我最开心的事情
+      images:
+      - http://oss.11train.com/store/test1/31.jpg
+      - http://oss.11train.com/store/test1/32.jpg
+      - http://oss.11train.com/store/test1/33.jpg
+      - http://oss.11train.com/store/test1/34.jpg
+      - http://oss.11train.com/store/test1/35.jpg
+      - http://oss.11train.com/store/test1/36.jpg
+    courses:
+    - id: 1
+    - id: 2

@@ -1,0 +1,111 @@
+exercises:
+- data:
+    id: 70001
+    full_name: 'Gluteus / Glute / Gluteal Stretch'
+    title: '臀部拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Gluteus_Glute_Gluteal_Stretch_M.svg'
+      F: 'Gluteus_Glute_Gluteal_Stretch_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 70002
+    full_name: 'Goblet Squats'
+    title: '酒杯深蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Goblet_squat_M.svg'
+      F: 'Goblet_Squat_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 70003
+    full_name: 'Groiners'
+    title: '腹股沟训练'
+    record_method: 'reps'
+    pictures:
+      M: 'Groiners.svg'
+      F: 'Groiners-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 70004
+    full_name: 'Gymnastic Ring Dips'
+    title: '吊环臂屈伸'
+    record_method: 'reps'
+    pictures:
+      M: 'Gymastic_Ring_Dips.svg'
+      F: 'Gymastic_Ring_Dips-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 70005
+    full_name: 'Gymnastic Ring L-Holds'
+    title: '吊环L稳定'
+    record_method: 'reps'
+    pictures:
+      M: 'Gymnastic_Ring_L-Holds.svg'
+      F: 'Gymnastic_Ring_L-Holds-1.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'chest'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 70006
+    full_name: 'Gymnastic Ring Pull-Ups / Pullups'
+    title: '吊环引体向上'
+    record_method: 'reps'
+    pictures:
+      M: 'Gymnastic_Ring_Pullups.svg'
+      F: 'Gymnastic_Ring_Pullups-1.svg'
+    primary_mg:
+    - 'middle-back-lats'
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'biceps'
+    - 'forearms'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 70007
+    full_name: 'Gymnastic Ring Support Position'
+    title: '吊环支撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Gymnastic_Ring_Support_Holds.svg'
+      F: 'Gymnastic_Ring_Support_Holds-1.svg'
+    primary_mg:
+    - 'shoulders'
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'chest'
+    - 'middle-back-lats'
+    related_exs: []

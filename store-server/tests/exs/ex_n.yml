@@ -1,0 +1,13 @@
+exercises:
+- data:
+    id: 140001
+    full_name: 'Neck Stretch'
+    title: '颈部拉伸'
+    record_method: 'time'
+    pictures:
+      M: 'Neck_Stretch_M.svg'
+      F: 'Neck_Stretch_F.svg'
+    primary_mg:
+    - 'neck-upper-traps'
+
+    related_exs: []

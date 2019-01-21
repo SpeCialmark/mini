@@ -1,0 +1,60 @@
+exercises:
+- data:
+    id: 50001
+    full_name: 'Exercise / Swiss Ball Bicep Curls'
+    title: '瑞士球哑铃弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Exercise_Swiss_Ball_Bicep_Curls.svg'
+      F: 'Exercise_Swiss_Ball_Bicep_Curls-1.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'abs'
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 50002
+    full_name: 'Explosive Jumping Alternating Lunges'
+    title: '跳跃弓箭步'
+    record_method: 'reps'
+    pictures:
+      M: 'Explosive_Jumping_Alternating_Lunges_M.svg'
+      F: 'Explosive_Jumping_Alternating_Lunges_F.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 50003
+    full_name: 'External Cable Shoulder Rotation'
+    title: '绳索肩部外旋转'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'External_Cable_Rotation.svg'
+      F: 'External_Cable_Rotation-1.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 50004
+    full_name: 'EZ-Bar Preacher Curls'
+    title: '牧师凳弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Ez-bar_Precher_Curl_M.svg'
+      F: 'Ez-bar_Preacher_Curl_F.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'forearms'
+    related_exs: []

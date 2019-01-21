@@ -1,0 +1,453 @@
+exercises:
+- data:
+    id: 200001
+    full_name: 'Toe Taps'
+    title: '轻点上阶'
+    record_method: 'reps'
+    pictures:
+      M: 'Toe_Taps_M.svg'
+      F: 'Toe_Taps_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 200002
+    full_name: 'Tricep Cable Rope Push /Pull Downs'
+    title: '肱三头肌下压'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Triceps_Pushdown_M.svg'
+      F: 'Triceps_Pushdown_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 200003
+    full_name: 'Tricep Dumbbell Kickbacks'
+    title: '肱三头肌俯身哑铃屈伸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Tricep_Dumbbell_Kickback_M.svg'
+      F: 'Tricep_Dumbbell_Kickback_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 200004
+    full_name: 'Triceps Dips'
+    title: '双杠臂屈伸'
+    record_method: 'reps'
+    pictures:
+      M: 'Dips_M.svg'
+      F: 'Dips_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'chest'
+    - 'forearms'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 200005
+    full_name: 'TRX Pistol Squats / TRX Single Leg Squats'
+    title: 'TRX单腿蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'TRX_Pistol_Squats.svg'
+      F: 'TRX_Pistol_Squats-1.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 200006
+    full_name: 'TRX Pull Ups'
+    title: 'TRX引体向上'
+    record_method: 'reps'
+    pictures:
+      M: 'TRX_Pull_Ups.svg'
+      F: 'TRX_Pull_Ups-1.svg'
+    primary_mg:
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'biceps'
+
+    related_exs: []
+- data:
+    id: 200007
+    full_name: 'TRX Suspension Strap Bicep Curls'
+    title: 'TRX悬挂弯举'
+    record_method: 'reps'
+    pictures:
+      M: 'suspension_strap_bicep_curls_M.svg'
+      F: 'trx_suspension_strap_bicep_curls_F.svg'
+    primary_mg:
+    - 'biceps'
+    secondary_mg:
+    - 'abs'
+    - 'forearms'
+
+    related_exs: []
+- data:
+    id: 200008
+    full_name: 'TRX Suspension Strap Hamstring / Leg Curls'
+    title: 'TRX悬浮屈腿'
+    record_method: 'reps'
+    pictures:
+      M: 'TRX_Suspension_Strap_Hamstring_Curls-1.svg'
+      F: 'TRX_Suspension_Strap_Hamstring_Curls.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+
+
+    related_exs: []
+- data:
+    id: 200009
+    full_name: 'TRX Suspension Strap Mountain Climbers'
+    title: 'TRX爬山'
+    record_method: 'reps'
+    pictures:
+      M: 'TRX_Suspension_Strap_Mountain_Climbers.svg'
+      F: 'TRX_Suspension_Strap_Mountain_Climbers-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 200010
+    full_name: 'TRX Suspension Strap Rows'
+    title: 'TRX悬挂划船'
+    record_method: 'reps'
+    pictures:
+      M: 'Suspension_Strap_Row_M.svg'
+      F: 'Suspension_Strap_Row_F.svg'
+    primary_mg:
+    - 'lower-back'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'shoulders'
+
+
+    related_exs: []
+- data:
+    id: 200011
+    full_name: 'TRX Suspension Strap T Flyes'
+    title: 'TRX飞鸟'
+    record_method: 'reps'
+    pictures:
+      M: 'TRX_Suspension_Strap_T_Flyes.svg'
+      F: 'TRX_Suspension_Strap_T_Flyes-1.svg'
+    primary_mg:
+    - 'upper-back-lower-traps'
+    secondary_mg:
+    - 'middle-back-lats'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 200012
+    full_name: 'TRX Suspension Straps Atomic Push-ups / Pushups'
+    title: 'TRX曲腿俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'TRX_Atomic_Push-Up-1.svg'
+      F: 'TRX_Atomic_Push-Up.svg'
+    primary_mg:
+    - 'abs'
+    - 'chest'
+    - 'shoulders'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+    describe:
+      explain_en: |
+        Bring yourself to the ground and enter an elevated push-up position with your hands below your shoulders and your feet directly behind you. Carefully, insert one foot at a time into hanging TRX bands.
+        Maintaining a tight core, slowly lower yourself while keeping your balance. Once your upper arms are parallel with the floor, pause, and return to the starting position.
+        Bring your knees in towards your elbows, feeling the contraction in your abdominals. Slowly extend your feet back into the starting position. That is one repetition.
+      explain_ch: |
+        进入俯卧撑姿势，双手在肩膀下，双脚放在身后。小心地将一只脚一次插入悬挂TRX。
+        在保持平衡的同时，保持腰腹收紧，慢慢放下自己。
+        一旦上臂平行于地面，暂停，并返回到起始位置。
+        收脚，膝盖找肘部，感觉腹部收缩。 慢慢地将脚伸回起始位置。 这是一次完整的动作。重复。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑
+- data:
+    id: 200013
+    full_name: 'TRX Suspension Straps Chest Press'
+    title: 'TRX推胸'
+    record_method: 'reps'
+    pictures:
+      M: 'TRX_Suspension_Straps_Chest_Press.svg'
+      F: 'TRX_Suspension_Straps_Chest_Press-1.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 200014
+    full_name: 'TRX Suspension Straps Deltoid Y Flyes'
+    title: 'TRX肩三角肌飞鸟'
+    record_method: 'reps'
+    pictures:
+      M: 'TRX_Deltoid_Y_Fly-1.svg'
+      F: 'TRX_Deltoid_Y_Fly.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'neck-upper-traps'
+
+
+    related_exs: []
+- data:
+    id: 200015
+    full_name: 'TRX Suspension Straps Glute Bridge'
+    title: 'TRX臀桥'
+    record_method: 'reps'
+    pictures:
+      M: 'TRX_Glute_Bridge-1.svg'
+      F: 'TRX_Glute_Bridge.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'abs'
+
+
+    related_exs: []
+- data:
+    id: 200016
+    full_name: 'TRX Suspension Straps Overhead Squats'
+    title: 'TRX过顶深蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'TRX_Overhead_Squat-1.svg'
+      F: 'TRX_Overhead_Squat.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'hamstrings'
+    - 'shoulders'
+    related_exs: []
+- data:
+    id: 200017
+    full_name: 'TRX Suspension Strap Saw Pikes'
+    title: 'TRX锯齿枪'
+    record_method: 'reps'
+    pictures:
+      M: 'TRX_Saw_Pikes-1.svg'
+      F: 'TRX_Saw_Pikes.svg'
+    primary_mg:
+    - 'abs'
+    - 'shoulders'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+
+    related_exs: []
+- data:
+    id: 200018
+    full_name: 'TRX Suspension Straps Side Step / Lateral Lunges'
+    title: 'TRX侧弓步'
+    record_method: 'reps'
+    pictures:
+      M: 'TRX_Side_Step_Lunge-1.svg'
+      F: 'TRX_Side_Step_Lunge.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'hamstrings'
+
+
+    related_exs: []
+- data:
+    id: 200019
+    full_name: 'TRX Suspension Straps Squats'
+    title: 'TRX深蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'Suspension_Strap_Squat_M.svg'
+      F: 'TRX_Suspension_Strap_Squat_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+    related_exs: []
+- data:
+    id: 200020
+    full_name: 'TRX Suspension Straps Suspended Lunges'
+    title: 'TRX箭步蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'TRX_Suspended_Lunge-1.svg'
+      F: 'TRX_Suspended_Lunge.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'hamstrings'
+
+
+    related_exs: []
+- data:
+    id: 200021
+    full_name: 'TRX Suspension Straps Tricep Extensions'
+    title: 'TRX肱三头肌屈伸'
+    record_method: 'reps'
+    pictures:
+      M: 'Suspension_Strap_Tricep_Extension_M.svg'
+      F: 'TRX_Suspension_Strap_Tricep_Extension_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'upper-back-lower-traps'
+
+    related_exs: []
+- data:
+    id: 200022
+    full_name: 'Tuck Jumps'
+    title: '屈膝跳'
+    record_method: 'reps'
+    pictures:
+      M: 'Tuck_Jumps.svg'
+      F: 'Tuck_Jumps-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+
+
+    related_exs: []
+- data:
+    id: 200023
+    full_name: 'Turkish Get Ups'
+    title: '土耳其式起身'
+    record_method: 'reps'
+    pictures:
+      M: 'Turkish_Get_Up_M.svg'
+      F: 'Turkish_Get_Up_F.svg'
+    primary_mg:
+    - 'chest'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'middle-back-lats'
+    - 'quadriceps'
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+    - 'calves'
+    - 'forearms'
+    - 'lower-back'
+    - 'obliques'
+    - 'triceps'
+
+
+    related_exs: []
+- data:
+    id: 200024
+    full_name: 'Two-Arm Kettlebell Squat Swings'
+    title: '壶铃摇摆'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Two-Arm_Kettlebell_Swing_M.svg'
+      F: 'Two-Arm_Kettlebell_Swing_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+    - 'lower-back'
+    related_exs: []

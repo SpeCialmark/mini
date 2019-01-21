@@ -1,0 +1,563 @@
+exercises:
+- data:
+    id: 10001
+    full_name: '180 / Twisting Jump Squats'
+    title: '扭身跳蹲'
+    record_method: 'reps'
+    pictures:
+      M: '180_Jump_Squats.svg'
+      F: '180_Jump_Squats-1.svg'
+    primary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    describe:
+      explain_en: |
+        Begin standing tall with a tight core. Your chest will be up and your gaze will be straight ahead. Bend at the knees and drive your hips back as you lower yourself into a squat position.
+        Launch yourself up while simultaneously twisting to the other side. Your body will perform a 180 degree turn in midair.
+        Land with bent knees and immediately go right into another jump squat, turning to the starting position. Repeat this alternating pattern.
+      explain_ch: |
+        准备时站直, 抬胸, 目视前方。
+        蹲下时，弯曲膝盖并将臀部抬起。
+        跳起来，同时扭动到另一边。
+        你的身体将在半空中进行180度转弯。
+        膝盖屈膝并立即转进入另一个跳蹲，转向起始位置。重复这种交替模式。
+    related_exs:
+    - ex:
+        id: 20035
+        title: 箱跳
+    - ex:
+        id: 50002
+        title: 跳跃弓箭步
+    - ex:
+        id: 60018
+        title: 蛙跳
+    - ex:
+        id: 80009
+        title: 跳箱
+    - ex:
+        id: 100002
+        title: 深蹲跳
+    - ex:
+        id: 100004
+        title: 开合跳
+    - ex:
+        id: 190034
+        title: 边到边深蹲
+    - ex:
+        id: 190052
+        title: 交替分腿蹲跳
+    - ex:
+        id: 190082
+        title: 立定跳远
+    - ex:
+        id: 200022
+        title: 屈膝跳
+- data:
+    id: 10002
+    full_name: 'Ab Crunch Machine'
+    title: '器械卷腹'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Ab_Crunch_Machine_M.svg'
+      F: 'Ab_Crunch_Machine_F.svg'
+    primary_mg:
+    - 'abs'
+    describe:
+      explain_en: |
+        Sit on the ab machine and select a slight resistance. Position your feet under the pads and grab hold of the top handles.
+        Make sure your arms are bent at 90 degrees and rest your triceps on the pads.
+        Begin lifting your legs up as you engage your abs and crunch your upper torso. Exhale as you do so.
+        Pause and slowly return to starting position as you inhale.
+        Tip: Use slow, controlled motions and concentrate on using your abs to control the weight. Your feet and legs should be relaxed throughout.
+      explain_ch: |
+        坐在机器上，选择一个轻微的阻力。把脚放在垫子下面，抓住顶部手柄。确保你的手臂弯曲90度，并将肱三头肌放在垫子上。
+        开始时，腹部用力收紧，并紧缩你的上身， 这个过程是呼气。
+        暂停一下， 然后缓慢回到起始位置， 这个过程是吸气。
+        提示：使用缓慢的控制动作，集中精力使用腹肌控制力量。你的脚和腿应该放松。
+    related_exs:
+    - ex:
+        id: 20039
+        title: 空蹬自行车
+    - ex:
+        id: 30035
+        title: 卷腹
+    - ex:
+        id: 40003
+        title: 下斜仰卧起坐
+    - ex:
+        id: 40010
+        title: 屈膝两头起
+    - ex:
+        id: 100001
+        title: 仰卧两头起
+    - ex:
+        id: 110010
+        title: 跪姿绳索卷腹
+    - ex:
+        id: 180024
+        title: 反向卷腹
+    - ex:
+        id: 190029
+        title: 侧卷腹
+    - ex:
+        id: 190055
+        title: 瑞士球卷腹
+    - ex:
+        id: 190072
+        title: 站立交叉卷腹
+- data:
+    id: 10003
+    full_name: 'Ab Roller / Wheel Rollout / Kneeling Roll Extensions'
+    title: '健腹轮'
+    record_method: 'reps'
+    pictures:
+      M: 'Ab_Roller_Wheel_Rollout_M.svg'
+      F: 'Ab_Roller_Wheel_Rollout_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'biceps'
+    - 'shoulders'
+    describe:
+      explain_en: |
+        Kneel on the floor on all fours and place the ab roller in front of you.
+        Grab hold of either end of the roller with each hand.
+        Engage your abs and slowly roll the roller forward in a straight line until your body stretches in a straight position.
+        Try to roll down as far as you can without touching the floor.
+        Inhale in as you roll down.
+        Pull yourself back to the starting position by exhaling and rolling back slowly. Maintain tight abs throughout the movement.
+      explain_ch: |
+        四肢跪在地板上，将滚轮放在你的前方。用双手抓住滚轮的把手。
+        收紧你的腹肌，然后慢慢向前滚动滚轮，直到身体伸直。
+        尝试尽可能地滚下来，而不要触碰地板。
+        当你下降时吸气。
+        通过呼气，慢慢地回滚到自己的起始位置。整个运动保持紧张的腹肌。
+    related_exs:
+    - ex:
+        id: 190062
+        title: 瑞士球前滑
+    - ex:
+        id: 190088
+        title: TRX前倾
+    - ex:
+        id: 10002
+        title: 器械卷腹
+    - ex:
+        id: 30035
+        title: 卷腹
+- data:
+    id: 10004
+    full_name: 'Adductor / Abductor / Adduction Inner Thigh Machine'
+    title: '大腿内收肌训练'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Thigh_Adductor_Inner_Thigh_Machine_M.svg'
+      F: 'Thigh_Adductor_Inner_Thigh_Machine_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    describe:
+      explain_en: |
+        Set up an abductor machine by selecting and appropriate weight and adjusting the seat and leg pads to a comfortable position.
+        If fitted, grasp the handles on each side of the machine.
+        Keep your entire upper body straight and stationary with your back pressed firmly against the back rest. This is the start position.
+        While exhaling, press against the legs pads of the machine with your legs, by slowly spreading them.
+        When you feel a slight stretching in your abductors, pause fora count of one squeezing them as you do so.
+        In a controlled movement, return to the start position, inhaling as you do so.
+        Repeat.
+      explain_ch: |
+        保持整个上半身平直，背部稳固地靠在靠背上。这是开始的位置。
+        在呼气时，用双腿压住机器的腿垫，慢慢将其摊开。
+        当你感觉到你的大腿内收肌有一点点拉展时，你可以暂停一下挤压肌肉。
+        在一个受控的运动中，回到起始位置，这个过程吸气。
+    related_exs:
+    - ex:
+        id: 60003
+        title: 消防栓式
+    - ex:
+        id: 60011
+        title: 泡沫轴内收肌放松
+    - ex:
+        id: 120015
+        title: 躺姿侧抬腿
+    - ex:
+        id: 190065
+        title: 站立内收肌拉伸
+- data:
+    id: 10005
+    full_name: 'Agility Ladder Drills'
+    title: '敏捷梯训练'
+    record_method: 'reps'
+    pictures:
+      M: 'Agility_Ladder_Drills.svg'
+      F: 'Agility_Ladder_Drills-1.svg'
+    primary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'lower-back'
+    - 'quadriceps'
+    secondary_mg:
+    - 'biceps'
+    - 'shoulders'
+    - 'triceps'
+    related_exs: []
+- data:
+    id: 10006
+    full_name: 'Air Squats'
+    title: '深蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'Air_Squats.svg'
+      F: 'Air_Squats-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'hamstrings'
+    describe:
+      explain_en: |
+        Place your feet at shoulder width apart while keeping your chest up and your abdominals braced.
+        Begin the movement by swinging your arms up towards your shoulders. At the same time, bend at the knees and drive your hips back like you’re sitting in a chair.
+        Once your upper thighs are parallel with the ground, pause, then drive your hips forward to return to the starting position.
+      explain_ch: |
+        双脚分开与肩同宽，同时保持你的胸部和腹部挺直。
+        通过向双肩摆动手臂开始运动。 同时，弯曲膝盖，像坐在椅子上一样把你的臀部蹲下去。
+        一旦你的大腿与地面平行，暂停一下，然后向前推动你的臀部回到起始位置。
+    related_exs:
+    - ex:
+        id: 30025
+        title: 椅子深蹲
+    - ex:
+        id: 230004
+        title: 靠墙深蹲
+    - ex:
+        id: 20003
+        title: 箱式杠铃深蹲
+    - ex:
+        id: 20022
+        title: 杠铃分腿蹲
+    - ex:
+        id: 20023
+        title: 杠铃深蹲
+    - ex:
+        id: 20043
+        title: 抱头深蹲
+    - ex:
+        id: 20053
+        title: 波速球单腿蹲
+    - ex:
+        id: 20055
+        title: 波速球深蹲
+    - ex:
+        id: 20059
+        title: 分腿蹲
+    - ex:
+        id: 40030
+        title: 哑铃深蹲
+    - ex:
+        id: 70002
+        title: 酒杯深蹲
+    - ex:
+        id: 110005
+        title: 壶铃深蹲
+    - ex:
+        id: 130003
+        title: 哈克机深蹲
+    - ex:
+        id: 160003
+        title: 手枪式深蹲
+    - ex:
+        id: 160015
+        title: 沙包深蹲
+    - ex:
+        id: 180018
+        title: 弹力带深蹲
+    - ex:
+        id: 190063
+        title: 瑞士球下蹲
+    - ex:
+        id: 190097
+        title: 相扑深蹲
+    - ex:
+        id: 200005
+        title: TRX单腿蹲
+    - ex:
+        id: 200019
+        title: TRX深蹲
+- data:
+    id: 10007
+    full_name: 'Alternate Heel Touchers / Lying Oblique Reach'
+    title: '仰卧交替摸踝'
+    record_method: 'reps'
+    pictures:
+      M: 'Alternate_Heel_Touchers_M.svg'
+      F: 'Alternate_Heel_Touchers_F.svg'
+    primary_mg:
+    - 'obliques'
+    secondary_mg:
+    - 'abs'
+    describe:
+      explain_en: |
+        Lie on an exercise mat, with your back flat, knees bent and your feet flat on the floor slightly wider than shoulder width apart.
+        Fully exend your arms down the side of your body, palms facing in. This is the start position.
+        Exhaling, crunch your torso forward and to the right until you can touch your right heel with your right hand. Hold for a count of one.
+        return to the starting position smooth motion, inhaling as you do so.
+        Repeat the movement, this time to your left side.
+        When you have completed the movement on both sides, you have done one repetitition.
+        Repeat.
+      explain_ch: |
+        躺在运动垫上，背部平放，膝盖弯曲，双脚平放在地面上，比肩宽稍宽。
+        将手臂放在身体的两侧，手掌向内。这是起始位置。
+        呼气，将你的躯干向前和向右碾压，直到你可以用右手碰到你的右脚跟。 坚持一秒。
+        慢慢回到起始位置，吸气。
+        重复这个动作，这次是在你的左边。
+        当你完成了两边的动作，你做了一个完整动作。
+    related_exs:
+    - ex:
+        id: 190029
+        title: 侧卷腹
+    - ex:
+        id: 40011
+        title: 侧屈体抬腿
+    - ex:
+        id: 180029
+        title: 腹肌侧弯
+    - ex:
+        id: 190032
+        title: 侧支撑
+    - ex:
+        id: 190073
+        title: 站立哑铃侧弯
+    - ex:
+        id: 30001
+        title: 绳索/弹力带腹肌转体
+- data:
+    id: 10008
+    full_name: 'Alternating Bodyweight Lunges'
+    title: '箭步蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'Bodyweight_Walking_Lunge_M.svg'
+      F: 'Bodyweight_Walking_Lunge_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    describe:
+      explain_en: |
+        Stand straight – that's the starting position. Step forward with your left leg and slowly lower your body until your front knee is bent at least 90 degrees, while your rear knee is just off the floor. Keep your torso upright the entire time. Look forward.
+        Pause, then push off your left foot off the floor and return to the starting position as quickly as you can.
+        On your next rep, step forward with your right leg. Continue to alternate back and forth—doing one rep with your left, then one rep with your right.
+      explain_ch: |
+        站直，这是开始的位置。 用左腿向前走，慢慢放低身体，直到前膝盖弯曲至少90度，而后膝盖稍稍高于地面。 保持你的躯干整个时间挺直， 向前看。
+        暂停，然后左脚用力，尽快回到起始位置。
+        下一次，你的右腿前进。 继续前后交替，在左边做一次，然后在右边做一次。
+    related_exs:
+    - ex:
+        id: 20014
+        title: 杠铃弓箭步
+    - ex:
+        id: 20028
+        title: 战绳箭步蹲
+    - ex:
+        id: 20042
+        title: 侧弓步
+    - ex:
+        id: 20044
+        title: 弓箭步行走
+    - ex:
+        id: 40023
+        title: 哑铃弓箭步
+    - ex:
+        id: 40032
+        title: 哑铃弓箭步行走
+    - ex:
+        id: 50002
+        title: 跳跃弓箭步
+    - ex:
+        id: 160009
+        title: 过顶举弓步行走
+    - ex:
+        id: 160014
+        title: 沙包弓箭步
+    - ex:
+        id: 200020
+        title: TRX箭步蹲
+- data:
+    id: 10009
+    full_name: 'Alternating Curtsy Lunge'
+    title: '屈膝礼弓箭步'
+    record_method: 'reps'
+    pictures:
+      M: 'Alternating_Curtsy_Lunge.svg'
+      F: 'Alternating_Curtsy_Lunge-1.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    describe:
+      explain_en: |
+        Standing with a braced core and flat back, bring your hands together at chest height. Position your feet to be at hip-width.
+        Beginning with the right foot, step backward and across your left foot. Simultaneously, bend the left knee and drop it towards the ground.
+        Stop when the front right knee is parallel with the ground. Push off the ground with your right foot and return to the starting position.
+      explain_ch: |
+        站直，把你的双手放在胸前。 双脚与臀部同宽。
+        从右脚开始，向后退步，穿过左脚。 同时，弯曲左膝盖向下。当右前膝盖平行于地面时停止。 右脚用力并返回起始位置。
+        然后换另一侧做。
+    related_exs:
+    - ex:
+        id: 10008
+        title: 箭步蹲
+- data:
+    id: 10010
+    full_name: 'Assisted / Machine Seated Tricep Dips'
+    title: '器械坐姿臂屈伸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Assisten_Machine_Seated_Tricep_Dips-1.svg'
+      F: 'Assisten_Machine_Seated_Tricep_Dips.svg'
+    primary_mg:
+    - 'triceps'
+    describe:
+      explain_en: |
+        Sit at the Triceps Dip machine but make sure to brace your core throughout the movement. Place your hands on the bar with your elbows pointing behind you. Your arms will make a 90 degree angle.
+        Slowly push down on the bars, focusing all the movement in your triceps.
+        When you reach the bottom, pause and do not lock out your elbows. Slowly return to the starting position but do not let the weight touch the stack.
+      explain_ch: |
+        坐在器械上，整个过程要保证腰腹挺直。 把你的手放在垫子上，肘部指向你身后，手臂成90度角。
+        慢慢地按下手柄，把所有的动作都集中在你的肱三头肌上。
+        当你到达底部，暂停，不要锁定你的胳膊肘。 慢慢地回到起始位置，注意慢放。
+    related_exs:
+    - ex:
+        id: 10011
+        title: 辅助双杠臂屈伸
+    - ex:
+        id: 30024
+        title: 平板凳臂屈伸
+    - ex:
+        id: 200004
+        title: 双杠臂屈伸
+    - ex:
+        id: 230009
+        title: 负重双杠臂屈伸
+    - ex:
+        id: 20037
+        title: 俯身双臂哑铃肱三头肌屈伸
+    - ex:
+        id: 30005
+        title: 绳索过顶肱三头肌屈伸
+    - ex:
+        id: 30008
+        title: 绳索肱三头肌屈伸
+    - ex:
+        id: 40006
+        title: 下斜杠铃臂屈伸
+    - ex:
+        id: 120011
+        title: 仰卧哑铃肱三头肌屈伸
+    - ex:
+        id: 150008
+        title: 肱三头肌拉伸
+    - ex:
+        id: 180020
+        title: 弹力带肱三头肌屈伸
+    - ex:
+        id: 180021
+        title: 弹力带肱三头肌过顶屈伸
+    - ex:
+        id: 190020
+        title: 哑铃单臂肱三头肌屈伸
+    - ex:
+        id: 190021
+        title: 哑铃肱三头肌屈伸
+    - ex:
+        id: 200002
+        title: 肱三头肌下压
+    - ex:
+        id: 200003
+        title: 肱三头肌俯身哑铃屈伸
+    - ex:
+        id: 200021
+        title: TRX肱三头肌屈伸
+- data:
+    id: 10011
+    full_name: 'Assisted Tricep Dips'
+    title: '辅助双杠臂屈伸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Assisted_Tricep_Dips.svg'
+      F: 'Assisted_Tricep_Dips-1.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'chest'
+    describe:
+      explain_en: |
+        Begin by using the weight stack to offset your bodyweight on an Assisted Dip machine. Now, position your knees securely on the padded surface while holding on to the bars on either side of you.
+        Before lowering yourself, make sure that your core is tight and that your elbows are pointing directly behind you. Slowly, lower yourself until your upper arms are parallel with the floor.
+        Push yourself back to the starting position and squeeze your triceps at the top. Lower yourself again slowly for the next repetition.
+      explain_ch: |
+        开始时，调好重量，使用重量堆叠来抵消您的体重。 现在，把你的膝盖牢牢地放在软垫的表面，同时抓住你身边的手柄。
+        在放下自己之前，确保你的腹肌是紧的，肘部指向你的后面。 慢慢地，放下自己，直到你的上臂平行于地板。
+        把自己推回到起始位置，在顶部挤压你的肱三头肌。
+    related_exs:
+    - ex:
+        id: 10010
+        title: 器械坐姿臂屈伸
+    - ex:
+        id: 30024
+        title: 平板凳臂屈伸
+    - ex:
+        id: 200004
+        title: 双杠臂屈伸
+    - ex:
+        id: 230009
+        title: 负重双杠臂屈伸
+    - ex:
+        id: 20037
+        title: 俯身双臂哑铃肱三头肌屈伸
+    - ex:
+        id: 30005
+        title: 绳索过顶肱三头肌屈伸
+    - ex:
+        id: 30008
+        title: 绳索肱三头肌屈伸
+    - ex:
+        id: 40006
+        title: 下斜杠铃臂屈伸
+    - ex:
+        id: 120011
+        title: 仰卧哑铃肱三头肌屈伸
+    - ex:
+        id: 150008
+        title: 肱三头肌拉伸
+    - ex:
+        id: 180020
+        title: 弹力带肱三头肌屈伸
+    - ex:
+        id: 180021
+        title: 弹力带肱三头肌过顶屈伸
+    - ex:
+        id: 190020
+        title: 哑铃单臂肱三头肌屈伸
+    - ex:
+        id: 190021
+        title: 哑铃肱三头肌屈伸
+    - ex:
+        id: 200002
+        title: 肱三头肌下压
+    - ex:
+        id: 200003
+        title: 肱三头肌俯身哑铃屈伸
+    - ex:
+        id: 200021
+        title: TRX肱三头肌屈伸

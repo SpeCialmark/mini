@@ -1,0 +1,340 @@
+exercises:
+
+- data:
+    id: 230001
+    full_name: 'Walking High Kicks / Soldier March'
+    title: '高踢腿踢'
+    record_method: 'reps'
+    pictures:
+      M: 'Walking_High_Kicks_M.svg'
+      F: 'Walking_High_Kicks_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'calves'
+    - 'hamstrings'
+    - 'lower-back'
+
+
+    related_exs: []
+- data:
+    id: 230002
+    full_name: 'Wall Angles'
+    title: '靠墙天使'
+    record_method: 'reps'
+    pictures:
+      M: 'Wall_Angles.svg'
+      F: 'Wall_Angles-1.svg'
+    primary_mg:
+    - 'quadriceps'
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 230003
+    full_name: 'Wall Push-Ups / Pushups / Standing Press Ups'
+    title: '靠墙俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Wall_Push-Ups_Pushups.svg'
+      F: 'Wall_Push-Ups_Pushups-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    describe:
+      explain_en: |
+        Stand in front of a wall, extend your arms out to measure the correct distance. Brace your core and place your hands against the wall.
+        Keeping a tight core, slowly lower your chest towards the wall.
+        Pause once your upper arms form a 90 degree angle. Contract the chest muscles and push yourself back up to the starting position. Repeat.
+      explain_ch: |
+        站在墙前，伸出双臂，测量正确的距离。 撑开胸部，把手靠在墙上。
+        保持腰腹收紧，慢慢降低胸部靠墙。
+        一旦上臂形成90度的角度，暂停。 收缩胸部肌肉，把自己推回起始位置。 重复。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230011
+        title: 宽距俯卧撑
+- data:
+    id: 230004
+    full_name: 'Wall Sit / Squats / Chair'
+    title: '靠墙深蹲'
+    record_method: 'reps'
+    pictures:
+      M: 'Wall_Sit_squat_M.svg'
+      F: 'Wall_Sit_squat_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+
+
+    related_exs: []
+- data:
+    id: 230005
+    full_name: 'Weighted Bench Dips'
+    title: '负重平凳臂屈伸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Weighted_Bench_Dip_M.svg'
+      F: 'Weighted_Bench_Dip_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 230006
+    full_name: 'Weighted Glute Bridges'
+    title: '负重臀桥'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Weighted_Glute_Bridge_M.svg'
+      F: 'Weighted_Glute_Bridge_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'abs'
+    - 'lower-back'
+
+
+    related_exs: []
+- data:
+    id: 230007
+    full_name: 'Weighted Pull-Ups / Pullups'
+    title: '负重引体向上'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Weighted_Pull_Ups.svg'
+      F: 'Weighted_Pull_Ups-1.svg'
+    primary_mg:
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'biceps'
+
+
+    related_exs: []
+- data:
+    id: 230008
+    full_name: 'Weighted Russian / Mason Twists'
+    title: '负重俄罗斯转体'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Weighted_Twist_M.svg'
+      F: 'Weighted_Twist_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    secondary_mg:
+    - 'biceps'
+    - 'forearms'
+    - 'lower-back'
+    related_exs: []
+- data:
+    id: 230009
+    full_name: 'Weighted Tricep Dips'
+    title: '负重双杠臂屈伸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Weighted_Tricep_Dips.svg'
+      F: 'Weighted_Tricep_Dips-1.svg'
+    primary_mg:
+    - 'triceps'
+
+
+    related_exs: []
+- data:
+    id: 230010
+    full_name: 'Wide Arm Chest Stretch / Reverse Butterfly Stretch'
+    title: '扩胸拉伸'
+    record_method: 'reps'
+    pictures:
+      M: 'Chest_Stretch_M.svg'
+      F: 'Chest_Stretch_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'shoulders'
+
+
+    related_exs: []
+- data:
+    id: 230011
+    full_name: 'Wide Push-ups / Pushups'
+    title: '宽距俯卧撑'
+    record_method: 'reps'
+    pictures:
+      M: 'Wide_Pushup_M.svg'
+      F: 'Wide_Pushup_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+    describe:
+      explain_en: |
+        Get into plank position and place hands wide apart, supporting your body on your toes. Your body should be straight and elbows extended. Keep abs engages and hips lifted off the floor.
+        Allow the elbows to flex and lower your chest to the floor.
+        Pause and then repeat.
+      explain_ch: |
+        进入俯卧撑姿势，双手分开，比肩部要宽几个巴掌。 腰腹收紧，肘部伸展。
+        让肘部弯曲并将胸部放低至地面。 暂停然后重复。
+    related_exs:
+    - ex:
+        id: 20018
+        title: 杠铃俯卧撑
+    - ex:
+        id: 20052
+        title: 波速球俯卧撑
+    - ex:
+        id: 40007
+        title: 下斜俯卧撑
+    - ex:
+        id: 40008
+        title: 钻石俯卧撑
+    - ex:
+        id: 40034
+        title: 击掌俯卧撑
+    - ex:
+        id: 80003
+        title: 倒立俯卧撑
+    - ex:
+        id: 90006
+        title: 上斜俯卧撑
+    - ex:
+        id: 130012
+        title: 跪姿俯卧撑
+    - ex:
+        id: 160008
+        title: 平板俯卧撑
+    - ex:
+        id: 160012
+        title: 俯卧撑
+    - ex:
+        id: 180014
+        title: 弹力带俯卧撑
+    - ex:
+        id: 190039
+        title: 单臂药球俯卧撑
+    - ex:
+        id: 190051
+        title: 蜘蛛俯卧撑
+    - ex:
+        id: 190061
+        title: 瑞士球下斜俯卧撑
+    - ex:
+        id: 190064
+        title: 交错俯卧撑
+    - ex:
+        id: 200012
+        title: TRX曲腿俯卧撑
+    - ex:
+        id: 230003
+        title: 靠墙俯卧撑
+- data:
+    id: 230012
+    full_name: 'Wide Stance / Sumo Barbell Squats'
+    title: '相扑杠铃深蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Wide_Stance_Sumo_Barbell_Squat_M.svg'
+      F: 'Wide_Stance_Sumo_Barbell_Squat_F.svg'
+    primary_mg:
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+
+
+    related_exs: []
+- data:
+    id: 230013
+    full_name: 'Wide-Grip Lat Pulldowns / Pull Downs / Pullovers'
+    title: '宽握高位下拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Wide-Grip_Lat_Pulldown_M.svg'
+      F: 'Wide-Grip_Lat_Pulldown_F.svg'
+    primary_mg:
+    - 'lower-back'
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+
+
+    related_exs: []
+- data:
+    id: 230014
+    full_name: 'Windshield Wipers'
+    title: '雨刷式摆腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Windshield_wipers_M.svg'
+      F: 'Windshield_wipers_F.svg'
+    primary_mg:
+    - 'abs'
+    - 'obliques'
+    related_exs: []

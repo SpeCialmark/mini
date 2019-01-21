@@ -1,0 +1,60 @@
+# 训练类型
+training_type:
+  - title: 力量训练
+    content: 通过多组负重练习达到改善肌肉,耐力和形状的运动方式.
+    icon: https://oss.11train.com/icon/power.png
+
+  - title: 有氧运动
+    content: 指人体在氧气充分供给的情况下进行的锻炼.如:慢跑,骑车等.
+    icon: https://oss.11train.com/icon/aerobic.png
+
+  - title: 核心训练
+    content: 核心训练位躯干部的审查肌肉群的耐力训练,能起到稳定性的作用.
+    icon: https://oss.11train.com/icon/core.png
+
+  - title: 体能训练
+    content: 通过力量,速度,耐力,协调,灵敏等运动素质表现出的运动能力.
+    icon: https://oss.11train.com/icon/physical.png
+
+  - title: 康复训练
+    content: 采用适量,定向,有针对性的机体运动来帮助身体恢复到正常状态.
+    icon: https://oss.11train.com/icon/rehabilitation.png
+
+  - title: 柔韧性改善
+    content: 指人体关节活动幅度和关节韧带,肌腱,肌肉,皮肤和其他组织的伸展能力,即关节和关节系统的活动范围.
+    icon: https://oss.11train.com/icon/flexibility.png
+
+  - title: 其他类型
+    content: 不属于以上选项的训练类型.
+    icon: https://oss.11train.com/icon/other.png
+
+
+# 教练端
+c_training_type:
+  - title: 力量训练
+    content: 通过多组负重练习达到改善肌肉,耐力和形状的运动方式.
+    icon: https://oss.11train.com/icon/c_power.png
+
+  - title: 有氧运动
+    content: 指人体在氧气充分供给的情况下进行的锻炼.如:慢跑,骑车等.
+    icon: https://oss.11train.com/icon/c_aerobic.png
+
+  - title: 核心训练
+    content: 核心训练位躯干部的审查肌肉群的耐力训练,能起到稳定性的作用.
+    icon: https://oss.11train.com/icon/c_core.png
+
+  - title: 体能训练
+    content: 通过力量,速度,耐力,协调,灵敏等运动素质表现出的运动能力.
+    icon: https://oss.11train.com/icon/c_physical.png
+
+  - title: 康复训练
+    content: 采用适量,定向,有针对性的机体运动来帮助身体恢复到正常状态.
+    icon: https://oss.11train.com/icon/c_rehabilitation.png
+
+  - title: 柔韧性改善
+    content: 指人体关节活动幅度和关节韧带,肌腱,肌肉,皮肤和其他组织的伸展能力,即关节和关节系统的活动范围.
+    icon: https://oss.11train.com/icon/c_flexibility.png
+
+  - title: 其他类型
+    content: 不属于以上选项的训练类型.
+    icon: https://oss.11train.com/icon/c_other.png

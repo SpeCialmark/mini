@@ -1,0 +1,47 @@
+# 官网文案及图片
+index:
+  - title: 1.顾客第一次认识你的健身房,只能靠街头传单?
+    problem: 会籍满头大汗在街头派传单
+    solve: 智能名片, 微信群转发和分享
+    comic: https://oss.11train.com/web/comic-1.png
+
+  - title: 2.传单太小,室内设计没法展示?
+    problem: 小传单只能展示很小的一块.
+    solve: 专业的摄影团队,全面展示.
+    comic: https://oss.11train.com/web/comic-2.png
+
+  - title: 3.新手会员不会练,无处下手?
+    problem: 会员呆站着,看着器械无处下手.
+    solve: 扫码看教学视频,跟着私教学.
+    comic: https://oss.11train.com/web/comic-3.png
+
+  - title: 4.会员不知道有那么多的团课?
+    problem: 传单中课程表挤在小小一块.
+    solve: 扫码看课表,线上更全面.
+    comic: https://oss.11train.com/web/comic-4.png
+
+  - title: 5.会员约课,要下载app半天?
+    problem: 会员在等待app下载.
+    solve: 一切都在微信中搞定.
+    comic: https://oss.11train.com/web/comic-5.png
+
+  - title: 6.公告,会员只能走到门口才看到?
+    problem: 公告贴在前台.
+    solve: 公告,精彩动态随时查看.
+    comic: https://oss.11train.com/web/comic-6.png
+
+  - title: 7.潜在顾客麻木,避开派传单?
+    problem: 潜在顾客眼神鄙视,远远避开派传单的会籍.
+    solve: 朋友圈广告,三公里内的潜在用户一网打尽.
+    comic: https://oss.11train.com/web/comic-7.png
+
+  - title: 8.线上,顾客只有上美团大众才能看到你的健身房?
+    problem: 往美团大众充几万,肉疼.
+    solve: 完全属于自己的线上品牌,享受小程序品牌溢价.
+    comic: https://oss.11train.com/web/comic-8.png
+
+phone_banner:
+  - https://oss.11train.com/web/phone-banner3.png
+
+pc_banner:
+  - https://oss.11train.com/web/banner1.png

@@ -1,0 +1,236 @@
+exercises:
+- data:
+    id: 120001
+    full_name: 'Landmine Press'
+    title: '地雷架推肩'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Landmine_Press.svg'
+      F: 'Landmine_Press-1.svg'
+    primary_mg:
+    - 'chest'
+    - 'shoulders'
+    secondary_mg:
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 120002
+    full_name: 'Lateral / Side Shoulder Dumbbell Raises / Power Partials'
+    title: '哑铃侧平举'
+    name_en: 'Lateral / Side Shoulder Dumbbell Raises'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Dumbbell_Lateral_Raise_Power-Partials_M.svg'
+      F: 'Dumbbell_Lateral_Raise_Power-Partials_F.svg'
+    primary_mg:
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 120003
+    full_name: 'Lateral Raise Machine'
+    title: '器械侧平举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Lateral_Raise_Machine_M.svg'
+      F: 'Lateral_Raise_Machine_F.svg'
+    primary_mg:
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 120004
+    full_name: 'Leg Press / Machine Squat Press'
+    title: '腿部推举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Leg_press_M.svg'
+      F: 'Leg_press_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 120005
+    full_name: 'Leg Press Machine Calf Raises'
+    title: '腿举器械提踵'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Calf_Raises_on_Leg_Press_MachineCalf_Raises_on_Leg_Press_Machine.svg'
+      F: 'Calf_Raises_on_Leg_Press_Machine.svg'
+    primary_mg:
+    - 'calves'
+    secondary_mg:
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 120006
+    full_name: 'Leg Pull-In Knee-ups'
+    title: '坐姿收腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Leg_Pull-In_Knee-up_M.svg'
+      F: 'Leg_Pull-In_Knee-up_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 120007
+    full_name: 'Low Upward Cable Pulley Crossover Chest Flyes'
+    title: '绳索上拉飞鸟'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Low_Upward_Cable_Pulley_Crossover_Chest_Flyes.svg'
+      F: 'Low_Upward_Cable_Pulley_Crossover_Chest_Flyes-1.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 120008
+    full_name: 'Lunge / Front Kicks'
+    title: '弓步踢'
+    record_method: 'reps'
+    pictures:
+      M: 'Lunge_Kicks_M.svg'
+      F: 'Lunge_Kicks_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 120009
+    full_name: 'Lunge Twists'
+    title: '哑铃弓步转体'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Lunge_Twist_M.svg'
+      F: 'Lunge_Twist_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'obliques'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 120010
+    full_name: 'Lunging / Lunge with Bicep Hammer Curls'
+    title: '哑铃弓步锤式弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Lunging_Lunge_with_Bicep_Curls.svg'
+      F: 'Lunging_Lunge_with_Bicep_Curls-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 120011
+    full_name: 'Lying Dumbbell Tricep Extensions'
+    title: '仰卧哑铃肱三头肌屈伸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Lying_Tricep_Extension_M.svg'
+      F: 'Lying_Tricep_Extension_F.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+
+    related_exs: []
+- data:
+    id: 120012
+    full_name: 'Lying Face Down Plate Neck Resistance'
+    title: '俯卧负重前仰'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Lying_Face_Down_Plate_Neck_Resistance_M.svg'
+      F: 'Lying_Face_Down_Plate_Neck_Resistance_F.svg'
+    primary_mg:
+    - 'neck-upper-traps'
+
+    related_exs: []
+- data:
+    id: 120013
+    full_name: 'Lying Leg Curls'
+    title: '俯卧腿弯举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Lying_Leg_Curls_M.svg'
+      F: 'Lying_Leg_Curls_F.svg'
+    primary_mg:
+    - 'hamstrings'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 120014
+    full_name: 'Lying Leg Raises / Lifts'
+    title: '平板仰卧举腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Lying_Leg_Raise_M.svg'
+      F: 'Lying_Leg_Raise_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 120015
+    full_name: 'Lying Side Leg Lifts / Lateral Raises / Hip Abductors / Adductors'
+    title: '躺姿侧抬腿'
+    record_method: 'reps'
+    pictures:
+      M: 'lying_side_leg_lift_M.svg'
+      F: 'lying_side_leg_lift_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+
+# 2017-12
+
+    related_exs: []
+- data:
+    id: 120016
+    full_name: 'L-Sit Pull Ups'
+    title: 'L姿势引体向上'
+    record_method: 'reps'
+    pictures:
+      M: 'L-Sit_Pull_Ups.svg'
+      F: 'L-Sit_Pull_Ups-1.svg'
+    primary_mg:
+    - 'middle-back-lats'
+    secondary_mg:
+    - 'abs'
+    - 'biceps'
+    related_exs: []

@@ -1,0 +1,17 @@
+manager:
+- data:
+    id: 6
+    phone_number: '18688967466'
+    biz_id: 2
+- data:
+    id: 7
+    phone_number: '18565745207'
+    biz_id: 2
+- data:
+    id: 8
+    phone_number: '13557294248'
+    biz_id: 2
+- data:
+    id: 9
+    phone_number: '18603021440'
+    biz_id: 2

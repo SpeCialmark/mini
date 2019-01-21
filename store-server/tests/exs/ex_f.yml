@@ -1,0 +1,281 @@
+exercises:
+- data:
+    id: 60001
+    full_name: 'Face Pull / Rear Delt Pull'
+    title: '绳索面拉'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Face_pull_M.svg'
+      F: 'Face_pull_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 60002
+    full_name: 'Farmer’s Walk / Carry'
+    title: '哑铃负重行走'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Farmers_Walk_Carry.svg'
+      F: 'Farmers_Walk_Carry-1.svg'
+    primary_mg:
+    - 'forearms'
+    - 'neck-upper-traps'
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 60003
+    full_name: 'Fire Hydrants / Abductor / Adductor Knee Raises'
+    title: '消防栓式'
+    record_method: 'reps'
+    pictures:
+      M: 'Fire_Hydrants_M.svg'
+      F: 'Fire_Hydrants_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 60004
+    full_name: 'Flat Bench Barbell Skull Crushers'
+    title: '仰卧杠铃肱三头肌屈伸'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Flat_Bench_Barbell_Skull_Crushers.svg'
+      F: 'Flat_Bench_Barbell_Skull_Crushers-1.svg'
+    primary_mg:
+    - 'triceps'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 60005
+    full_name: 'Flat Bench Dumbbell Flyes'
+    title: '哑铃飞鸟'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Flat_Bench_Dumbbell_Fly_M.svg'
+      F: 'Flat_Bench_Dumbbell_Fly_F.svg'
+    primary_mg:
+    - 'chest'
+    secondary_mg:
+    - 'abs'
+    - 'shoulders'
+    - 'triceps'
+
+    related_exs: []
+- data:
+    id: 60006
+    full_name: 'Flutter Kicks'
+    title: '俯卧交替抬腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Flutter_Kicks_M.svg'
+      F: 'Flutter_Kicks_F.svg'
+    primary_mg:
+    - 'abs'
+    secondary_mg:
+    - 'glutes-hip-flexors'
+    related_exs: []
+- data:
+    id: 60007
+    full_name: 'Foam Roller Calf / Calves Stretch'
+    title: '泡沫轴小腿放松'
+    record_method: 'time'
+    pictures:
+      M: 'Foam_Roller_Calves_Stretch.svg'
+      F: 'Foam_Roller_Calves_Stretch-1.svg'
+    primary_mg:
+    - 'calves'
+
+
+    related_exs: []
+- data:
+    id: 60008
+    full_name: 'Foam Roller Chest Opener Stretch'
+    title: '泡沫轴胸部放松'
+    record_method: 'time'
+    pictures:
+      M: 'Foam_Roller_Chest_Opener_Stretch.svg'
+      F: 'Foam_Roller_Chest_Opener_Stretch-1.svg'
+    primary_mg:
+    - 'chest'
+
+
+    related_exs: []
+- data:
+    id: 60009
+    full_name: 'Foam Roller Glutes / Butt Stretch'
+    title: '泡沫轴臀部放松'
+    record_method: 'time'
+    pictures:
+      M: 'Foam_Roller_Glutes_Butt_Stretch.svg'
+      F: 'Foam_Roller_Glutes_Butt_Stretch-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+
+    related_exs: []
+- data:
+    id: 60010
+    full_name: 'Foam Roller Hamstring Stretch'
+    title: '泡沫轴大腿放松'
+    record_method: 'time'
+    pictures:
+      M: 'Foam_Roller_Hamstring_Stretch.svg'
+      F: 'Foam_Roller_Hamstring_Stretch-1.svg'
+    primary_mg:
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 60011
+    full_name: 'Foam Roller Inner Thigh Adductor / Adduction Stretch'
+    title: '泡沫轴内收肌放松'
+    record_method: 'time'
+    pictures:
+      M: 'Foam_Roller_Adductor_Stretch.svg'
+      F: 'Foam_Roller_Adductor_Stretch-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+
+
+    related_exs: []
+- data:
+    id: 60012
+    full_name: 'Foam Roller Lower Back Stretch'
+    title: '泡沫轴下背放松'
+    record_method: 'time'
+    pictures:
+      M: 'Foam_Roller_Lower_Back_Stretch.svg'
+      F: 'Foam_Roller_Lower_Back_Stretch-1.svg'
+    primary_mg:
+    - 'lower-back'
+
+    related_exs: []
+- data:
+    id: 60013
+    full_name: 'Foam Roller Outer Thighs Stretch'
+    title: '泡沫轴外大腿放松'
+    record_method: 'time'
+    pictures:
+      M: 'Foam_Roller_Outer_Thighs_Stretch.svg'
+      F: 'Foam_Roller_Outer_Thighs_Stretch-1.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 60014
+    full_name: 'Foam Roller Quadriceps Stretch'
+    title: '泡沫轴股四头肌放松'
+    record_method: 'time'
+    pictures:
+      M: 'Foam_Roller_Quadriceps_Stretch.svg'
+      F: 'Foam_Roller_Quadriceps_Stretch-1.svg'
+    primary_mg:
+    - 'quadriceps'
+
+    related_exs: []
+- data:
+    id: 60015
+    full_name: 'Foam Roller Upper Back Stretch'
+    title: '泡沫轴上背放松'
+    record_method: 'time'
+    pictures:
+      M: 'Foam_Roller_Upper_Back_Stretch.svg'
+      F: 'Foam_Roller_Upper_Back_Stretch-1.svg'
+    primary_mg:
+    - 'upper-back-lower-traps'
+
+
+    related_exs: []
+- data:
+    id: 60016
+    full_name: 'Forward / Front Shoulder Dumbbell Raises'
+    title: '单臂哑铃前平举'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Forward_Dumbbell_Raise_M.svg'
+      F: 'Forward_Dumbbell_Raise_F.svg'
+    primary_mg:
+    - 'shoulders'
+    secondary_mg:
+    - 'abs'
+    related_exs: []
+- data:
+    id: 60017
+    full_name: 'Forward Leg Hip Swings'
+    title: '前后摆腿'
+    record_method: 'reps'
+    pictures:
+      M: 'Forward_Leg_Hip_Swings_M.svg'
+      F: 'Forward_Leg_Hip_Swings_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    secondary_mg:
+    - 'abs'
+
+    related_exs: []
+- data:
+    id: 60018
+    full_name: 'Frog Jumps'
+    title: '蛙跳'
+    record_method: 'reps'
+    pictures:
+      M: 'Frog_Jump_M.svg'
+      F: 'Frog_Jump_F.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'calves'
+
+    related_exs: []
+- data:
+    id: 60019
+    full_name: 'Front Barbell Squats'
+    title: '杠铃前蹲'
+    record_method: 'weight*reps'
+    pictures:
+      M: 'Front_Squat_M.svg'
+      F: 'Front_Squat_F.svg'
+    primary_mg:
+    - 'glutes-hip-flexors'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'hamstrings'
+
+    related_exs: []
+- data:
+    id: 60020
+    full_name: 'Front Kicks'
+    title: '前踢'
+    record_method: 'reps'
+    pictures:
+      M: 'Front_Kicks_M.svg'
+      F: 'Front_Kicks_F.svg'
+    primary_mg:
+    - 'hamstrings'
+    - 'quadriceps'
+    secondary_mg:
+    - 'abs'
+    - 'calves'
+    - 'glutes-hip-flexors'
+
+    related_exs: []
